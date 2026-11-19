@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1064ba19",
+    "title": "Smartphone Xiaomi Redmi Note 13 128GB 6GB RAM Preto",
+    "description": "🔥 Smartphone Xiaomi Redmi Note 13 128GB 6GB RAM Preto De R$ 1.399,00 por apenas R$ 989,00 com frete grátis! Use o cupom: NOTE10 🛒 Compre aqui: https://www.amazon.com.br/dp/B0CQMHW7...",
+    "originalPrice": 1399.0,
+    "currentPrice": 989.0,
+    "discountPercentage": 29,
+    "couponCode": "NOTE10",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CQMHW76M?tag=loucuradeo0dc-20",
+    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": true,
+    "installment": null,
+    "createdAt": "2026-11-19T05:11:22.260223+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-1",
     "title": "Monitor Gamer AOC Hero 24\" 144Hz 1ms IPS FreeSync Ajuste de Altura",
     "description": "Excelente custo-benefício para games competitivos. Painel IPS com cores vivas e taxa de atualização ultra fluida.",
