@@ -40,7 +40,13 @@ export const App: React.FC = () => {
   useEffect(() => {
     const fetchLatestDeals = async () => {
       try {
-        const res = await fetch('/deals.json');
+        const res = await fetch(`/deals.json?t=${Date.now()}`, {
+          cache: 'no-store',
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache'
+          }
+        });
         if (res.ok) {
           const data = await res.json();
           if (Array.isArray(data) && data.length > 0) {
@@ -57,7 +63,13 @@ export const App: React.FC = () => {
   const handleRefresh = async () => {
     setIsRefreshing(true);
     try {
-      const res = await fetch('/deals.json?t=' + Date.now());
+      const res = await fetch(`/deals.json?t=${Date.now()}`, {
+        cache: 'no-store',
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      });
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
