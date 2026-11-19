@@ -27,8 +27,7 @@ export const HeroBanner: React.FC = () => {
 
             <p className="mt-4 text-sm sm:text-base text-slate-300 leading-relaxed">
               Curadoria humana e monitoramento inteligente dos maiores e-commerces do Brasil:
-              <strong className="text-white"> Amazon, Shopee, Mercado Livre e Magalu</strong>. 
-              Garantimos apenas promoções ativas e links 100% seguros.
+              <strong className="text-white"> Amazon, Shopee, Mercado Livre e Magalu</strong>.
             </p>
 
             {/* Badges of trust */}
