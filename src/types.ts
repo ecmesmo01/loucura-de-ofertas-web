@@ -12,11 +12,11 @@ export type CategoryType =
 export interface Deal {
   id: string;
   title: string;
-  description?: string;
-  originalPrice?: number;
+  description?: string | null;
+  originalPrice?: number | null;
   currentPrice: number;
-  discountPercentage?: number;
-  couponCode?: string;
+  discountPercentage?: number | null;
+  couponCode?: string | null;
   affiliateUrl: string;
   imageUrl: string;
   store: StoreType;
@@ -24,7 +24,7 @@ export interface Deal {
   isHot?: boolean;
   isVerified?: boolean;
   freeShipping?: boolean;
-  installment?: string;
+  installment?: string | null;
   createdAt: string;
   likesCount?: number;
 }
