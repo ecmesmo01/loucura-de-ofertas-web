@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Deal } from '../types';
 import { 
   ExternalLink, 
@@ -21,6 +21,21 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
   const [copied, setCopied] = useState(false);
   const [liked, setLiked] = useState(false);
   const [likeCount, setLikeCount] = useState(deal.likesCount || 0);
+
+  const resolveImageUrl = (url?: string | null) => {
+    if (!url) return 'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&auto=format&fit=crop&q=80';
+    if (url.startsWith('/images/deals/')) {
+      // Prioritize raw GitHub CDN for instant sub-second delivery of new telegram photos
+      return `https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public${url}`;
+    }
+    return url;
+  };
+
+  const [imgSrc, setImgSrc] = useState<string>(() => resolveImageUrl(deal.imageUrl));
+
+  useEffect(() => {
+    setImgSrc(resolveImageUrl(deal.imageUrl));
+  }, [deal.imageUrl]);
 
   const handleCopyCoupon = (e: React.MouseEvent) => {
     e.preventDefault();
@@ -142,10 +157,17 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
 
         {/* Product Image */}
         <img
-          src={deal.imageUrl}
+          src={imgSrc}
           alt={deal.title}
           loading="lazy"
           className="object-contain w-full h-full group-hover:scale-105 transition-transform duration-300 mix-blend-multiply dark:mix-blend-normal"
+          onError={() => {
+            if (imgSrc.includes('raw.githubusercontent.com') && deal.imageUrl) {
+              setImgSrc(deal.imageUrl);
+            } else {
+              setImgSrc('https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&auto=format&fit=crop&q=80');
+            }
+          }}
         />
 
         {deal.isVerified && (
