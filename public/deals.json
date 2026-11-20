@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-abe8162d",
+    "title": "Cadeira de Escritório Ergonômica Python Fly Amarelo com Suporte Lombar e Encosto Ajustável NR-17",
+    "description": "🪑 **Cadeira de Escritório Ergonômica Python Fly Amarelo com Suporte Lombar e Encosto Ajustável NR-17**  Procurando mais conforto e produtividade para o seu home office ou escritóri...",
+    "originalPrice": 599.0,
+    "currentPrice": 277.75,
+    "discountPercentage": 54,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DG5JXLHB?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-abe8162d.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T14:57:12.366141+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-bcb6a8b3",
     "title": "Suplemento em Pó Dux Nutrition Hydrolite Carboidratos Sabor Limão Pote 1000g",
     "description": "⚡ **Suplemento em Pó Dux Nutrition Hydrolite Carboidratos Sabor Limão Pote 1000g**  Garanta o máximo de performance nos seus treinos com reposição rápida e eficiente de energia!...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T12:11:44.323370+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9209de27",
-    "title": "Water Cooler DeepCool LE360 V2 Zero Black 3400 RPM",
-    "description": "🔥 **Water Cooler DeepCool LE360 V2 Zero Black 3400 RPM**  Mantenha a temperatura do seu setup sob controle com máximo desempenho e um visual stealth impressionante! O **DeepCool LE...",
-    "originalPrice": null,
-    "currentPrice": 377.0,
-    "discountPercentage": null,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/refrigeracao-preta-deepcool-le360-v2-zero-black-3400-rpm/p/MLB69000361?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-9209de27.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:11:44.052635+00:00",
     "likesCount": 1
   }
 ]
