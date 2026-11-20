@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d7b0af98",
+    "title": "Robô Aspirador de Pó Inteligente S40C Xiaomi Branco (XM865BRA)",
+    "description": "🤖 **Robô Aspirador de Pó Inteligente S40C Xiaomi Branco (XM865BRA)**  Mantenha sua casa impecável todos os dias sem mover um dedo! O robô aspirador da Xiaomi conta com navegação in...",
+    "originalPrice": null,
+    "currentPrice": 1140.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F4K1H6X5?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-d7b0af98.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T17:54:15.873856+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-203e9505",
     "title": "Tênis Oakley Attack Masculino",
     "description": "🔥 **Tênis Oakley Attack Masculino**  Procurando estilo, durabilidade e o máximo de conforto para o seu dia a dia ou para curtir momentos de lazer? O modelo da Oakley é a escolha pe...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T13:40:46.098512+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-bcadebd1",
-    "title": "Perfume Versace Eros EDT 200ml",
-    "description": "🔥 **Perfume Versace Eros EDT 200ml**  Procurando uma fragrância marcante, sofisticada e com aquela projeção que chama atenção por onde passa? O clássico Versace Eros em versão giga...",
-    "originalPrice": 986.0,
-    "currentPrice": 473.0,
-    "discountPercentage": 52,
-    "couponCode": "SITETODO2011",
-    "affiliateUrl": "https://www.mercadolivre.com.br/versace-eros-edt-200ml-para-masculino/p/MLB10421668?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-bcadebd1.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T13:36:48.403687+00:00",
     "likesCount": 1
   }
 ]
