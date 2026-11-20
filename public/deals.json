@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-505e102d",
+    "title": "Smartphone Apple iPhone 17 256GB Azul-névoa",
+    "description": "🔥 **Smartphone Apple iPhone 17 256GB Azul-névoa**  Se você estava esperando o momento certo para garantir o novo lançamento da Apple, essa é a sua chance! Preço incrível para levar...",
+    "originalPrice": null,
+    "currentPrice": 5273.1,
+    "discountPercentage": null,
+    "couponCode": "DEIXANDO",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQWF5JD1?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-505e102d.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T19:16:31.144670+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b2b519f1",
     "title": "Braé Stages Kit Nutrition 2 Produtos (Shampoo + Máscara)",
     "description": "✨ **Braé Stages Kit Nutrition 2 Produtos (Shampoo + Máscara)**  Seu cabelo está precisando daquele tratamento de salão em casa? Esse kit da Braé é especialista em devolver a nutriç...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T15:59:04.818249+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-03ed8d50",
-    "title": "Jogo 4 Toalhas de Banho Grossas Macias Algodão Absorventes",
-    "description": "🛁 **Jogo 4 Toalhas de Banho Grossas Macias Algodão Absorventes**  Renove o seu enxoval com esse jogo de toalhas super macias, de alta absorção e com a qualidade de Loja Oficial. Ch...",
-    "originalPrice": 139.0,
-    "currentPrice": 68.0,
-    "discountPercentage": 51,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4125132275-jogo-toalhas-banho-grossas-macias-algodo-4pc-absorventes-_JM?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-03ed8d50.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T15:58:51.119720+00:00",
     "likesCount": 1
   }
 ]
