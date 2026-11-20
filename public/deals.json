@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fba0b58f",
+    "title": "Caixa Térmica Mor 12 Litros Azul",
+    "description": "🔥 **Caixa Térmica Mor 12 Litros Azul**  Vai curtir a praia, o churrasco ou o próximo rolê? Garanta bebidas trincando por muito mais tempo com esse super preço! 🍻🧊  De R$ 119,00 📉 *...",
+    "originalPrice": 119.0,
+    "currentPrice": 52.0,
+    "discountPercentage": 56,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/caixa-termica-mor-12-litros-de-12l-azul/p/MLB37684232?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-fba0b58f.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T14:53:12.216017+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c5e9735e",
     "title": "Whey Core 70% Proteína Concentrada 900g - 30 Doses (Sabor Chocolate)",
     "description": "🔥 **Whey Core 70% Proteína Concentrada 900g - 30 Doses (Sabor Chocolate)**  Procurando aquele pós-treino saboroso e com excelente custo-benefício? O queridinho dos atletas acaba de...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-20T12:11:43.976879+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-fb0c27b3",
-    "title": "Smartphone Oppo A6T 128GB 12GB RAM",
-    "description": "📱 **Smartphone Oppo A6T 128GB 12GB RAM**  Procurando um celular com bateria para durar o dia todo, tela fluida e ótimo desempenho? O **Oppo A6T** vem equipado com bateria gigante d...",
-    "originalPrice": 200.0,
-    "currentPrice": 199.0,
-    "discountPercentage": null,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smartphone-oppo-a6t-128gb-12gb-ram-4gb-8gb-virtual-ram-bateria-gigante-de-6500mah-processador-snapdragon-tela-120hz-ai-camera-ip64-azul-cristal/p/MLB66447547?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-fb0c27b3.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:10:47.060885+00:00",
     "likesCount": 1
   }
 ]
