@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2d4e6309",
+    "title": "Tênis Aramis Deep II Branco",
+    "description": "👟 **Tênis Aramis Deep II Branco**  Para quem valoriza elegância e conforto no dia a dia, esse modelo da Aramis é a escolha perfeita. Um clássico versátil que eleva qualquer visual...",
+    "originalPrice": 328.0,
+    "currentPrice": 239.0,
+    "discountPercentage": 27,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5983803476-tnis-aramis-deep-ii-branco-_JM?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-2d4e6309.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T17:06:33.952556+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7c6d8156",
     "title": "Refil Loção Hidratante Corporal 3 Ceramidas 120h CeraVe 237ml",
     "description": "🔥 **Refil Loção Hidratante Corporal 3 Ceramidas 120h CeraVe 237ml**  Hidratação profunda e dermatologicamente recomendada pelo menor preço! Garanta o seu refil com mais de 50% de d...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T12:47:48.221249+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-7484fdda",
-    "title": "Placa de Vídeo ASRock Radeon RX 7600 Challenger Pro OC 8GB GDDR6 128-bit",
-    "description": "🔥 **Placa de Vídeo ASRock Radeon RX 7600 Challenger Pro OC 8GB GDDR6 128-bit**  Procurando o upgrade definitivo para o seu setup? A escolha perfeita para rodar os jogos mais recent...",
-    "originalPrice": null,
-    "currentPrice": 1829.0,
-    "discountPercentage": null,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/placa-de-video-asrock-radeon-rx-7600-challenger-pro-oc-8gb-gddr6-128-bit/p/MLB62406710?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-7484fdda.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:47:47.147259+00:00",
     "likesCount": 1
   }
 ]
