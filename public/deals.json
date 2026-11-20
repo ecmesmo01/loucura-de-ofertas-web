@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9e900e08",
+    "title": "Perfume Calvin Klein CK Be Eau de Toilette 100ml",
+    "description": "🔥 **Perfume Calvin Klein CK Be Eau de Toilette 100ml**  Uma das fragrâncias mais icônicas e versáteis do mundo com um desconto simplesmente inacreditável direto na Loja Oficial do...",
+    "originalPrice": 299.0,
+    "currentPrice": 151.0,
+    "discountPercentage": 49,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-ck-be-edt-100ml-calvin-klein/p/MLB6093755?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-9e900e08.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T17:08:42.067241+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-53dcb535",
     "title": "Câmera de Segurança Wi-Fi 2K 3MP 360° Mercusys MC210 (TP-Link)",
     "description": "📹 **Câmera de Segurança Wi-Fi 2K 3MP 360° Mercusys MC210 (TP-Link)**  Monitore sua casa em tempo real com alta definição e total cobertura 360°! Qualidade e tecnologia TP-Link para...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T12:48:45.507940+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3759be59",
-    "title": "Notebook Lenovo Ideapad Slim 3 Ryzen 7 8840hs 153 Wuxga 60hz Integrada Amd Radeon 780m Graphics 512g",
-    "description": "🔥 **Notebook Lenovo Ideapad Slim 3 Ryzen 7 8840HS 15.3\" WUXGA 8GB RAM 512GB SSD Linux Luna Grey 83TYS00500**  Procurando máxima performance para estudos, trabalho ou multitarefas p...",
-    "originalPrice": null,
-    "currentPrice": 3134.05,
-    "discountPercentage": null,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-lenovo-ideapad-slim-3-ryzen-7-8840hs-153-wuxga-60hz-integrada-amd-radeon-780m-graphics-512gb-ssd-pcie-8gb-ram-ddr5-5600-linux-luna-grey-83tys00500/p/MLB80161587?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-3759be59.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:47:49.942607+00:00",
     "likesCount": 1
   }
 ]
