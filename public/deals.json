@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d495526a",
+    "title": "Smart Lâmpada Wi-Fi Positivo Casa Inteligente RGB 9W",
+    "description": "💡 **Smart Lâmpada Wi-Fi Positivo Casa Inteligente RGB 9W**  Já pensou em transformar a iluminação da sua casa apenas com o som da sua voz? Com essa smart lâmpada da Positivo, você...",
+    "originalPrice": null,
+    "currentPrice": 25.21,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B082FTRR76?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-d495526a.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T14:11:14.139727+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4536b29c",
     "title": "Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B",
     "description": "🔥 **Monitor Gamer LG UltraGear 27\" FHD 144Hz IPS - 27G411B-B**  Procurando aquele upgrade definitivo no seu setup? O queridinho dos gamers está com um desconto absurdamente imperdí...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T11:48:45.292460+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a923b251",
-    "title": "Bundle Marvel's Spider-Man 2 + Miles Morales - PlayStation 5",
-    "description": "🎮 **Bundle Marvel's Spider-Man 2 + Miles Morales - PlayStation 5**  Leve a experiência definitiva do Aranha para o seu PS5 com este pacote imperdível! Jogue as duas aclamadas avent...",
-    "originalPrice": null,
-    "currentPrice": 250.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0G1TS4K54?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-a923b251.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T11:47:41.553874+00:00",
     "likesCount": 1
   }
 ]
