@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c77238d0",
+    "title": "Smartphone Apple iPhone 15 (128GB) — Preto",
+    "description": "🔥 **Smartphone Apple iPhone 15 (128GB) — Preto**  Aproveite essa oportunidade única para garantir o seu iPhone 15 com um desconto imperdível! Tecnologia de ponta, câmera avançada e...",
+    "originalPrice": 5999.0,
+    "currentPrice": 3799.1,
+    "discountPercentage": 37,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-c77238d0.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T18:10:44.430140+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-41136e4c",
     "title": "Deo Colônia Natura Kaiak Ultra Feminino 100 ml",
     "description": "🔥 **Deo Colônia Natura Kaiak Ultra Feminino 100 ml**  Procurando aquela fragrância marcante e refrescante com um super desconto? O queridinho da Natura está com um preço absurdo de...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T13:43:44.849266+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5842e087",
-    "title": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75ml Masculino",
-    "description": "🔥 **Perfume Jean Paul Gaultier Le Male Elixir Parfum 75ml Masculino**  Procurando uma fragrância marcante, sofisticada e com aquela fixação absurda que só a linha Le Male entrega?...",
-    "originalPrice": 799.0,
-    "currentPrice": 380.0,
-    "discountPercentage": 52,
-    "couponCode": "SITETODO2011",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-le-male-elixir-parfum-75-ml-masculino/p/MLB24630800?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-5842e087.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T13:43:43.654104+00:00",
     "likesCount": 1
   }
 ]
