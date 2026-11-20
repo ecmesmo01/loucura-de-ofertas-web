@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ad32d788",
+    "title": "Mochila Executiva Impermeável Reforçada 30-42L para Notebook",
+    "description": "🎒 **Mochila Executiva Impermeável Reforçada 30-42L para Notebook**  Procurando uma mochila super resistente, estilosa e extremamente espaçosa? Esse modelo expansível é perfeito par...",
+    "originalPrice": 216.0,
+    "currentPrice": 65.0,
+    "discountPercentage": 70,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/mochila-sem-genero-impermeavel-reforcada-com-capacidade-ampliada-de-30-42l-adequada-para-portatil-viagens-diarias-cor-preta/p/MLB75625924?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-ad32d788.jpg",
+    "store": "mercadolivre",
+    "category": "informatica",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-20T15:45:16.025723+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7fc91626",
     "title": "Smartwatch Amazfit Bip 6 Global com GPS Alexa e Tela AMOLED 1.97\"",
     "description": "🔥 **Smartwatch Amazfit Bip 6 Global com GPS Alexa e Tela AMOLED 1.97\"**  Quer monitorar seus treinos, receber notificações e ter assistente de voz direto no pulso com muita elegânc...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T12:23:50.703948+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-73366572",
-    "title": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
-    "description": "🔥 **Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4**  Procurando o upgrade definitivo para o seu setup? O Ryzen 7 5700X entrega alto desempenho para jogos pesados, mul...",
-    "originalPrice": null,
-    "currentPrice": 988.0,
-    "discountPercentage": null,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700x-34ghz-46ghz-max-turbo-am4/p/MLB19159879?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-73366572.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:21:52.301248+00:00",
     "likesCount": 1
   }
 ]
