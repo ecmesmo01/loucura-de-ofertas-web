@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fdc245b9",
+    "title": "Shampoo Eudora Siàge Hair-Plastia 250ml",
+    "description": "✨ **Shampoo Eudora Siàge Hair-Plastia 250ml**  Quer fios encorpados, alinhados e com aquele brilho espelhado de salão? 💇‍♀️✨   A linha Hair-Plastia usa Inteligência Artificial e Bi...",
+    "originalPrice": null,
+    "currentPrice": 28.48,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09HWQYPM2?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-fdc245b9.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-20T15:56:56.288179+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-dba6af76",
     "title": "Kit Jogo de Ferramentas 46 Peças Catraca e Soquetes com Maleta Completa",
     "description": "🔧 **Kit Jogo de Ferramentas 46 Peças Catraca e Soquetes com Maleta Completa**  Chegou a hora de resolver qualquer reparo em casa, no carro ou na moto com praticidade e sem depender...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T12:26:46.925658+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-dc78d9f3",
-    "title": "Ar-condicionado Split Inverter 12.000 BTU/h Prime Air Frio",
-    "description": "❄️ **Ar-condicionado Split Inverter 12.000 BTU/h Prime Air Frio**  Procurando conforto térmico com economia de energia na conta de luz? Essa é a hora certa para garantir o seu ar-c...",
-    "originalPrice": 2299.0,
-    "currentPrice": 1498.0,
-    "discountPercentage": 35,
-    "couponCode": "INOVATECHML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-12000-btuh-prime-air-f-12fc-cor-branco/p/MLB49209948?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-dc78d9f3.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T12:24:49.100745+00:00",
     "likesCount": 1
   }
 ]
