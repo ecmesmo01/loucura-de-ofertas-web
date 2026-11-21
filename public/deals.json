@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1db21fdf",
+    "title": "Smart TV HD 32\" LG LB650 AI 2026",
+    "description": "🔥 **Smart TV HD 32\" LG LB650 AI 2026**  Procurando uma TV inteligente e moderna para o quarto, sala ou escritório? Esse modelo da LG entrega imagens nítidas, inteligência artificia...",
+    "originalPrice": null,
+    "currentPrice": 997.49,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0H5F85BZC?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-1db21fdf.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-21T17:21:59.076030+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6a460502",
     "title": "Bicicleta Elétrica Honeywhale B20 Dobrável 440W ARO 14\"",
     "description": "🚲 **Bicicleta Elétrica Honeywhale B20 Dobrável 440W ARO 14\"**  Procurando mobilidade urbana prática, econômica e sem esforço? Essa é a oportunidade perfeita para garantir sua e-bik...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-21T12:19:42.372424+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-33841891",
-    "title": "Máscara Capilar em Creme Eudora Siàge Nutri Rosé, 250g",
-    "description": "🌸 **Máscara Capilar em Creme Eudora Siàge Nutri Rosé, 250g**  Sabe aquele tratamento de salão que deixa o cabelo impecável? Essa máscara garante nutrição profunda, reparação imedia...",
-    "originalPrice": 76.0,
-    "currentPrice": 41.77,
-    "discountPercentage": 45,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CGQP2JS5?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-33841891.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-21T12:19:41.036531+00:00",
     "likesCount": 1
   }
 ]
