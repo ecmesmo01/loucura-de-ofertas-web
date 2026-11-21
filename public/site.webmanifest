@@ -1,0 +1,17 @@
+{
+  "name": "Loucura de Ofertas",
+  "short_name": "LoucuraOfertas",
+  "description": "Portal Oficial de Curadoria de Ofertas, Promoções e Cupons Verificados no Brasil.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#dc2626",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

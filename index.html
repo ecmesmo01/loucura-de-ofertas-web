@@ -2,37 +2,116 @@
 <html lang="pt-BR">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Loucura de Ofertas | As Melhores Promoções e Cupons Verificados</title>
-    <meta name="description" content="Portal de curadoria de ofertas, promoções e cupons testados das maiores lojas: Amazon, Shopee, Mercado Livre e Magalu. Economize de verdade!" />
+
+    <!-- SEO Primário -->
+    <title>Loucura de Ofertas | As Melhores Promoções, Cupons e Descontos do Brasil</title>
+    <meta name="title" content="Loucura de Ofertas | As Melhores Promoções, Cupons e Descontos do Brasil" />
+    <meta name="description" content="Portal oficial de curadoria de ofertas, promoções relâmpago e cupons de desconto verificados da Amazon, Mercado Livre, Shopee e Magalu. Economize de verdade todos os dias!" />
+    <meta name="keywords" content="ofertas, promoções, cupons de desconto, cupom mercado livre, cupom amazon, cupom shopee, descontos, frete grátis, loucura de ofertas, achados do dia, liquidação" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <meta name="author" content="Loucura de Ofertas" />
+    <meta name="publisher" content="Loucura de Ofertas" />
     <meta name="theme-color" content="#dc2626" />
     <link rel="canonical" href="https://www.loucuradeofertas.com.br/" />
 
+    <!-- Favicon & PWA Icons -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="alternate icon" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/favicon.svg" />
+    <link rel="manifest" href="/site.webmanifest" />
+
     <!-- Open Graph / Facebook / WhatsApp -->
+    <meta property="og:locale" content="pt_BR" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://www.loucuradeofertas.com.br/" />
-    <meta property="og:title" content="Loucura de Ofertas | As Melhores Promoções e Cupons Verificados" />
-    <meta property="og:description" content="Portal de curadoria de ofertas, promoções e cupons testados das maiores lojas: Amazon, Shopee, Mercado Livre e Magalu. Economize de verdade!" />
+    <meta property="og:title" content="Loucura de Ofertas | Melhores Promoções e Cupons do Brasil" />
+    <meta property="og:description" content="Portal oficial de curadoria com descontos reais e cupons testados da Amazon, Mercado Livre e Shopee. Aproveite as melhores pechinchas verificadas!" />
     <meta property="og:site_name" content="Loucura de Ofertas" />
+    <meta property="og:image" content="https://www.loucuradeofertas.com.br/og-image.png" />
+    <meta property="og:image:secure_url" content="https://www.loucuradeofertas.com.br/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Loucura de Ofertas - As Melhores Promoções e Cupons Verificados" />
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image" />
-    <meta property="twitter:url" content="https://www.loucuradeofertas.com.br/" />
-    <meta property="twitter:title" content="Loucura de Ofertas | As Melhores Promoções e Cupons Verificados" />
-    <meta property="twitter:description" content="Portal de curadoria de ofertas, promoções e cupons testados das maiores lojas: Amazon, Shopee, Mercado Livre e Magalu. Economize de verdade!" />
-    <!-- Preconnect Fonts -->
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.loucuradeofertas.com.br/" />
+    <meta name="twitter:title" content="Loucura de Ofertas | Melhores Promoções e Cupons do Brasil" />
+    <meta name="twitter:description" content="Ofertas verificadas e cupons reais das maiores lojas: Amazon, Mercado Livre e Shopee. Economize agora!" />
+    <meta name="twitter:image" content="https://www.loucuradeofertas.com.br/og-image.png" />
+    <meta name="twitter:image:alt" content="Banner Oficial Loucura de Ofertas" />
+
+    <!-- Fontes Preconnect -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- Redirecionamento canônico de apex para www -->
     <script>
       if (window.location.hostname === 'loucuradeofertas.com.br') {
         window.location.replace('https://www.loucuradeofertas.com.br' + window.location.pathname + window.location.search);
       }
     </script>
+
+    <!-- Dados Estruturados Schema.org (JSON-LD) para o Google -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "WebSite",
+          "@id": "https://www.loucuradeofertas.com.br/#website",
+          "url": "https://www.loucuradeofertas.com.br/",
+          "name": "Loucura de Ofertas",
+          "alternateName": ["LoucuraDeOfertas", "Loucura Ofertas"],
+          "description": "Portal Oficial de Curadoria de Ofertas, Promoções e Cupons Verificados no Brasil.",
+          "inLanguage": "pt-BR",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": {
+              "@type": "EntryPoint",
+              "urlTemplate": "https://www.loucuradeofertas.com.br/?q={search_term_string}"
+            },
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "Organization",
+          "@id": "https://www.loucuradeofertas.com.br/#organization",
+          "name": "Loucura de Ofertas",
+          "url": "https://www.loucuradeofertas.com.br/",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://www.loucuradeofertas.com.br/favicon.svg",
+            "caption": "Loucura de Ofertas"
+          },
+          "sameAs": [
+            "https://t.me/loucuradeofertas"
+          ]
+        }
+      ]
+    }
+    </script>
   </head>
   <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen font-sans antialiased selection:bg-red-500 selection:text-white transition-colors duration-200">
     <div id="root"></div>
+
+    <noscript>
+      <div style="max-width: 800px; margin: 40px auto; padding: 24px; text-align: center; font-family: sans-serif; background: #ffffff; border-radius: 12px; border: 1px solid #e2e8f0; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1);">
+        <h1 style="color: #dc2626; font-size: 28px; margin-bottom: 12px;">Loucura de Ofertas - As Melhores Promoções e Cupons</h1>
+        <p style="color: #475569; font-size: 16px; line-height: 1.6;">
+          Bem-vindo ao <strong>Loucura de Ofertas</strong>! Monitoramos 24 horas por dia os melhores descontos, promoções relâmpago e cupons testados das principais lojas do Brasil: <strong>Amazon, Mercado Livre e Shopee</strong>.
+        </p>
+        <p style="color: #64748b; font-size: 14px; margin-top: 16px;">
+          Para navegar pelas ofertas interativas e filtros em tempo real, ative o JavaScript no seu navegador ou entre diretamente em nosso canal oficial no Telegram:
+        </p>
+        <a href="https://t.me/loucuradeofertas" style="display: inline-block; margin-top: 16px; padding: 12px 24px; background: #2563eb; color: #ffffff; text-decoration: none; border-radius: 8px; font-weight: bold;">
+          📢 Acessar Canal de Ofertas no Telegram
+        </a>
+      </div>
+    </noscript>
+
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
