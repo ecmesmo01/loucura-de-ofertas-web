@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4cb75168",
+    "title": "Micro-ondas 20L Branco MasterCook Midea 110V",
+    "description": "🔥 **Micro-ondas 20L Branco MasterCook Midea 110V**  Procurando praticidade para o seu dia a dia na cozinha? Esse modelo da Midea une design moderno e eficiência para o preparo rápi...",
+    "originalPrice": null,
+    "currentPrice": 315.74,
+    "discountPercentage": null,
+    "couponCode": "20BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FGZ6FCGY?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-4cb75168.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-21T14:59:53.710293+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3be29a80",
     "title": "Tênis New Balance FuelCell Rebel V5 Masculino",
     "description": "🏃‍♂️ **Tênis New Balance FuelCell Rebel V5 Masculino**  Procurando o tênis perfeito para elevar o nível dos seus treinos e corridas? O aclamado Rebel V5 chegou com um desconto absu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-21T11:22:14.173841+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-843e74b1",
-    "title": "Perfume Masculino Emporio Armani Stronger With You 50ml",
-    "description": "🔥 **Perfume Masculino Emporio Armani Stronger With You 50ml**  Procurando aquela fragrância marcante, sofisticada e inesquecível? O clássico da Armani está com um desconto surreal...",
-    "originalPrice": 549.0,
-    "currentPrice": 258.0,
-    "discountPercentage": 53,
-    "couponCode": "20BLACKPRIME",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0719S9TPB?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-843e74b1.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-21T11:22:14.059587+00:00",
     "likesCount": 1
   }
 ]
