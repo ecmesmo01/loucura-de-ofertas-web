@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0b8562f7",
+    "title": "50% de desconto",
+    "description": "🎟️ **Cupom de Desconto Amazon (Primeira Compra)**  Se você vai fazer sua primeira compra na Amazon, aproveite essa oportunidade exclusiva! Garanta **50% de desconto** (limitado a R...",
+    "originalPrice": null,
+    "currentPrice": 50.0,
+    "discountPercentage": null,
+    "couponCode": "NATORCIDA",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CJ9NVNW6?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-0b8562f7.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-21T20:29:05.925015+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-29dd92f3",
     "title": "Ar Condicionado 12000 Btus Hw Invert Tcl Frio Breezein 220v Branco",
     "description": "🔥 **Ar Condicionado 12000 Btus Hw Invert Tcl Frio Breezein 220v Branco**  Quer garantir o clima perfeito na sua casa o ano todo com economia e eficiência? Esse modelo da TCL traz t...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-21T15:44:42.597517+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d1711538",
-    "title": "Hiper Mass 1kg Growth Supplements - Sabor Chocolate",
-    "description": "🔥 **Hiper Mass 1kg Growth Supplements - Sabor Chocolate**  Quer dar aquele gás nos seus treinos e conquistar seus objetivos de ganho de massa? O hipercalórico oficial da Growth na...",
-    "originalPrice": 78.0,
-    "currentPrice": 59.0,
-    "discountPercentage": 24,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/hiper-mass-1kg-growth-supplements-sabor-chocolate/p/MLB23928135?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-d1711538.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-21T15:44:04.947250+00:00",
     "likesCount": 1
   }
 ]
