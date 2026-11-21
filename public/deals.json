@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e95fc2e0",
+    "title": "Echo Spot com Alexa (Geração mais recente) - Cor Preta",
+    "description": "🔥 **Echo Spot com Alexa (Geração mais recente) - Cor Preta**  Transforme sua rotina com o despertador inteligente mais completo! Desfrute de um som vibrante para suas músicas, visu...",
+    "originalPrice": 899.0,
+    "currentPrice": 368.1,
+    "discountPercentage": 59,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-e95fc2e0.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-21T11:07:06.887359+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d97520ee",
     "title": "Kit 10 Potes 1 Litro Transparente Marmita Fitness BPA Free Tampa Hermética Ponte Lar Utilidades",
     "description": "📦 **Kit 10 Potes 1 Litro Transparente Marmita Fitness BPA Free Tampa Hermética Ponte Lar Utilidades**  Quer praticidade na cozinha e na sua rotina fitness? Chegou a solução perfeit...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-20T18:39:22.251860+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2da8c9a6",
-    "title": "Relógio Smartwatch Garmin Forerunner 165 Branco com Cinza 43mm (GPS e Monitor Cardíaco)",
-    "description": "🏃‍♂️ **Relógio Smartwatch Garmin Forerunner 165 Branco com Cinza 43mm (GPS e Monitor Cardíaco)**  Projetado para quem leva a sério a evolução nos treinos, este smartwatch combina m...",
-    "originalPrice": null,
-    "currentPrice": 1799.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CT3VBDTV?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-2da8c9a6.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-20T18:39:21.604107+00:00",
     "likesCount": 1
   }
 ]
