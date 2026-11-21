@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://loucuradeofertas.com.br/sitemap.xml
+Sitemap: https://www.loucuradeofertas.com.br/sitemap.xml
