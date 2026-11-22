@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-982a6a20",
+    "title": "Apple iPhone 15 (128GB) — Azul",
+    "description": "🔥 **Apple iPhone 15 (128GB) — Azul**  Procurando o smartphone perfeito para o seu dia a dia? O iPhone 15 traz um design incrível, câmera avançada e desempenho impecável que só a Ap...",
+    "originalPrice": null,
+    "currentPrice": 3499.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CP6CR795?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-982a6a20.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-22T19:44:59.083132+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-eff1fd15",
     "title": "Echo Dot Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso ",
     "description": "🔥 **Echo Dot Smart speaker com Alexa, som vibrante e potente, Wi-Fi e Bluetooth | Cor Preta, com Acesso Antecipado à Alexa+**  Transforme sua casa em um ambiente inteligente com a...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T14:32:13.822582+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-99a40c3f",
-    "title": "Whey Protein Dux Human Health Smoothie 900g Speculoos",
-    "description": "🔥 **Whey Protein Dux Human Health Smoothie 900g Speculoos**  Aproveite essa super oportunidade para garantir um dos melhores wheys do mercado com um desconto imperdível! Sabor incr...",
-    "originalPrice": 357.0,
-    "currentPrice": 184.0,
-    "discountPercentage": 48,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/whey-protein-dux-human-health-smoothie-po-900g-speculoos/p/MLB62688004?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-99a40c3f.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T14:32:08.702800+00:00",
     "likesCount": 1
   }
 ]
