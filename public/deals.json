@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-06898d77",
+    "title": "Controle sem fio PlayStation DualSense™ – Galactic Purple",
+    "description": "🎮 **Controle sem fio PlayStation DualSense™ – Galactic Purple**  Eleve sua experiência de jogo com um design espacial impressionante e toda a imersão da tecnologia avançada da Sony...",
+    "originalPrice": null,
+    "currentPrice": 358.89,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FY6PBWWJ?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-06898d77.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-22T19:45:57.849323+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-982a6a20",
     "title": "Apple iPhone 15 (128GB) — Azul",
     "description": "🔥 **Apple iPhone 15 (128GB) — Azul**  Procurando o smartphone perfeito para o seu dia a dia? O iPhone 15 traz um design incrível, câmera avançada e desempenho impecável que só a Ap...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T14:45:01.365838+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5f6a8ef3",
-    "title": "Bicicleta Ergométrica Bike Spinning com Volante e Display LCD",
-    "description": "🚴 **Bicicleta Ergométrica Bike Spinning com Volante e Display LCD**  Treinar em casa ficou muito mais barato! Monte seu próprio treino de cardio com essa bike de spinning completa,...",
-    "originalPrice": null,
-    "currentPrice": 1899.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/bicicleta-ergometrica-bike-spinning-para-exercicios-com-volante-e-display-lcd/p/MLB78878036?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-5f6a8ef3.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T14:32:13.822582+00:00",
     "likesCount": 1
   }
 ]
