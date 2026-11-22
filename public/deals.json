@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3f46acbf",
+    "title": "Prebiotic Nutrify Neutro 210g",
+    "description": "🌿 **Prebiotic Nutrify Neutro 210g**  Cuide da sua saúde intestinal com um dos melhores suplementos do mercado com o preço lá embaixo!   📉 De R$ 95,00 💥 **Por apenas: R$ 47,00 no Pi...",
+    "originalPrice": 95.0,
+    "currentPrice": 47.0,
+    "discountPercentage": 51,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/prebiotic-nutrify-neutro-210g/p/MLB19533156?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-3f46acbf.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-22T20:40:35.591360+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-077abfe0",
     "title": "Barra Whey Grego 40g Display com 12 Unidades Dulce de Leche Havanna Nutrata",
     "description": "🔥 **Barra Whey Grego 40g Display com 12 Unidades Dulce de Leche Havanna Nutrata**  Sabe aquele snack proteico que não tem gosto de remédio? A famosa parceria entre Nutrata e Havann...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T16:17:09.322488+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5ec32b03",
-    "title": "Tênis Puma Flyer Runner Mesh BDP",
-    "description": "👟 **Tênis Puma Flyer Runner Mesh BDP**  Procurando o tênis perfeito para acompanhar sua rotina com máximo conforto e estilo? O modelo da Puma garante leveza e amortecimento ideal p...",
-    "originalPrice": 259.0,
-    "currentPrice": 186.0,
-    "discountPercentage": 28,
-    "couponCode": "MODA2311",
-    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-bdp-puma/p/MLB65660144?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-5ec32b03.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T16:16:13.080017+00:00",
     "likesCount": 1
   }
 ]
