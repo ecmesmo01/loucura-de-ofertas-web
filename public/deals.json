@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5ec32b03",
+    "title": "Tênis Puma Flyer Runner Mesh BDP",
+    "description": "👟 **Tênis Puma Flyer Runner Mesh BDP**  Procurando o tênis perfeito para acompanhar sua rotina com máximo conforto e estilo? O modelo da Puma garante leveza e amortecimento ideal p...",
+    "originalPrice": 259.0,
+    "currentPrice": 186.0,
+    "discountPercentage": 28,
+    "couponCode": "MODA2311",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-bdp-puma/p/MLB65660144?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-5ec32b03.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-22T16:16:13.080017+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0fd21f5d",
     "title": "Óculos de Sol Quadrado Masculino Feminino Proteção UV400",
     "description": "🕶️ **Óculos de Sol Quadrado Masculino Feminino Proteção UV400**  Quer dar aquele up no visual sem gastar muito? Esse modelo quadrado é super estiloso, versátil e garante a seguranç...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T03:18:31.080217+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d4fd5826",
-    "title": "Placa-mãe MSI A520M-A PRO AM4 mATX DDR4",
-    "description": "🔥 **Placa-mãe MSI A520M-A PRO AM4 mATX DDR4**  Procurando estabilidade e ótimo custo-benefício para o seu setup AMD? Essa é a oportunidade perfeita para garantir uma placa-mãe de a...",
-    "originalPrice": null,
-    "currentPrice": 304.0,
-    "discountPercentage": null,
-    "couponCode": "DISPON",
-    "affiliateUrl": "https://www.mercadolivre.com.br/placa-mae-msi-a520m-a-pro-am4-matx-ddr4-hdmi-dvi-m2/p/MLB22649400?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-d4fd5826.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T03:18:26.640776+00:00",
     "likesCount": 1
   }
 ]
