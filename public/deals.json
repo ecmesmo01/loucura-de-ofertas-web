@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e1106d9c",
+    "title": "Tênis Olympikus Voa 3",
+    "description": "👟 **Tênis Olympikus Voa 3**  Quer garantir seu Olympikus com desconto extra? Aproveite o cupom exclusivo liberado no Mercado Livre e economize na sua compra!  🎟️ **Como usar:** 1....",
+    "originalPrice": 79.0,
+    "currentPrice": 30.0,
+    "discountPercentage": 62,
+    "couponCode": "MERCADO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-olympikus-voa-3/p/MLB62990474?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-e1106d9c.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T16:27:22.678637+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3556417b",
     "title": "Kit 6 Cuecas Boxer Lupo Boxer Box Sem Costura Basic Microfibra",
     "description": "🔥 **Kit 6 Cuecas Boxer Lupo Boxer Box Sem Costura Basic Microfibra**  Conforto absoluto e qualidade que todo mundo já conhece! Leve o kit com 6 unidades da marca líder direto da Lo...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T12:49:08.381058+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-95856af7",
-    "title": "Perfume Masculino O Boticário Egeo Bomb Black 90ml",
-    "description": "🔥 **Perfume Masculino O Boticário Egeo Bomb Black 90ml**  Procurando a fragrância perfeita para marcar presença? O queridinho Egeo Bomb Black está com o menor preço já visto na Loj...",
-    "originalPrice": 154.0,
-    "currentPrice": 88.0,
-    "discountPercentage": 43,
-    "couponCode": "OFICIAIS2311",
-    "affiliateUrl": "https://www.mercadolivre.com.br/o-boticario-egeo-bomb-black-masculino/p/MLB19325384?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-95856af7.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-23T12:48:33.286046+00:00",
     "likesCount": 1
   }
 ]
