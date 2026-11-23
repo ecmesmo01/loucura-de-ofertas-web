@@ -45,35 +45,12 @@ export const HeroBanner: React.FC = () => {
                 <span>Alertas em tempo real</span>
               </div>
             </div>
-
-            {/* Quick CTA Buttons directly below description */}
-            <div className="mt-7 flex flex-wrap items-center justify-center lg:justify-start gap-3">
-              <a
-                href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl font-bold text-xs sm:text-sm bg-gradient-to-r from-[#25D366] to-[#1eb755] hover:from-[#20ba59] hover:to-[#179644] text-white shadow-lg shadow-[#25D366]/25 transition-all hover:scale-105 active:scale-95"
-              >
-                <MessageCircle className="w-4 h-4 fill-white text-[#25D366]" />
-                <span>Entrar no Grupo WhatsApp</span>
-              </a>
-
-              <a
-                href="https://t.me/loucuradeofertas"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl font-bold text-xs sm:text-sm bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white shadow-lg shadow-[#229ED9]/25 transition-all hover:scale-105 active:scale-95"
-              >
-                <Send className="w-4 h-4" />
-                <span>Entrar no Canal Telegram</span>
-              </a>
-            </div>
           </div>
 
-          {/* Dupla de Caixas VIP: WhatsApp (Esquerda) e Telegram (Direita) lado a lado */}
+          {/* Dupla de Caixas VIP: WhatsApp (Ao vivo) e Telegram (24h ativo) */}
           <div className="w-full lg:w-auto shrink-0 flex flex-col sm:flex-row gap-4 max-w-xl">
             
-            {/* Box 1: Grupo VIP WhatsApp (lado esquerdo) */}
+            {/* Box 1: Grupo VIP WhatsApp (lado esquerdo - Ao vivo) */}
             <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-emerald-500/30 shadow-xl flex flex-col justify-between hover:border-emerald-500/60 transition-all">
               <div>
                 <div className="flex items-center gap-3">
@@ -104,7 +81,7 @@ export const HeroBanner: React.FC = () => {
               </a>
             </div>
 
-            {/* Box 2: Canal Oficial Telegram (lado direito) */}
+            {/* Box 2: Canal Oficial Telegram (lado direito - 24h ativo) */}
             <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-[#229ED9]/30 shadow-xl flex flex-col justify-between hover:border-[#229ED9]/60 transition-all">
               <div>
                 <div className="flex items-center gap-3">
