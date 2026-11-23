@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-31c78849",
+    "title": "Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM",
+    "description": "🔥 **Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM**  O topo de linha que você esperava acabou de entrar em oferta! O novo **Samsung Galaxy S26 5G** na cor Branco traz tela imersi...",
+    "originalPrice": null,
+    "currentPrice": 3998.7,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQPFCXS?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-31c78849.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:20:48.182049+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f344c6ac",
     "title": "Telha Colonial PVC Precon de 3.28x0.86 m Terracota",
     "description": "🔥 **Telha Colonial PVC Precon de 3.28x0.86 m Terracota**  Chega de goteiras e manutenção constante na sua casa! Renove seu telhado com praticidade, durabilidade e um excelente acab...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T22:09:40.550541+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-09cff7ed",
-    "title": "Processador AMD Ryzen 7 5700X OEM Sem Cooler",
-    "description": "🔥 **Processador AMD Ryzen 7 5700X OEM Sem Cooler**  Procurando aquele upgrade de respeito para o seu setup? O poderoso Ryzen 7 5700X está com um preço excelente para você rodar seu...",
-    "originalPrice": null,
-    "currentPrice": 922.0,
-    "discountPercentage": null,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700x-oem-sem-cooler/p/MLB53410760?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-09cff7ed.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:09:39.376370+00:00",
     "likesCount": 1
   }
 ]
