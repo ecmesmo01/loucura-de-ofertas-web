@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-79f038ce",
+    "title": "Samsung Tablet Galaxy TAB S12 Ultra, 512GB, 12GB RAM, Tela de 14,6\", WiFi 7, S Pen e Capa Inclusas",
+    "description": "🎁 Samsung Tablet Galaxy TAB S12 Ultra, 512GB, 12GB RAM, Tela de 14,6\", WiFi 7, S Pen e Capa Inclusas  💸 De: R$ 11.999,00 🔥 Por: R$ 7.999 💳 Em até 12x de R$ 666,62 sem juros  🛒 Comp...",
+    "originalPrice": 11999.0,
+    "currentPrice": 7999.0,
+    "discountPercentage": 33,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKPCPCGV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-79f038ce.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-23T22:44:10.092178+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9cda48b4",
     "title": "Tablet Samsung Galaxy Tab S10 Fe Wifi Cinza 128gb 8gb Tela 131 90hz S Pen e Capa Inclusas",
     "description": "🎁 Tablet Samsung Galaxy Tab S10 FE+ WiFi Cinza, 128GB, 8GB, Tela 13.1\" 90Hz, S Pen e Capa Inclusas  🔥 POR: R$ 2.564,00 no Pix 🎟️ Cupom: OFFPRATECH  🛒 Compre aqui:  ⚠️ Anúncio | Pre...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T19:04:57.578789+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-be02d5e9",
-    "title": "Martelete Perfurador Rompedor Dewalt D25133k B2 Sds Plus 800w 220v",
-    "description": "🔥 Novo Cupom Mercado Livre!  ▪️ 10% OFF em compras acima de R$199, Limitado a R$200  🎯 Usem o cupom: OFERTASEMPREML  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/mar...",
-    "originalPrice": null,
-    "currentPrice": 200.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTASEMPREML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/martelete-perfurador-rompedor-dewalt-d25133k-b2-sds-plus-800w-220v/p/MLB53676047?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-be02d5e9.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T19:04:00.685181+00:00",
     "likesCount": 1
   }
 ]
