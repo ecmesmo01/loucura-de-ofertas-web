@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8a0e2c93",
+    "title": "Cafeteira Nescafé Dolce Gusto Genio S Basic Branca 220V",
+    "description": "☕ **Cafeteira Nescafé Dolce Gusto Genio S Basic Branca 220V**  Tenha bebidas de cafeteria no conforto da sua casa com a praticidade do sistema em cápsulas da Dolce Gusto! Design co...",
+    "originalPrice": 679.0,
+    "currentPrice": 339.0,
+    "discountPercentage": 50,
+    "couponCode": "OFERTAML",
+    "affiliateUrl": "https://www.mercadolivre.com.br/cafeteira-nescafe-dolce-gusto-genio-s-basic-branca-220v/p/MLB18060098?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-8a0e2c93.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T13:19:10.680404+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-42325e3f",
     "title": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75ml Masculino",
     "description": "🔥 **Perfume Jean Paul Gaultier Le Male Elixir Parfum 75ml Masculino**  Procurando por uma das fragrâncias mais marcantes, sofisticadas e elogiadas da perfumaria mundial? O aclamado...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T12:14:28.282225+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-deb1dfbe",
-    "title": "Smart TV 55\" 4K Hi-QLED Hisense 55QD68SG com Tela Antirreflexo, Dolby Atmos, Processador AI e Google",
-    "description": "🔥 **Smart TV 55\" 4K Hi-QLED Hisense 55QD68SG com Tela Antirreflexo, Dolby Atmos, Processador AI e Google TV**  Quer transformar sua sala em um verdadeiro cinema? Esse modelo da His...",
-    "originalPrice": null,
-    "currentPrice": 1969.0,
-    "discountPercentage": null,
-    "couponCode": "20BF26PRIME",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HBFP4KT8?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-deb1dfbe.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T12:13:26.484160+00:00",
     "likesCount": 1
   }
 ]
