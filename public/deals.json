@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-97e31fcd",
+    "title": "Smartphone Motorola Moto G06-64GB 4GB RAM+8GB Ram Boost, Camera 50MP com AI, Bateria de 5200 mAh e T",
+    "description": "🎁 Smartphone Motorola Moto G06-64GB 4GB RAM+8GB Ram Boost, Camera 50MP com AI, Bateria de 5200 mAh e Tela 6.9\" - Bege  💸 De: R$776 🔥 POR: R$ 549,00 no PIX 🎟 Cupom: MOTO50  🛒 Compre...",
+    "originalPrice": 776.0,
+    "currentPrice": 549.0,
+    "discountPercentage": 29,
+    "couponCode": "MOTO50",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HHT9W4L9?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-97e31fcd.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T22:24:26.583562+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8ef420dd",
     "title": "Pre Treino Evolution 300g Termogenico Blueberry Soldiers Nutrition",
     "description": "AGORA VC TEM ÂNIMO PRA TREINAR  Pré-treino Evolution Workout 300g   De R$ 99 por R$ 43 no Pix  Loja Oficial Soldiers no ML  🛒 Compre com desconto aqui: https://www.mercadolivre.com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T18:56:00.777623+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c9111f09",
-    "title": "Principia Kit Hidratacao Intensiva Facial e Corporal",
-    "description": "HIDRATAÇÃO GARANTIDA Loja Oficial Principia  Principia Kit Hidratação Intensiva Facial E Corporal  De R$ 202 por R$ 75 no Pix  Cupom: OFERTAPARAVOCE 🎟️  🛒 Compre com desconto aqui:...",
-    "originalPrice": 202.0,
-    "currentPrice": 75.0,
-    "discountPercentage": 63,
-    "couponCode": "OFERTAPARAVOCE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/principia-kit-hidratacao-intensiva-facial-e-corporal/p/MLB70157586?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-c9111f09.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T18:52:59.776454+00:00",
     "likesCount": 1
   }
 ]
