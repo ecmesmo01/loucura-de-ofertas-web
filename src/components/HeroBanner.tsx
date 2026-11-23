@@ -6,7 +6,7 @@ export const HeroBanner: React.FC = () => {
     <div className="relative overflow-hidden bg-gradient-to-b from-slate-900 via-slate-900 to-slate-950 text-white py-10 sm:py-14 px-4 sm:px-6 lg:px-8 border-b border-slate-800">
       {/* Background glow effects */}
       <div className="absolute top-0 left-1/4 w-96 h-96 bg-red-600/10 rounded-full blur-3xl pointer-events-none" />
-      <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-blue-600/10 rounded-full blur-3xl pointer-events-none" />
+      <div className="absolute bottom-0 right-1/4 w-96 h-96 bg-emerald-600/10 rounded-full blur-3xl pointer-events-none" />
 
       <div className="max-w-7xl mx-auto relative z-10">
         <div className="flex flex-col lg:flex-row items-center justify-between gap-8">
@@ -15,7 +15,7 @@ export const HeroBanner: React.FC = () => {
             {/* Pill */}
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-red-500/15 text-red-400 border border-red-500/30 mb-4">
               <Zap className="w-3.5 h-3.5" />
-              <span>Sincronizado 24h com nosso Telegram Oficial</span>
+              <span>Sincronizado 24h com nossos Canais Oficiais</span>
             </div>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight">
@@ -47,30 +47,65 @@ export const HeroBanner: React.FC = () => {
             </div>
           </div>
 
-          {/* Quick Telegram Box */}
-          <div className="w-full lg:w-auto shrink-0 bg-slate-800/80 backdrop-blur-md p-6 rounded-2xl border border-slate-700/80 shadow-2xl max-w-md">
-            <div className="flex items-center gap-3">
-              <div className="w-12 h-12 rounded-xl bg-[#229ED9]/20 text-[#229ED9] flex items-center justify-center font-bold text-xl">
-                ✈️
-              </div>
+          {/* Dupla de Caixas VIP: WhatsApp e Telegram lado a lado */}
+          <div className="w-full lg:w-auto shrink-0 flex flex-col sm:flex-row gap-4 max-w-xl">
+            
+            {/* Box 1: Grupo VIP WhatsApp */}
+            <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-emerald-500/30 shadow-xl flex flex-col justify-between hover:border-emerald-500/60 transition-all">
               <div>
-                <h3 className="font-bold text-base text-white">Canal Loucura de Ofertas</h3>
-                <p className="text-xs text-slate-400">Receba no seu celular antes que o estoque acabe!</p>
+                <div className="flex items-center gap-3">
+                  <div className="w-10 h-10 rounded-xl bg-[#25D366]/20 text-[#25D366] flex items-center justify-center font-bold text-xl">
+                    💬
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-sm sm:text-base text-white">Grupo WhatsApp</h3>
+                    <p className="text-[11px] text-slate-400">Ofertas direto no seu zap</p>
+                  </div>
+                </div>
+                <div className="mt-3 pt-3 border-t border-slate-700/60 flex items-center justify-between text-[11px] text-slate-300">
+                  <span>🟢 Grupo VIP Grátis</span>
+                  <span className="text-emerald-400 font-semibold">● Ao vivo</span>
+                </div>
               </div>
+              <a
+                href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-4 w-full py-2 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#25D366] to-[#1eb755] hover:from-[#20ba59] hover:to-[#179644] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#25D366]/25 transition-all hover:scale-[1.02]"
+              >
+                <span>Entrar no WhatsApp</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
             </div>
-            <div className="mt-4 pt-4 border-t border-slate-700/60 flex items-center justify-between text-xs text-slate-300">
-              <span>🔔 Grátis no Telegram</span>
-              <span className="text-emerald-400 font-medium">● Ofertas ao vivo</span>
+
+            {/* Box 2: Canal Oficial Telegram */}
+            <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-[#229ED9]/30 shadow-xl flex flex-col justify-between hover:border-[#229ED9]/60 transition-all">
+              <div>
+                <div className="flex items-center gap-3">
+                  <div className="w-10 h-10 rounded-xl bg-[#229ED9]/20 text-[#229ED9] flex items-center justify-center font-bold text-xl">
+                    ✈️
+                  </div>
+                  <div>
+                    <h3 className="font-bold text-sm sm:text-base text-white">Canal Telegram</h3>
+                    <p className="text-[11px] text-slate-400">Feed sem limite de estoque</p>
+                  </div>
+                </div>
+                <div className="mt-3 pt-3 border-t border-slate-700/60 flex items-center justify-between text-[11px] text-slate-300">
+                  <span>🔔 Canal Oficial</span>
+                  <span className="text-sky-400 font-semibold">● 24h ativo</span>
+                </div>
+              </div>
+              <a
+                href="https://t.me/loucuradeofertas"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="mt-4 w-full py-2 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#229ED9]/25 transition-all hover:scale-[1.02]"
+              >
+                <span>Entrar no Telegram</span>
+                <ArrowRight className="w-3.5 h-3.5" />
+              </a>
             </div>
-            <a
-              href="https://t.me/loucuradeofertas"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-4 w-full py-2.5 px-4 rounded-xl font-semibold text-sm bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white flex items-center justify-center gap-2 shadow-lg shadow-[#229ED9]/25 transition-all"
-            >
-              <span>Entrar no Grupo Grátis</span>
-              <ArrowRight className="w-4 h-4" />
-            </a>
+
           </div>
 
         </div>
