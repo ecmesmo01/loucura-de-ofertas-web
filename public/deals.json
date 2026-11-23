@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5c5d7083",
+    "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das e",
+    "description": "🎁 Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G  💸 De: R$ 3.699,00 🔥 POR: R$ 1.710,00 no PIX 🎟️ Cupom: 20BF26PRI...",
+    "originalPrice": 3699.0,
+    "currentPrice": 1710.0,
+    "discountPercentage": 54,
+    "couponCode": "20BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FQG1SWXN?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c5d7083.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T22:58:50.050014+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f5898785",
     "title": "Smartphone OPPO RENO 14 F 5G 256GB 12GB RAM Câmera 50MP IP69 AMOLED 6.57\" VERDE",
     "description": "🎁 Smartphone OPPO RENO 14 F 5G 256GB 12GB RAM Câmera 50MP IP69 AMOLED 6.57\" VERDE  🔥 POR: R$ 2.119,00 🎟️ Cupom: 20BF26PRIME  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T19:15:59.882031+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-28345440",
-    "title": "Celular Samsung Galaxy S26 Ultra 5g 256gb 12gb Ram Camera Quadrupla Tela Grande de 69 Azul",
-    "description": "🎁 Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" Azul  🔥 POR: R$ 4.996,00 no Pix 🎟️ Cupom: VALE TROCA EXTRA DE R$400  🛒 Compre aqui:  ⚠...",
-    "originalPrice": null,
-    "currentPrice": 4996.0,
-    "discountPercentage": null,
-    "couponCode": "VALE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-ultra-5g-256gb-12gb-ram-camera-quadrupla-tela-grande-de-69-azul/p/MLB65503993?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-28345440.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T19:15:58.775561+00:00",
     "likesCount": 1
   }
 ]
