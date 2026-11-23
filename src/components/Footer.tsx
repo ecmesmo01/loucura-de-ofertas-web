@@ -21,7 +21,16 @@ export const Footer: React.FC = () => {
             <p className="text-slate-400 text-xs sm:text-sm leading-relaxed max-w-md">
               O portal mais confiável para encontrar promoções reais, descontos relâmpago e cupons testados das maiores lojas do país. Não vendemos produtos diretamente: realizamos curadoria e direcionamos você para os sites oficiais.
             </p>
-            <div className="pt-2 flex items-center gap-3">
+            <div className="pt-2 flex flex-wrap items-center gap-3">
+              <a
+                href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#25D366]/20 text-[#25D366] hover:bg-[#25D366]/30 font-semibold transition-colors"
+              >
+                <span>💬</span>
+                <span>Grupo VIP no WhatsApp</span>
+              </a>
               <a
                 href="https://t.me/loucuradeofertas"
                 target="_blank"

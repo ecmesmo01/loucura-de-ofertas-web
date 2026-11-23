@@ -88,6 +88,18 @@ export const Header: React.FC<HeaderProps> = ({
               {darkMode ? <Sun className="w-5 h-5 text-amber-400" /> : <Moon className="w-5 h-5" />}
             </button>
 
+            {/* WhatsApp VIP Group CTA */}
+            <a
+              href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex items-center gap-2 px-3 py-2 sm:px-3.5 sm:py-2.5 rounded-xl font-medium text-xs sm:text-sm bg-[#25D366] hover:bg-[#20ba59] text-white shadow-sm shadow-[#25D366]/30 transition-all hover:scale-[1.02] active:scale-[0.98]"
+            >
+              <span className="text-sm">💬</span>
+              <span className="hidden sm:inline">Grupo WhatsApp</span>
+              <span className="sm:hidden">WhatsApp</span>
+            </a>
+
             {/* Telegram Channel CTA */}
             <a
               href="https://t.me/loucuradeofertas"
