@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0c2edc34",
+    "title": "Cadeira de escritório com design ergonômico conforme NR",
+    "description": "🎁 Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly (Cinza)  💸 De: R$ 399,00 🔥 POR:...",
+    "originalPrice": 399.0,
+    "currentPrice": 280.78,
+    "discountPercentage": 30,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CG8LWT97?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0c2edc34.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T23:43:50.851970+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-60796779",
     "title": "Shampoo Anticaspa Cabelos Normais a Oleosos Dercos Ds Vichy 200g",
     "description": "CHEGA DE FAZER NEVE COM O CABELO  Shampoo Anticaspa Cabelos Normais a Oleosos Dercos Vichy 200g  De R$ 98 por R$ 57 no Pix  Loja Oficial Vichy no ML  🛒 Compre com desconto aqui: ht...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T19:46:59.786612+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e4899852",
-    "title": "Processador Amd Ryzen 5 7600x 4.7Ghz Am5 Novo (Sem Caixa Box ou Cooler)",
-    "description": "➡️ Processador Amd Ryzen 5 7600x 4.7Ghz Am5 Novo (Sem Caixa Box ou Cooler)  ✅ R$ 891 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/m/espaco-tecnologia?mmp_pid=an_1838631069...",
-    "originalPrice": null,
-    "currentPrice": 891.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://shopee.com.br/opaanlp/1617314731/58251955758?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAxIFjhP1S5QKesbGcaJAxqevK5S2igbNaWKF56vpH9YzBAHnRs2La-aNsTFUTQgm0D0ATvE72FVV1orbNPXgY2juFeFYaS3bHW8GSFeTjBJKlNdl_6DMuuuZn4D87Fr6mproSy56XeI8YLyVNvtScr3s4jD1AGR36yxa9n5GCK68QsSiaOGeVDMAI5hyYMVMSPnO3Z2FA&mmp_pid=an_18386310690&uls_trackid=576smmnj02k8&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
-    "imageUrl": "/images/deals/deal-e4899852.jpg",
-    "store": "shopee",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T19:45:59.372507+00:00",
     "likesCount": 1
   }
 ]
