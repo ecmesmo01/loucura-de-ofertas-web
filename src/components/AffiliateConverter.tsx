@@ -20,7 +20,7 @@ export const AffiliateConverter: React.FC<AffiliateConverterProps> = ({ isOpen, 
 
   // Tags oficiais de afiliado para fallback instantâneo
   const AMAZON_TAG = 'loucuradeo0dc-20';
-  const MERCADOLIVRE_TAG = 'vanderleivpn';
+  const MERCADOLIVRE_TAG = 'vpn1234';
   const MERCADOLIVRE_TOOL = '12053995';
   const SHOPEE_APP_ID = 'an_18386310690';
   const SHOPEE_CAMPAIGN = 'id_1I6ZbEiqygj';
