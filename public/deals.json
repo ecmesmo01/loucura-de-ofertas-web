@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8e3f46af",
+    "title": "Smartphone Samsung Galaxy A27 5G 128GB Câmera Tripla 50MP - Rosa",
+    "description": "📱 **Smartphone Samsung Galaxy A27 5G 128GB Câmera Tripla 50MP - Rosa**  Procurando um smartphone moderno, veloz e com excelente conjunto de câmeras? O Galaxy A27 5G entrega desempe...",
+    "originalPrice": null,
+    "currentPrice": 1249.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0H85G4YN2?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-8e3f46af.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:43:48.489529+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d447c4f9",
     "title": "Kit 3 Unidades Creme Dental Colgate Sensitive Pró-Alívio 90g",
     "description": "🦷 **Kit 3 Unidades Creme Dental Colgate Sensitive Pró-Alívio 90g**  Chega de sofrer com dentes sensíveis ao tomar aquela bebida gelada ou comer algo quente! O alívio que você preci...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-22T22:29:58.118476+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-eac6e183",
-    "title": "Console PlayStation 5 Standard 1TB Sony",
-    "description": "🎮 **Console PlayStation 5 Standard 1TB Sony**  De R$ 2.999 por **R$ 1.701**  🎟️ Use o cupom no carrinho: `SITETODO2211`  🛒 Compre aqui: https://www.mercadolivre.com.br/console-play...",
-    "originalPrice": 2999.0,
-    "currentPrice": 1701.0,
-    "discountPercentage": 43,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/console-playstation-5-standard-1tb-sony/p/MLB55042625?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-eac6e183.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:26:44.311682+00:00",
     "likesCount": 1
   }
 ]
