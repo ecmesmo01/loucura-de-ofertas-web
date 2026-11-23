@@ -1,5 +1,5 @@
 import React from 'react';
-import { ShieldCheck, CheckCircle2, Zap, ArrowRight, BellRing } from 'lucide-react';
+import { ShieldCheck, CheckCircle2, Zap, ArrowRight, BellRing, MessageCircle, Send } from 'lucide-react';
 
 export const HeroBanner: React.FC = () => {
   return (
@@ -15,7 +15,7 @@ export const HeroBanner: React.FC = () => {
             {/* Pill */}
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full text-xs font-semibold bg-red-500/15 text-red-400 border border-red-500/30 mb-4">
               <Zap className="w-3.5 h-3.5" />
-              <span>Sincronizado 24h com nossos Canais Oficiais</span>
+              <span>Sincronizado 24h com nosso WhatsApp e Telegram Oficial</span>
             </div>
 
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-tight">
@@ -45,17 +45,40 @@ export const HeroBanner: React.FC = () => {
                 <span>Alertas em tempo real</span>
               </div>
             </div>
+
+            {/* Quick CTA Buttons directly below description */}
+            <div className="mt-7 flex flex-wrap items-center justify-center lg:justify-start gap-3">
+              <a
+                href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl font-bold text-xs sm:text-sm bg-gradient-to-r from-[#25D366] to-[#1eb755] hover:from-[#20ba59] hover:to-[#179644] text-white shadow-lg shadow-[#25D366]/25 transition-all hover:scale-105 active:scale-95"
+              >
+                <MessageCircle className="w-4 h-4 fill-white text-[#25D366]" />
+                <span>Entrar no Grupo WhatsApp</span>
+              </a>
+
+              <a
+                href="https://t.me/loucuradeofertas"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl font-bold text-xs sm:text-sm bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white shadow-lg shadow-[#229ED9]/25 transition-all hover:scale-105 active:scale-95"
+              >
+                <Send className="w-4 h-4" />
+                <span>Entrar no Canal Telegram</span>
+              </a>
+            </div>
           </div>
 
-          {/* Dupla de Caixas VIP: WhatsApp e Telegram lado a lado */}
+          {/* Dupla de Caixas VIP: WhatsApp (Esquerda) e Telegram (Direita) lado a lado */}
           <div className="w-full lg:w-auto shrink-0 flex flex-col sm:flex-row gap-4 max-w-xl">
             
-            {/* Box 1: Grupo VIP WhatsApp */}
+            {/* Box 1: Grupo VIP WhatsApp (lado esquerdo) */}
             <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-emerald-500/30 shadow-xl flex flex-col justify-between hover:border-emerald-500/60 transition-all">
               <div>
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-xl bg-[#25D366]/20 text-[#25D366] flex items-center justify-center font-bold text-xl">
-                    💬
+                  <div className="w-10 h-10 rounded-xl bg-[#25D366]/20 text-[#25D366] flex items-center justify-center font-bold">
+                    <MessageCircle className="w-6 h-6 text-[#25D366]" />
                   </div>
                   <div>
                     <h3 className="font-bold text-sm sm:text-base text-white">Grupo WhatsApp</h3>
@@ -63,27 +86,30 @@ export const HeroBanner: React.FC = () => {
                   </div>
                 </div>
                 <div className="mt-3 pt-3 border-t border-slate-700/60 flex items-center justify-between text-[11px] text-slate-300">
-                  <span>🟢 Grupo VIP Grátis</span>
-                  <span className="text-emerald-400 font-semibold">● Ao vivo</span>
+                  <span className="text-emerald-400 font-medium">✓ Grupo VIP Grátis</span>
+                  <span className="text-emerald-400 font-semibold flex items-center gap-1">
+                    <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                    Ao vivo
+                  </span>
                 </div>
               </div>
               <a
                 href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-4 w-full py-2 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#25D366] to-[#1eb755] hover:from-[#20ba59] hover:to-[#179644] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#25D366]/25 transition-all hover:scale-[1.02]"
+                className="mt-4 w-full py-2.5 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#25D366] to-[#1eb755] hover:from-[#20ba59] hover:to-[#179644] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#25D366]/25 transition-all hover:scale-[1.02]"
               >
                 <span>Entrar no WhatsApp</span>
                 <ArrowRight className="w-3.5 h-3.5" />
               </a>
             </div>
 
-            {/* Box 2: Canal Oficial Telegram */}
+            {/* Box 2: Canal Oficial Telegram (lado direito) */}
             <div className="flex-1 bg-slate-800/90 backdrop-blur-md p-5 rounded-2xl border border-[#229ED9]/30 shadow-xl flex flex-col justify-between hover:border-[#229ED9]/60 transition-all">
               <div>
                 <div className="flex items-center gap-3">
-                  <div className="w-10 h-10 rounded-xl bg-[#229ED9]/20 text-[#229ED9] flex items-center justify-center font-bold text-xl">
-                    ✈️
+                  <div className="w-10 h-10 rounded-xl bg-[#229ED9]/20 text-[#229ED9] flex items-center justify-center font-bold">
+                    <Send className="w-5 h-5 text-[#229ED9]" />
                   </div>
                   <div>
                     <h3 className="font-bold text-sm sm:text-base text-white">Canal Telegram</h3>
@@ -91,15 +117,18 @@ export const HeroBanner: React.FC = () => {
                   </div>
                 </div>
                 <div className="mt-3 pt-3 border-t border-slate-700/60 flex items-center justify-between text-[11px] text-slate-300">
-                  <span>🔔 Canal Oficial</span>
-                  <span className="text-sky-400 font-semibold">● 24h ativo</span>
+                  <span className="text-sky-400 font-medium">✓ Canal Oficial</span>
+                  <span className="text-sky-400 font-semibold flex items-center gap-1">
+                    <span className="w-2 h-2 rounded-full bg-sky-400 animate-pulse"></span>
+                    24h ativo
+                  </span>
                 </div>
               </div>
               <a
                 href="https://t.me/loucuradeofertas"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="mt-4 w-full py-2 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#229ED9]/25 transition-all hover:scale-[1.02]"
+                className="mt-4 w-full py-2.5 px-3 rounded-xl font-semibold text-xs bg-gradient-to-r from-[#229ED9] to-[#1a85b8] hover:from-[#1f93ca] hover:to-[#1674a1] text-white flex items-center justify-center gap-1.5 shadow-md shadow-[#229ED9]/25 transition-all hover:scale-[1.02]"
               >
                 <span>Entrar no Telegram</span>
                 <ArrowRight className="w-3.5 h-3.5" />

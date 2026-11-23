@@ -1,5 +1,5 @@
 import React from 'react';
-import { Flame, Send, ShieldAlert } from 'lucide-react';
+import { Flame, Send, ShieldAlert, MessageCircle } from 'lucide-react';
 
 export const Footer: React.FC = () => {
   return (
@@ -28,7 +28,7 @@ export const Footer: React.FC = () => {
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[#25D366]/20 text-[#25D366] hover:bg-[#25D366]/30 font-semibold transition-colors"
               >
-                <span>💬</span>
+                <MessageCircle className="w-4 h-4" />
                 <span>Grupo VIP no WhatsApp</span>
               </a>
               <a

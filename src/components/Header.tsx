@@ -1,5 +1,5 @@
 import React from 'react';
-import { Flame, Search, Sun, Moon, Send, ShieldCheck, Link2 } from 'lucide-react';
+import { Flame, Search, Sun, Moon, Send, ShieldCheck, Link2, MessageCircle } from 'lucide-react';
 
 interface HeaderProps {
   searchTerm: string;
@@ -65,7 +65,7 @@ export const Header: React.FC<HeaderProps> = ({
             </div>
           </div>
 
-          {/* Actions & Telegram Button */}
+          {/* Actions & Buttons */}
           <div className="flex items-center gap-2.5 sm:gap-3">
             {/* Gerador de Link Afiliado */}
             {onOpenConverter && (
@@ -93,9 +93,9 @@ export const Header: React.FC<HeaderProps> = ({
               href="https://chat.whatsapp.com/HRQ96JWYNSS6zSKSgyeb0d"
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-3 py-2 sm:px-3.5 sm:py-2.5 rounded-xl font-medium text-xs sm:text-sm bg-[#25D366] hover:bg-[#20ba59] text-white shadow-sm shadow-[#25D366]/30 transition-all hover:scale-[1.02] active:scale-[0.98]"
+              className="inline-flex items-center gap-1.5 px-3 py-2 sm:px-3.5 sm:py-2.5 rounded-xl font-medium text-xs sm:text-sm bg-[#25D366] hover:bg-[#20ba59] text-white shadow-sm shadow-[#25D366]/30 transition-all hover:scale-[1.02] active:scale-[0.98]"
             >
-              <span className="text-sm">💬</span>
+              <MessageCircle className="w-4 h-4 fill-white text-[#25D366]" />
               <span className="hidden sm:inline">Grupo WhatsApp</span>
               <span className="sm:hidden">WhatsApp</span>
             </a>
