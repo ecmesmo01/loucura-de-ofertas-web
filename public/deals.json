@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-09d5696e",
+    "title": "Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta",
+    "description": "📱 **Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta**  O topo de linha que você esperava chegou com um super desconto! Desempenho absurdo com 12GB de RAM, câmera...",
+    "originalPrice": null,
+    "currentPrice": 4299.01,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQX8ZPN?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-09d5696e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:28:49.175276+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-fc184242",
     "title": "Geladeira Electrolux Frost Free 380L AutoSense Inverter Black Inox Look (IF41B)",
     "description": "🔥 **Geladeira Electrolux Frost Free 380L AutoSense Inverter Black Inox Look (IF41B)**  Procurando modernidade e alta tecnologia para a sua cozinha? Esse modelo incrível da Electrol...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T22:15:40.766531+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-20227eaf",
-    "title": "Smart TV Hisense 4K 50 Polegadas 50QD6SF Hi-QLED",
-    "description": "🔥 **Smart TV Hisense 4K 50 Polegadas 50QD6SF Hi-QLED**  Quer transformar sua sala em um verdadeiro cinema? Com tecnologia Hi-QLED, essa Smart TV entrega cores muito mais vivas, con...",
-    "originalPrice": null,
-    "currentPrice": 1747.0,
-    "discountPercentage": null,
-    "couponCode": "TODO2211SITE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-hisense-4k-50-polegadas-50qd6sf-hi-qled/p/MLB2122463891?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-20227eaf.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:13:43.157770+00:00",
     "likesCount": 1
   }
 ]
