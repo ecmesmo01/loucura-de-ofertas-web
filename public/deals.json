@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1c2a19be",
+    "title": "Lubrificante Íntimo 2 em 1 K-Med",
+    "description": "🔥 **Lubrificante Íntimo 2 em 1 K-Med**  Cuidado e prazer em um só produto! Garanta momentos ainda mais especiais com o melhor custo-benefício.   💰 **Por apenas:** R$ 17,95 à vista...",
+    "originalPrice": null,
+    "currentPrice": 17.95,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07GG1FBCX?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-1c2a19be.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T12:55:32.378407+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8d297184",
     "title": "Celular POCO X8 5G NFC Dual Sim 8GB RAM 128GB Versão Global Lançamento 2026",
     "description": "🔥 **Celular POCO X8 5G NFC Dual Sim 8GB RAM 128GB Versão Global Lançamento 2026**  Procurando potência, velocidade e muita tecnologia em um só smartphone? O novo POCO X8 5G chegou...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-23T12:03:09.699646+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-312a7f38",
-    "title": "Procurando potência e modernidade para o seu dia a dia, estudos ou trabalho? O",
-    "description": "🔥 **Notebook Asus Vivobook Go 15 E1504 AMD Ryzen 5 7520U 8GB RAM 256GB SSD Linux KeepOS 15.6\" FHD Black E1504FA-NJ731**  Procurando potência e modernidade para o seu dia a dia, est...",
-    "originalPrice": null,
-    "currentPrice": 2549.0,
-    "discountPercentage": null,
-    "couponCode": "OFFSEMPRE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB36772633?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-312a7f38.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-23T12:03:09.491661+00:00",
     "likesCount": 1
   }
 ]
