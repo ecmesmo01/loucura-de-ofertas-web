@@ -1,11 +1,12 @@
 import React from 'react';
-import { Flame, Search, Sun, Moon, Send, ShieldCheck } from 'lucide-react';
+import { Flame, Search, Sun, Moon, Send, ShieldCheck, Link2 } from 'lucide-react';
 
 interface HeaderProps {
   searchTerm: string;
   onSearchChange: (value: string) => void;
   darkMode: boolean;
   onToggleDarkMode: () => void;
+  onOpenConverter?: () => void;
 }
 
 export const Header: React.FC<HeaderProps> = ({
@@ -13,6 +14,7 @@ export const Header: React.FC<HeaderProps> = ({
   onSearchChange,
   darkMode,
   onToggleDarkMode,
+  onOpenConverter,
 }) => {
   return (
     <header className="sticky top-0 z-40 bg-white/95 dark:bg-slate-900/95 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors shadow-sm">
@@ -65,6 +67,18 @@ export const Header: React.FC<HeaderProps> = ({
 
           {/* Actions & Telegram Button */}
           <div className="flex items-center gap-2.5 sm:gap-3">
+            {/* Gerador de Link Afiliado */}
+            {onOpenConverter && (
+              <button
+                onClick={onOpenConverter}
+                title="Gerar Link de Afiliado"
+                className="inline-flex items-center gap-1.5 px-3 py-2 rounded-xl text-xs sm:text-sm font-semibold bg-amber-500/10 hover:bg-amber-500/20 text-amber-600 dark:text-amber-400 border border-amber-500/30 transition-all hover:scale-[1.02] active:scale-[0.98]"
+              >
+                <Link2 className="w-4 h-4" />
+                <span className="hidden sm:inline">Gerar Link</span>
+              </button>
+            )}
+
             {/* Dark mode button */}
             <button
               onClick={onToggleDarkMode}

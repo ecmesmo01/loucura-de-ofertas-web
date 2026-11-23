@@ -6,6 +6,7 @@ import { HeroBanner } from './components/HeroBanner';
 import { CategoryFilter } from './components/CategoryFilter';
 import { DealCard } from './components/DealCard';
 import { Footer } from './components/Footer';
+import { AffiliateConverter } from './components/AffiliateConverter';
 import { SearchX, Sparkles, RefreshCw } from 'lucide-react';
 
 export const App: React.FC = () => {
@@ -15,6 +16,7 @@ export const App: React.FC = () => {
   const [selectedStore, setSelectedStore] = useState<StoreType | 'todas'>('todas');
   const [sortBy, setSortBy] = useState<'recentes' | 'desconto' | 'menor_preco'>('recentes');
   const [isRefreshing, setIsRefreshing] = useState(false);
+  const [isConverterOpen, setIsConverterOpen] = useState(false);
 
   // Dark mode handler
   const [darkMode, setDarkMode] = useState<boolean>(() => {
@@ -147,6 +149,13 @@ export const App: React.FC = () => {
         onSearchChange={setSearchTerm}
         darkMode={darkMode}
         onToggleDarkMode={() => setDarkMode(!darkMode)}
+        onOpenConverter={() => setIsConverterOpen(true)}
+      />
+
+      {/* Modal Gerador de Afiliado */}
+      <AffiliateConverter
+        isOpen={isConverterOpen}
+        onClose={() => setIsConverterOpen(false)}
       />
 
       {/* Hero Presentation */}
