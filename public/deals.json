@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9474ba26",
+    "title": "Smart TV Samsung Crystal UHD 50\" 4K - BE50HX-H",
+    "description": "🔥 **Smart TV Samsung Crystal UHD 50\" 4K - BE50HX-H**  Transforme sua sala em um verdadeiro cinema! Com imagens em altíssima definição 4K, cores vibrantes e um design ultrafino, est...",
+    "originalPrice": null,
+    "currentPrice": 2089.05,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HPL61NSQ?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-9474ba26.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:39:47.681677+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-baa113fa",
     "title": "Camisa Manga Longa Proteção UV 50+ Segunda Pele Slim",
     "description": "🔥 **Camisa Manga Longa Proteção UV 50+ Segunda Pele Slim**  A peça mais versátil e essencial para o seu dia a dia, treinos ou dias de sol! Proteção garantida contra os raios UVA e...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T22:26:39.128957+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3b2ca4fb",
-    "title": "Nintendo Switch OLED 64GB Standard com Joy-Con Branco",
-    "description": "🎮 **Nintendo Switch OLED 64GB Standard com Joy-Con Branco**  Chegou a hora de garantir o seu console com tela OLED vibrante, áudio aprimorado e suporte ajustável! Aproveite esse me...",
-    "originalPrice": null,
-    "currentPrice": 1701.0,
-    "discountPercentage": null,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/nintendo-switch-oled-64gb-standard-com-joy-con-branco/p/MLB31000132?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-3b2ca4fb.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:24:38.808230+00:00",
     "likesCount": 1
   }
 ]
