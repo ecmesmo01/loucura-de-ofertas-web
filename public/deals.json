@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fc91528b",
+    "title": "Perfume Nautica Classic Men Red EDT 100ml",
+    "description": "🔥 **Perfume Nautica Classic Men Red EDT 100ml**  Procurando aquela fragrância marcante e refrescante para o dia a dia por um preço imbatível? O clássico da Nautica está com um desc...",
+    "originalPrice": 209.0,
+    "currentPrice": 89.0,
+    "discountPercentage": 57,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F8P16K2L?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-fc91528b.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:30:57.792737+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-09d5696e",
     "title": "Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta",
     "description": "📱 **Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta**  O topo de linha que você esperava chegou com um super desconto! Desempenho absurdo com 12GB de RAM, câmera...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T22:17:25.498499+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-65ff173c",
-    "title": "Ar Condicionado Split Inverter TCL Breezein AI 9000 Btus Frio",
-    "description": "❄️ **Ar Condicionado Split Inverter TCL Breezein AI 9000 Btus Frio**  Garanta o clima perfeito na sua casa com economia e tecnologia de ponta! Oportunidade incrível para garantir o...",
-    "originalPrice": 2791.0,
-    "currentPrice": 1682.0,
-    "discountPercentage": 40,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-tcl-split-invt-breezein-ai-9000-btus-fr/p/MLB75342806?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-65ff173c.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:15:40.766531+00:00",
     "likesCount": 1
   }
 ]
