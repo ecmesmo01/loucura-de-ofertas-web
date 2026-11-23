@@ -17,13 +17,29 @@ interface DealCardProps {
   deal: Deal;
 }
 
+const CATEGORY_FALLBACK_IMAGES: Record<string, string> = {
+  eletronicos: 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80',
+  informatica: 'https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80',
+  casa: 'https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80',
+  games: 'https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=600&auto=format&fit=crop&q=80',
+  moda: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80',
+  cupons: 'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&auto=format&fit=crop&q=80',
+};
+
+const getCategoryFallbackImage = (category?: string) => {
+  if (category && CATEGORY_FALLBACK_IMAGES[category]) {
+    return CATEGORY_FALLBACK_IMAGES[category];
+  }
+  return 'https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=600&auto=format&fit=crop&q=80';
+};
+
 export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
   const [copied, setCopied] = useState(false);
   const [liked, setLiked] = useState(false);
   const [likeCount, setLikeCount] = useState(deal.likesCount || 0);
 
   const resolveImageUrl = (url?: string | null) => {
-    if (!url) return 'https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&auto=format&fit=crop&q=80';
+    if (!url) return getCategoryFallbackImage(deal.category);
     if (url.startsWith('/images/deals/')) {
       // Prioritize raw GitHub CDN for instant sub-second delivery of new telegram photos
       return `https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public${url}`;
@@ -162,10 +178,9 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
           loading="lazy"
           className="object-contain w-full h-full group-hover:scale-105 transition-transform duration-300 mix-blend-multiply dark:mix-blend-normal"
           onError={() => {
-            if (imgSrc.includes('raw.githubusercontent.com') && deal.imageUrl) {
-              setImgSrc(deal.imageUrl);
-            } else {
-              setImgSrc('https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=600&auto=format&fit=crop&q=80');
+            const fallback = getCategoryFallbackImage(deal.category);
+            if (imgSrc !== fallback) {
+              setImgSrc(fallback);
             }
           }}
         />
