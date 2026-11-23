@@ -18,6 +18,23 @@ export const App: React.FC = () => {
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [isConverterOpen, setIsConverterOpen] = useState(false);
 
+  // Modo Administrador / Afiliado Privado
+  // O botão só aparece se acessar uma vez via ?admin=1 ou #admin, ficando salvo no seu navegador
+  const [isAdmin] = useState<boolean>(() => {
+    if (typeof window !== 'undefined') {
+      const urlParams = new URLSearchParams(window.location.search);
+      const hasAdminParam = urlParams.get('admin') === '1' || window.location.hash.toLowerCase() === '#admin';
+      const savedAdmin = localStorage.getItem('loucura_is_admin') === 'true';
+
+      if (hasAdminParam) {
+        localStorage.setItem('loucura_is_admin', 'true');
+        return true;
+      }
+      return savedAdmin;
+    }
+    return false;
+  });
+
   // Dark mode handler
   const [darkMode, setDarkMode] = useState<boolean>(() => {
     if (typeof window !== 'undefined') {
@@ -149,14 +166,16 @@ export const App: React.FC = () => {
         onSearchChange={setSearchTerm}
         darkMode={darkMode}
         onToggleDarkMode={() => setDarkMode(!darkMode)}
-        onOpenConverter={() => setIsConverterOpen(true)}
+        onOpenConverter={isAdmin ? () => setIsConverterOpen(true) : undefined}
       />
 
-      {/* Modal Gerador de Afiliado */}
-      <AffiliateConverter
-        isOpen={isConverterOpen}
-        onClose={() => setIsConverterOpen(false)}
-      />
+      {/* Modal Gerador de Afiliado (Privado para você) */}
+      {isAdmin && (
+        <AffiliateConverter
+          isOpen={isConverterOpen}
+          onClose={() => setIsConverterOpen(false)}
+        />
+      )}
 
       {/* Hero Presentation */}
       <HeroBanner />
