@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-15f5e3c9",
+    "title": "Perfume Eternity Feminino 100ml Calvin Klein",
+    "description": "✨ **Perfume Eternity Feminino 100ml Calvin Klein**  Um clássico atemporal com um desconto absurdo direto da loja oficial! Fragrância marcante, elegante e perfeita para todas as oca...",
+    "originalPrice": 789.0,
+    "currentPrice": 212.0,
+    "discountPercentage": 73,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-eternity-feminino-100ml-calvin-klein/p/MLB6140405?matt_word=vanderleivpn&matt_tool=12053995",
+    "imageUrl": "/images/deals/deal-15f5e3c9.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T10:55:54.374602+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c53afb25",
     "title": "Jogo de 5 Panelas Off-White com Revestimento Cerâmico Antiaderente Vivatutto",
     "description": "🍳 **Jogo de 5 Panelas Off-White com Revestimento Cerâmico Antiaderente Vivatutto**  Renove sua cozinha com elegância e sofisticação! Este jogo completo conta com revestimento cerâm...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-22T22:01:51.460182+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6bb5d2d8",
-    "title": "Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4",
-    "description": "🔥 **Processador AMD Ryzen 7 5700X 3.4GHz (4.6GHz Max Turbo) AM4**  Procurando o upgrade definitivo para o seu setup? O Ryzen 7 5700X entrega alta performance para jogos pesados, mu...",
-    "originalPrice": null,
-    "currentPrice": 975.0,
-    "discountPercentage": null,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/processador-amd-ryzen-7-5700x-34ghz-46ghz-max-turbo-am4/p/MLB19159879?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-6bb5d2d8.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:01:46.109024+00:00",
     "likesCount": 1
   }
 ]
