@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-729c9f76",
+    "title": "Apple iPhone 15 (128GB) — Azul",
+    "description": "📱 **Apple iPhone 15 (128GB) — Azul**  O queridinho da Apple com um preço inacreditável para você garantir o seu hoje mesmo! Câmera de alta resolução, design sofisticado e desempenh...",
+    "originalPrice": null,
+    "currentPrice": 3499.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CP6CR795?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-729c9f76.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T13:06:32.063955+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-31894074",
     "title": "Kit 10 Cuecas Boxer Algodão Polo Wear Sortido",
     "description": "🔥 **Kit 10 Cuecas Boxer Algodão Polo Wear Sortido**  Atualize suas gavetas com o conforto e a qualidade que você já conhece! Chegou a oportunidade perfeita para garantir o seu kit...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T12:08:24.280846+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-59bc95b0",
-    "title": "Monitor Gamer Philips 24\" Evnia IPS 144Hz 0.5ms Full HD",
-    "description": "🖥️ **Monitor Gamer Philips 24\" Evnia IPS 144Hz 0.5ms Full HD**  Upgrade pesado pro seu setup por um preço surreal! Com painel IPS de cores vivas, taxa de atualização super fluida d...",
-    "originalPrice": null,
-    "currentPrice": 412.0,
-    "discountPercentage": null,
-    "couponCode": "MELIMAISXPT1122",
-    "affiliateUrl": "https://www.mercadolivre.com.br/monitor-gamer-phillips-24-evnia-ips-144hz-05ms-wide-fullhd-preto-127220v/p/MLB67306384?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-59bc95b0.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T12:08:09.380141+00:00",
     "likesCount": 1
   }
 ]
