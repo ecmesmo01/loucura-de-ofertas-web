@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-32eef519",
+    "title": "Café Especial Orfeu Clássico em Grãos 1kg Torra Média",
+    "description": "☕ **Café Especial Orfeu Clássico em Grãos 1kg Torra Média**  Comece o dia com o melhor aroma e sabor! O clássico da Orfeu traz notas aromáticas excepcionais e uma torra média perfe...",
+    "originalPrice": null,
+    "currentPrice": 114.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07HDSL78H?tag=loucuradeo0dc-20",
+    "imageUrl": "/images/deals/deal-32eef519.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-23T11:04:49.781238+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ceab03e0",
     "title": "Placas Adesivas 3D Mármore Branco de Parede Kit c/ 10 Un",
     "description": "✨ **Placas Adesivas 3D Mármore Branco de Parede Kit c/ 10 Un**  Quer transformar a sua casa sem gastar com reformas demoradas e caras? Esse kit com 10 placas adesivas com efeito de...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-22T22:03:41.307970+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c8b4822d",
-    "title": "Monitor Gamer TCL 25\" QD Mini LED Full HD G64 300Hz 1ms 25G64",
-    "description": "🔥 **Monitor Gamer TCL 25\" QD Mini LED Full HD G64 300Hz 1ms 25G64**  Procurando o setup definitivo para jogar com fluidez extrema? Este é simplesmente o menor valor já visto para u...",
-    "originalPrice": 1599.0,
-    "currentPrice": 854.0,
-    "discountPercentage": 47,
-    "couponCode": "SITETODO2211",
-    "affiliateUrl": "https://www.mercadolivre.com.br/monitor-gamer-tcl-25-polegadas-qd-mini-led-full-hd-g64-300hz-1ms-gtg-freesync-hdr-600-nits-25g64/p/MLB52170796?matt_word=vanderleivpn&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-c8b4822d.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-22T22:03:40.701180+00:00",
     "likesCount": 1
   }
 ]
