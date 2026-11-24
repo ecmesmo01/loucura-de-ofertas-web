@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-452e4a62",
+    "title": "Kit TRUSS Miracle Duo (2 Produtos)",
+    "description": "✨ **Kit TRUSS Miracle Duo (2 Produtos)**  Se o seu cabelo está precisando de um tratamento digno de salão no conforto de casa, essa é a sua chance! O queridinho dos profissionais g...",
+    "originalPrice": null,
+    "currentPrice": 147.73,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DMWX14CZ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-452e4a62.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:06:57.795924+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6e50ccda",
     "title": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
     "description": "🩳 **Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida**  A combinação perfeita de conforto, estilo e praticidade com um custo-benefício imbatível! Ideal para praia, trein...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:17:00.479541+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0d609576",
-    "title": "Kit 2 Camisetas Gota Pica Pau Bordado Reserva",
-    "description": "AS CORES MAIS LINDAS Loja Oficial Reserva  Kit 2 Camisetas Reserva Gota Pica Pau Bordado  De R$ 238 por R$ 117 em 4x  Aplique o cupom de 15% OFF 🎟️  🛒 Compre com desconto aqui: htt...",
-    "originalPrice": 238.0,
-    "currentPrice": 117.0,
-    "discountPercentage": 51,
-    "couponCode": "MERCADOLIVRE",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4278235683-kit-2-camisetas-gota-pica-pau-bordado-reserva-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-0d609576.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:14:01.678252+00:00",
     "likesCount": 1
   }
 ]
