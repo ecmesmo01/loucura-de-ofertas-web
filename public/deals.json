@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-165d9e77",
+    "title": "Tnis Reserva Goodfiel Preto",
+    "description": "NEM VAI PARECER QUE VC É LISO - loja oficial no ml  - use o cupom  CURTAMELI  Tênis Aramis Soul Metropolitan (38 ao 43) de 329,98 por 197,74 à vista   Kit 3 Camiseta Aramis Basic L...",
+    "originalPrice": 329.98,
+    "currentPrice": 197.74,
+    "discountPercentage": 40,
+    "couponCode": "CURTAMELI",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3485221605-tnis-reserva-goodfiel-preto-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-165d9e77.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T23:00:13.716508+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-1d4ed214",
     "title": "Tablet, HUAWEI MatePad SE 11, 4+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria",
     "description": "🎁 Tablet, HUAWEI MatePad SE 11, 4+128GB, Tela HUAWEI FullView de 11\" para Conforto Visual，Superbateria de 7700 mAh 22,5W，Câmera Traseira 8 MP，Câmera Frontal 5 MP，Cinza Nebula  🔥 PO...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:18:08.486992+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ffd8c4c5",
-    "title": "Fritadeira Air Fryer Pratica Fry 37l 1400w Preta Grelha Removivel Sem Oleo",
-    "description": "🔥 Processador Amd Ryzen 7 5700x Oem Sem Cooler  🚨 R$ 884 🎟️ Cupom: VEMPROMP (Válido com Cartão Mercado Pago)  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/fritadeira...",
-    "originalPrice": null,
-    "currentPrice": 884.0,
-    "discountPercentage": null,
-    "couponCode": "VEMPROMP",
-    "affiliateUrl": "https://www.mercadolivre.com.br/fritadeira-air-fryer-pratica-fry-37l-1400w-preta-grelha-removivel-sem-oleo/p/MLB52911897?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ffd8c4c5.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:17:20.846775+00:00",
     "likesCount": 1
   }
 ]
