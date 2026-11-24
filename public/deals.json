@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae4fbc2e",
+    "title": "TP-Link Deco X10 (3 un.) Roteador Mesh Wi-Fi 6 AX1500 Dual Band, Cobertura de até 520 m², Conexão pa",
+    "description": "🎁 TP-Link Deco X10 (3 un.) Roteador Mesh Wi-Fi 6 AX1500 Dual Band, Cobertura de até 520 m², Conexão para até 120 Dispositivos, 2 Portas Gigabit por Unidade e Mesh Gerenciado por IA...",
+    "originalPrice": null,
+    "currentPrice": 470.0,
+    "discountPercentage": null,
+    "couponCode": "25BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DXN1BRXP?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae4fbc2e.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:04:59.227482+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b47410ea",
     "title": "Sapateira e Organizadora Com Zíper 9 Prateleiras - Cor Preto",
     "description": "🔥 **Sapateira e Organizadora Com Zíper 9 Prateleiras - Cor Preto**  Chegou a solução definitiva para organizar seus calçados e otimizar espaço no quarto ou closet! Com excelente ca...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:24:27.862084+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-4b117386",
-    "title": "Kit Smart TV Samsung 55\" MiniLED 4K com Soundbar HW-B400F",
-    "description": "🔥 **Kit Smart TV Samsung 55\" MiniLED 4K com Soundbar HW-B400F**  Quer transformar sua sala em um verdadeiro cinema com imagem de altíssima definição e som potente? Esse kit complet...",
-    "originalPrice": null,
-    "currentPrice": 3049.0,
-    "discountPercentage": null,
-    "couponCode": "QUEROOFFHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-smart-tv-samsung-55-miniled-4k-com-soundbar-hw-b400f/p/MLB78184070?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4b117386.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T15:22:58.890735+00:00",
     "likesCount": 1
   }
 ]
