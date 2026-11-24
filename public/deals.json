@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-b835eab4",
+    "title": "Procurando um notebook potente, moderno e com tela touch para o seu dia a dia ou trabalho? O",
+    "description": "🔥 **Notebook Lenovo IdeaPad Slim 3 15.3\" Touch Screen - Luna Grey - Intel Core i5-13420H, 8GB RAM, 512GB SSD, Windows 11**  Procurando um notebook potente, moderno e com tela touch...",
+    "originalPrice": null,
+    "currentPrice": 3299.0,
+    "discountPercentage": null,
+    "couponCode": "25BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FCW79ZM3?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b835eab4.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T11:45:56.372791+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-40b9a181",
     "title": "Computador Acer All In One C24",
     "description": "🖥️ **Computador Acer All In One C24-2YE13U5UNL-BR11 Intel Core i5 16GB 512GB SSD 23,8\" Full HD**  Procurando um setup completo, potente e que economiza espaço na sua mesa? Esse All...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:34:50.495134+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e1d6c839",
-    "title": "Creatina Monohidratada Dux Human Health em Po Sem Sabor X 600g",
-    "description": "POTÃO DE CREATINA DA DUX   Creatina Monohidratada Dux 600g  De R$ 112 por R$ 73  Vendido por Loja Oficial no ML  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/creatin...",
-    "originalPrice": 112.0,
-    "currentPrice": 73.0,
-    "discountPercentage": 35,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/creatina-monohidratada-dux-human-health-em-po-sem-sabor-x-600g/p/MLB63805922?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e1d6c839.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:29:51.427738+00:00",
     "likesCount": 1
   }
 ]
