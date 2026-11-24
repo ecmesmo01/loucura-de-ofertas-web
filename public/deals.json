@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e20b9075",
+    "title": "Ar-Condicionado Hisense 12K Inverter R32 Frio Eco Plus Branco",
+    "description": "🔥 **Ar-Condicionado Hisense 12K Inverter R32 Frio Eco Plus Branco**  Chegou o momento de garantir o clima perfeito na sua casa com muita economia e eficiência! ❄️✨  De R$ 3.575,00...",
+    "originalPrice": 3575.0,
+    "currentPrice": 1745.0,
+    "discountPercentage": 51,
+    "couponCode": "DESCONTOSMELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-hisense-12k-inverter-r32-frio-eco-plus-branco/p/MLB64282056?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e20b9075.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T12:51:06.872856+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4b1e235f",
     "title": "Smart TV Hisense 40\" FHD 40A4NV com HDR10 e Alexa",
     "description": "🔥 **Smart TV Hisense 40\" FHD 40A4NV com HDR10 e Alexa**  Procurando a TV perfeita para transformar o seu quarto ou ambiente compacto em uma verdadeira central de entretenimento? Es...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:17:54.831056+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-dac64325",
-    "title": "Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto",
-    "description": "🎧 **Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto**  Procurando autonomia de verdade e som de alta qualidade para o seu dia a dia? Esse modelo entrega até 40 horas de bateria...",
-    "originalPrice": null,
-    "currentPrice": 119.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0D45QCBF7?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dac64325.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:14:55.650479+00:00",
     "likesCount": 1
   }
 ]
