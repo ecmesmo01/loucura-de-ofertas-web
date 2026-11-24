@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1f33caa3",
+    "title": "Óculos de Sol Ray-Ban Justin RB4165L Masculino, Preto, Tamanho 57",
+    "description": "🕶️ **Óculos de Sol Ray-Ban Justin RB4165L Masculino, Preto, Tamanho 57**  O clássico moderno que faltava no seu visual com um preço imperdível! Estilo autêntico, proteção de alta q...",
+    "originalPrice": null,
+    "currentPrice": 399.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07GFVTKS4?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1f33caa3.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:47:57.964159+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c033adc1",
     "title": "Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W 220V",
     "description": "🔥 **Lavadora de Alta Pressão WAP Ousada Plus 2200 1500W 220V**  Deixe sua casa, calçada e carro brilhando sem esforço! Com 1750 psi de potência e vazão de 342L/h, essa lavadora gar...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:26:00.057838+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9071cdad",
-    "title": "Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto",
-    "description": "🔋 **Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto**  Nunca mais fique sem bateria no meio do dia! Com carga rápida de até 20W Power Delivery e saídas USB-A e U...",
-    "originalPrice": null,
-    "currentPrice": 88.9,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0F6B226NK?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9071cdad.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:25:07.357738+00:00",
     "likesCount": 1
   }
 ]
