@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-25443847",
+    "title": "Notebook Acer Aspire Go 15 Intel Core I3 1215u 8gb 256gb Ssd Prateado",
+    "description": "ASPIRE GO EM PROMO  Notebook Acer Aspire Go 15 I3 256GB  De R$ 3.799 por R$ 2.899  Use o Cupom: OFERTAPRATECH ou QUEROOFFHOJE 🎟️     Vendido por Loja Oficial no ML  🛒 Compre com de...",
+    "originalPrice": 3799.0,
+    "currentPrice": 2899.0,
+    "discountPercentage": 24,
+    "couponCode": "OFERTAPRATECH",
+    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-intel-core-i3-1215u-8gb-256gb-ssd-prateado/p/MLB66357303?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-25443847.jpg",
+    "store": "mercadolivre",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:16:20.509853+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b103d640",
     "title": "Projetor Powerlite E24 Epson 3.600 Lúmens XGA",
     "description": "🔥 **Projetor Powerlite E24 Epson 3.600 Lúmens XGA**  Transforme qualquer ambiente em uma verdadeira sala de cinema ou prepare apresentações profissionais impecáveis! Com alta lumin...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:09:29.860789+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-dd442671",
-    "title": "Placa de Vídeo ASRock Radeon RX 7600 Challenger OC, 8GB, GDDR6, 128-Bit, FSR, Ray Tracing, Preto",
-    "description": "🔥 **Placa de Vídeo ASRock Radeon RX 7600 Challenger OC, 8GB, GDDR6, 128-Bit, FSR, Ray Tracing, Preto**  Procurando o upgrade definitivo para o seu setup gamer? A RX 7600 entrega al...",
-    "originalPrice": null,
-    "currentPrice": 1994.05,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0C626FFG2?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dd442671.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:08:57.048713+00:00",
     "likesCount": 1
   }
 ]
