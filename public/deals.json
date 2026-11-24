@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3a83a965",
+    "title": "Meia Calça de Lã Térmica Translúcida Forrada com Pelinho Pelúciada",
+    "description": "🔥 **Meia Calça de Lã Térmica Translúcida Forrada com Pelinho Pelúciada**  O segredo para continuar usando vestidos e saias nos dias mais frios com total conforto e elegância! Por f...",
+    "originalPrice": 69.0,
+    "currentPrice": 21.0,
+    "discountPercentage": 70,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-7081556202-meia-calca-de-l-termica-translucida-forrada-pelinho-pelucia-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3a83a965.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:52:57.547567+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c03c5660",
     "title": "Smart TV 50\" Mini LED 4K Samsung M75H + Soundbar HW-B400F",
     "description": "🔥 **Smart TV 50\" Mini LED 4K Samsung M75H + Soundbar HW-B400F**  Quer transformar sua sala em um verdadeiro cinema com som potente e imagem de altíssima qualidade? Essa é a oportun...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:55:49.976490+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-232b1ff9",
-    "title": "Smart Tv 65 4k Uhd Philips 65pug723178 Google Tv Dolby",
-    "description": "CAIUU!! Smart TV 65 Polegadas 4K Philips 120Hz -  R$2601 no PIX #anúncio Cupom: OFFPRATECH  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/smart-tv-65-4k-uhd-philips-6...",
-    "originalPrice": null,
-    "currentPrice": 2601.0,
-    "discountPercentage": null,
-    "couponCode": "OFFPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-65-4k-uhd-philips-65pug723178-google-tv-dolby/p/MLB2112103819?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-232b1ff9.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:53:52.461316+00:00",
     "likesCount": 1
   }
 ]
