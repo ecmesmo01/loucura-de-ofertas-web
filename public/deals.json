@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-36f49e63",
+    "title": "Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM",
+    "description": "🔥 **Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM**  O topo de linha que você esperava acabou de entrar em oferta! O novo **Samsung Galaxy S26** traz tela imersiva de 6.3\", conju...",
+    "originalPrice": null,
+    "currentPrice": 3998.7,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQPFCXS?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-36f49e63.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:32:55.220508+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2b4e00d6",
     "title": "Caixa de Som Portátil Bluetooth AOC ACS5311 37W",
     "description": "🔊 **Caixa de Som Portátil Bluetooth AOC ACS5311 37W**  Procurando som potente e graves profundos para animar qualquer ambiente? Essa é a escolha ideal! Com certificação IP67 à prov...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:04:29.071511+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f71a27f0",
-    "title": "Airfryer Forno Philips Walita Ai55109 Preto",
-    "description": "AIR FRYER DA WALITA NO PREÇÃO  Philips Walita Fritadeira Airfryer Forno 12L  De R$ 799 por R$ 413 no Pix Use o Cupom: MELIGARANTE 🎟️ + Selecione Pix  Loja Oficial Magalu no ML  🛒 C...",
-    "originalPrice": 799.0,
-    "currentPrice": 413.0,
-    "discountPercentage": 48,
-    "couponCode": "MELIGARANTE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/airfryer-forno-philips-walita-ai55109-preto/p/MLB44023983?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f71a27f0.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:04:08.932636+00:00",
     "likesCount": 1
   }
 ]
