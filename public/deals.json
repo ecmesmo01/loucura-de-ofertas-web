@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e41c4bd7",
+    "title": "Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L",
+    "description": "🔥 **Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L**  Transforme o cuidado com os seus cabelos! O queridinho dos salões agora na sua casa com um super des...",
+    "originalPrice": null,
+    "currentPrice": 224.21,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HNMFS6J9?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e41c4bd7.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:58:57.908076+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c6cdfed8",
     "title": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
     "description": "🔥 **Nautica Perfume Voyage Eau de Toilette Masculino 100ml**  Procurando uma fragrância marcante, refrescante e perfeita para o dia a dia? O clássico **Nautica Voyage** traz notas...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:28:05.326130+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5c0fb648",
-    "title": "Perfume Yves Saint Laurent YSL Masculino EDT 100ml",
-    "description": "🔥 **Perfume Yves Saint Laurent YSL Masculino EDT 100ml**  Procurando uma fragrância marcante, elegante e sofisticada? O clássico da alta perfumaria internacional está com um descon...",
-    "originalPrice": 1199.0,
-    "currentPrice": 479.0,
-    "discountPercentage": 60,
-    "couponCode": "1124MAISME",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-yves-saint-laurent-ysl-masculino-edt-100ml-amadeirado-aromatico/p/MLB27407227?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c0fb648.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T12:28:03.805689+00:00",
     "likesCount": 1
   }
 ]
