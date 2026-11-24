@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5c3c9dad",
+    "title": "Notebook Gamer Acer Nitro V15 ANV15",
+    "description": "🎁 Notebook Gamer Acer Nitro V15 ANV15-52-57MC Intel® Core™ i5-13420H de 13ªG 8GB RAM 512GB SSD RTX 4050 Linux 15.6\"  🔥 POR: R$ 4.769,10 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço...",
+    "originalPrice": null,
+    "currentPrice": 4769.1,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0894JX78M?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c3c9dad.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T14:27:13.577340+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3af4bf64",
     "title": "A57 5g (128gb) Cinza Watch9 Bt 44 Mm Grafite",
     "description": "🎁 A57 5G (128GB) - Cinza + Watch9 BT 44 mm - Grafite  🔥 POR: R$ 2.308,00 no PIX  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://shopee.co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:48:06.423905+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-7d1d00c1",
-    "title": "Ar-Condicionado Split Inverter TCL Breezein AI 9000 BTUs Frio",
-    "description": "❄️ **Ar-Condicionado Split Inverter TCL Breezein AI 9000 BTUs Frio**  Preço surreal para você garimpar conforto e economia na conta de luz! Equipamento moderno com alta eficiência...",
-    "originalPrice": 2791.0,
-    "currentPrice": 1638.0,
-    "discountPercentage": 41,
-    "couponCode": "DESCONTOSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-tcl-split-inverter-breezein-ai-9000-btus-frio/p/MLB75342806?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7d1d00c1.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T12:47:38.194153+00:00",
     "likesCount": 1
   }
 ]
