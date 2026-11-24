@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-b9fbc04b",
+    "title": "Maquina de Lavar Consul 9kg Branca com Dosagem C Branco",
+    "description": "9KG NO PRECINHO Loja Oficial Consul  Máquina de Lavar Consul 9Kg  De R$ 1.716 Por R$ 1.281 no Pix  Cupom: TECHHOME 🎟️  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/m...",
+    "originalPrice": 1716.0,
+    "currentPrice": 1281.0,
+    "discountPercentage": 25,
+    "couponCode": "TECHHOME",
+    "affiliateUrl": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-9kg-branca-com-dosagem-c-branco/p/MLB77715277?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b9fbc04b.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:37:02.227472+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6834299a",
     "title": "Fone de Ouvido Bluetooth Anker Soundcore P20i TWS",
     "description": "🎧 **Fone de Ouvido Bluetooth Anker Soundcore P20i TWS**  Procurando o som perfeito para o seu treino ou dia a dia? O **Soundcore P20i** entrega graves potentes com a tecnologia Bas...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:14:57.846528+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-40370867",
-    "title": "Frigobar Brastemp Retrô 76 Litros Classic White BRA08MB Branco",
-    "description": "🔥 **Frigobar Brastemp Retrô 76 Litros Classic White BRA08MB Branco**  Menor preço histórico registrado! Garanta já o seu frigobar com aquele design retrô icônico que transforma qua...",
-    "originalPrice": null,
-    "currentPrice": 1254.0,
-    "discountPercentage": null,
-    "couponCode": "TECHHOME",
-    "affiliateUrl": "https://www.mercadolivre.com.br/frigobar-brastemp-retro-76-litros-classic-white-bra08mb-branco/p/MLB66562120?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-40370867.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:14:37.588799+00:00",
     "likesCount": 1
   }
 ]
