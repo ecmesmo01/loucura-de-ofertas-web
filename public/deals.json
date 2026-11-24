@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-27ce12ec",
+    "title": "Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacia",
+    "description": "🎁 Amazon Echo Show 8 (Geração mais recente) - Com novo design, tela vibrante HD de 8,7\", áudio espacial e Alexa, Cor Grafite, com Acesso Antecipado à Alexa+  🔥 Por: R$ 1.349,00 💳 o...",
+    "originalPrice": null,
+    "currentPrice": 1349.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DYC2GV1Z?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-27ce12ec.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:59:59.711074+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4c635fc1",
     "title": "Street Fighter 6 - Year 1",
     "description": "🎁 Street Fighter 6 - Year 1 - 2 | Fighters Edition - PlayStation 5  🔥 Por: R$ 119,90 💳 ou em 3x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com descon...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T16:16:20.509853+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b103d640",
-    "title": "Projetor Powerlite E24 Epson 3.600 Lúmens XGA",
-    "description": "🔥 **Projetor Powerlite E24 Epson 3.600 Lúmens XGA**  Transforme qualquer ambiente em uma verdadeira sala de cinema ou prepare apresentações profissionais impecáveis! Com alta lumin...",
-    "originalPrice": null,
-    "currentPrice": 2699.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/projetor-powerlite-e24-epson-3600-lumens-xga/p/MLB61372830?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b103d640.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T16:16:07.212767+00:00",
     "likesCount": 1
   }
 ]
