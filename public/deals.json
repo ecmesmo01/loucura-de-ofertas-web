@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-221f9a42",
+    "title": "Amazon Echo Dot Max (Geração mais recente)",
+    "description": "🔥 **Amazon Echo Dot Max (Geração mais recente)**  Leve a sua casa inteligente para o próximo nível com o novo smart speaker da Amazon! O **Amazon Echo Dot Max** conta com som incri...",
+    "originalPrice": 699.0,
+    "currentPrice": 599.0,
+    "discountPercentage": 14,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DKLQT9XR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-221f9a42.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T11:12:55.126306+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0285eb17",
     "title": "Apple iPhone 17e 256GB Preto",
     "description": "🔥 **Apple iPhone 17e 256GB Preto**  Procurando o equilíbrio perfeito entre desempenho, tecnologia de ponta e espaço de sobra? O novo iPhone 17e chegou com tudo e está com um preço...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:28:15.207682+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5d14a257",
-    "title": "Samsung Galaxy Watch8 Classic Smartwatch 46mm Lte Galaxy Ai Tela em Cristal de Safira Branco",
-    "description": "Samsung Galaxy Watch8 Classic 46mm LTE Branco -  R$1538 no PIX #anúncio Cupom: MELIGARANTE  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/samsung-galaxy-watch8-classi...",
-    "originalPrice": null,
-    "currentPrice": 1538.0,
-    "discountPercentage": null,
-    "couponCode": "MELIGARANTE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/samsung-galaxy-watch8-classic-smartwatch-46mm-lte-galaxy-ai-tela-em-cristal-de-safira-branco/p/MLB57726898?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5d14a257.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:28:12.868985+00:00",
     "likesCount": 1
   }
 ]
