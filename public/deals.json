@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7a51c95e",
+    "title": "Tênis Reserva Vortex",
+    "description": "🔥 **Tênis Reserva Vortex**  Para quem não abre mão do estilo clássico, elegante e com o conforto incomparável que só a Reserva entrega! Um modelo versátil, perfeito para elevar qua...",
+    "originalPrice": 369.0,
+    "currentPrice": 237.0,
+    "discountPercentage": 36,
+    "couponCode": "DESCONTOSMELI",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2977420478-tnis-reserva-typer-r-branco-e-preto-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7a51c95e.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T12:41:30.739656+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-576782c1",
     "title": "Tablet Samsung Galaxy Tab S10 FE 128GB 8GB RAM Tela 10.9\" 90Hz",
     "description": "🔥 **Tablet Samsung Galaxy Tab S10 FE 128GB 8GB RAM Tela 10.9\" 90Hz**  O tablet perfeito para turbinar seus estudos, trabalho e entretenimento! Desfrute de alta performance com 8GB...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T10:57:57.749746+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d137b42e",
-    "title": "Smartphone Samsung Galaxy A07 128GB 4GB RAM",
-    "description": "🔥 **Smartphone Samsung Galaxy A07 128GB 4GB RAM**  Procurando um celular moderno, com excelente espaço interno e que não pesa no bolso? O Galaxy A07 entrega tudo o que você precisa...",
-    "originalPrice": null,
-    "currentPrice": 719.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-128gb-4gb-tela-grande/p/MLB66053451?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d137b42e.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T10:55:56.769757+00:00",
     "likesCount": 1
   }
 ]
