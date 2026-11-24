@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d2a5cf42",
+    "title": "Amazon Fire TV Stick HD (Modelo Mais Recente) com Controle Remoto por Voz com Alexa",
+    "description": "🔥 **Amazon Fire TV Stick HD (Modelo Mais Recente) com Controle Remoto por Voz com Alexa**  Transforme qualquer TV em uma Smart TV completa de forma simples e rápida! Tenha acesso a...",
+    "originalPrice": null,
+    "currentPrice": 220.5,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DVK166SV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d2a5cf42.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:56:57.435107+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-12e64f1b",
     "title": "Kit Com 10 Cuecas Boxer Masculina Microfibra Original",
     "description": "🩲 **Kit Com 10 Cuecas Boxer Masculina Microfibra Original**  Renove suas gavetas com conforto e economia de verdade! Leve um kit completo com 10 unidades em tecido leve, macio e qu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:26:00.087489+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-cbb548e2",
-    "title": "Asus Vivobook Go 15",
-    "description": "🔥 **Notebook Asus Vivobook Go 15 E1504 AMD Ryzen 5 7520U 8GB RAM 256GB SSD Linux KeepOS 15,6\" FHD Black E1504FA-NJ731**  Procurando um notebook moderno, rápido e com excelente cust...",
-    "originalPrice": null,
-    "currentPrice": 2549.0,
-    "discountPercentage": null,
-    "couponCode": "QUEROOFFHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-e1504-amd-ryzen-5-7520u-8gb-ram-256gb-ssd-linux-keepos-156-fhd-black-e1504fa-nj731/p/MLB36772633?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-cbb548e2.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T12:25:58.716856+00:00",
     "likesCount": 1
   }
 ]
