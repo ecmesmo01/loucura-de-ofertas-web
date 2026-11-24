@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2f2556ae",
+    "title": "Whey Protein Vitafor Fort 3W 900g (Sabor Baunilha)",
+    "description": "🔥 **Whey Protein Vitafor Fort 3W 900g (Sabor Baunilha)**  Quer elevar seus treinos e garantir uma suplementação de alto nível sem gastar uma fortuna? Encontramos o custo-benefício...",
+    "originalPrice": 373.0,
+    "currentPrice": 169.0,
+    "discountPercentage": 55,
+    "couponCode": "BEMESTAR",
+    "affiliateUrl": "https://www.mercadolivre.com.br/whey-fort-3w-900g-protein-sabor-baunilha-vitafor/p/MLB22336595?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2f2556ae.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:28:59.322788+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-e0f45f0f",
     "title": "Tênis Lacoste Masculino Backcourt",
     "description": "🔥 **Tênis Lacoste Masculino Backcourt**  Estilo e sofisticação da marca do crocodilo com um super desconto na Loja Oficial do Mercado Livre! Disponível em 4 cores e numeração do 38...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:02:02.487754+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3b90ca88",
-    "title": "Aspirador de Pó e Água Wap GTW 10 1400W com Bocal de Sopro",
-    "description": "🔥 **Aspirador de Pó e Água Wap GTW 10 1400W com Bocal de Sopro**  Limpeza pesada e prática com a potência que você precisa! O **Aspirador de Pó e Água Wap GTW 10** conta com 1400W...",
-    "originalPrice": null,
-    "currentPrice": 89.0,
-    "discountPercentage": null,
-    "couponCode": "OFICIAIS2411",
-    "affiliateUrl": "https://www.mercadolivre.com.br/aspirador-de-po-e-agua-wap-gtw-10-1400w-de-potencia-com-bocal-de-sopro/p/MLB8923631?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T12:01:17.888255+00:00",
     "likesCount": 1
   }
 ]
