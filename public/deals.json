@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-70aca70e",
+    "title": "Apple iPhone 17 256GB — Preto",
+    "description": "🔥 **Apple iPhone 17 256GB — Preto**  Procurando o smartphone definitivo? O cobiçado **Apple iPhone 17** de 256GB está com um preço simplesmente inacreditável para você garantir o s...",
+    "originalPrice": null,
+    "currentPrice": 5273.1,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQW2J4SK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-70aca70e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:25:56.558086+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-09538578",
     "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das e",
     "description": "🎁 Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G  💸 De: R$ 3.699,00 🔥 POR: R$ 1.610 no PIX 🎟 Cupom: 20BF26PRIME...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:55:56.703801+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-074f85b2",
-    "title": "Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E",
-    "description": "🔥 **Monitor Gamer Curvo AOC AGON QUAD 32\" 180Hz 0,5ms HDR10 CQ32G4E**  Procurando a imersão definitiva para suas jogadas ou produtividade? Esse monitor da AOC entrega tudo com tela...",
-    "originalPrice": null,
-    "currentPrice": 989.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FGDJTN6V?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-074f85b2.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:54:55.539100+00:00",
     "likesCount": 1
   }
 ]
