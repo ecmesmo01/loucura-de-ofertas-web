@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e51e2bc9",
+    "title": "Controle Pro Controller Nintendo Switch",
+    "description": "🎮 **Controle Pro Controller Nintendo Switch**  Eleve o nível das suas jogadas com ergonomia profissional, maior precisão nos comandos e bateria de longa duração para horas de gamep...",
+    "originalPrice": null,
+    "currentPrice": 278.04,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B08M141D9N?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e51e2bc9.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:40:58.148951+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7fad8527",
     "title": "Fritadeira Elétrica sem óleo Forno Oven Airfryer 12L Digital Electrolux EAF90 Grafite 127V por Rita",
     "description": "🔥 **Fritadeira Elétrica sem óleo Forno Oven Airfryer 12L Digital Electrolux EAF90 Grafite 127V por Rita Lobo**  Prepare receitas incríveis com muito mais praticidade, espaço e tecn...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:22:51.801853+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-668de895",
-    "title": "Monitor LG 24\" IPS 144Hz 1ms 24U411B-B.AWZM",
-    "description": "🎁 Monitor LG 24\" IPS 144Hz 1ms 24U411B-B.AWZM  🔥 POR: R$ 472,00 🎟️ Cupom: CUPOMAMAZON  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www...",
-    "originalPrice": null,
-    "currentPrice": 472.0,
-    "discountPercentage": null,
-    "couponCode": "CUPOMAMAZON",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HCVW2HPS?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-668de895.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:22:50.513064+00:00",
     "likesCount": 1
   }
 ]
