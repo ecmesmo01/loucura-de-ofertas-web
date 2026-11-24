@@ -59,15 +59,9 @@ export const App: React.FC = () => {
   const GITHUB_DEALS_URL = 'https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/deals.json';
 
   const loadDealsData = async () => {
-    // 1. Tenta carregar do GitHub Raw (atualizado instantaneamente pelo robô sem depender de build da Vercel)
+    // 1. Tenta carregar do GitHub Raw em tempo real (Simple GET sem headers customizados para evitar preflight OPTIONS 403)
     try {
-      const ghRes = await fetch(`${GITHUB_DEALS_URL}?t=${Date.now()}`, {
-        cache: 'no-store',
-        headers: {
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-          'Pragma': 'no-cache'
-        }
-      });
+      const ghRes = await fetch(`${GITHUB_DEALS_URL}?t=${Date.now()}`);
       if (ghRes.ok) {
         const ghData = await ghRes.json();
         if (Array.isArray(ghData) && ghData.length > 0) {
@@ -81,13 +75,7 @@ export const App: React.FC = () => {
 
     // 2. Fallback para /deals.json local
     try {
-      const res = await fetch(`/deals.json?t=${Date.now()}`, {
-        cache: 'no-store',
-        headers: {
-          'Cache-Control': 'no-cache, no-store, must-revalidate',
-          'Pragma': 'no-cache'
-        }
-      });
+      const res = await fetch(`/deals.json?t=${Date.now()}`);
       if (res.ok) {
         const data = await res.json();
         if (Array.isArray(data) && data.length > 0) {
@@ -101,6 +89,8 @@ export const App: React.FC = () => {
 
   useEffect(() => {
     loadDealsData();
+    const interval = setInterval(loadDealsData, 30000);
+    return () => clearInterval(interval);
   }, []);
 
   const handleRefresh = async () => {
