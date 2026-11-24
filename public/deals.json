@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e07f5fd9",
+    "title": "Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4",
+    "description": "🔥 **Processador AMD Ryzen 5 5500 3.6GHz 4.2GHz Max Turbo Cache 16MB AM4**  Quer dar um salto de desempenho no seu PC sem gastar uma fortuna? O Ryzen 5 5500 entrega alta performance...",
+    "originalPrice": null,
+    "currentPrice": 434.0,
+    "discountPercentage": null,
+    "couponCode": "1124MAISME",
+    "affiliateUrl": "https://www.mercadolivre.com.br/processador-amd-ryzen-5-5500-36ghz-42ghz-max-turbo-cache-16mb-am4/p/MLB19444510?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e07f5fd9.jpg",
+    "store": "mercadolivre",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T12:06:00.169990+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f96eb011",
     "title": "Lavadora de Alta Pressão Kärcher Pratica Black 1500 PSI 1400W 300L/h",
     "description": "🔥 **Lavadora de Alta Pressão Kärcher Pratica Black 1500 PSI 1400W 300L/h**  Chegou a hora de garantir mais praticidade e potência para a limpeza da sua casa ou quintal com um super...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T00:29:52.222861+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-7627f718",
-    "title": "Comunicador Baofeng Bf 777s Talkabout Fone",
-    "description": "TESTANDO 123 TESTANDO CÂMBIO  Kit com 2 Radio Comunicador Baofeng  De R$ 199 por R$ 84 no Pix  Vendido por Loja Oficial no ML  🛒 Compre com desconto aqui: https://www.mercadolivre....",
-    "originalPrice": 199.0,
-    "currentPrice": 84.0,
-    "discountPercentage": 58,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/comunicador-baofeng-bf-777s-talkabout-fone/p/MLB23075649?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7627f718.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T00:23:53.192622+00:00",
     "likesCount": 1
   }
 ]
