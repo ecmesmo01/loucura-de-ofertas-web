@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5e07cd72",
+    "title": "Smart TV UHD 4K Hi-QLED 75\" Hisense 75Q6QV HDR10+ Dolby Atmos",
+    "description": "🔥 **Smart TV UHD 4K Hi-QLED 75\" Hisense 75Q6QV HDR10+ Dolby Atmos**  Quer transformar sua sala em um verdadeiro cinema? Chegou a oportunidade que faltava para você garantir uma tel...",
+    "originalPrice": null,
+    "currentPrice": 3899.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FL4N5RG6?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5e07cd72.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T18:10:58.929026+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8fa64b74",
     "title": "Camiseta Tommy Hilfiger Masculina Azul Marinho Algodão",
     "description": "🔥 **Camiseta Tommy Hilfiger Masculina Azul Marinho Algodão**  Renove seu estilo com elegância e o conforto inconfundível da Tommy Hilfiger. Peça versátil e essencial para compor lo...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:30:04.632921+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-cb0425a2",
-    "title": "Tênis Fila Efecto 2 Masculino Grafite/Preto Treino e Academia",
-    "description": "🔥 **Tênis Fila Efecto 2 Masculino Grafite/Preto Treino e Academia**  Procurando o parceiro ideal para os seus treinos e para o corre do dia a dia? Esse modelo da Fila entrega o máx...",
-    "originalPrice": null,
-    "currentPrice": 159.0,
-    "discountPercentage": null,
-    "couponCode": "VOCEDEZ",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5755083446-tnis-fila-efecto-2-masculino-grafite-preto-treino-academia-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-cb0425a2.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:26:22.921768+00:00",
     "likesCount": 1
   }
 ]
