@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-dac64325",
+    "title": "Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto",
+    "description": "🎧 **Fone de Ouvido Sem Fio HUAWEI FreeBuds SE 2, Preto**  Procurando autonomia de verdade e som de alta qualidade para o seu dia a dia? Esse modelo entrega até 40 horas de bateria...",
+    "originalPrice": null,
+    "currentPrice": 119.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0D45QCBF7?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dac64325.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:14:55.650479+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-221f9a42",
     "title": "Amazon Echo Dot Max (Geração mais recente)",
     "description": "🔥 **Amazon Echo Dot Max (Geração mais recente)**  Leve a sua casa inteligente para o próximo nível com o novo smart speaker da Amazon! O **Amazon Echo Dot Max** conta com som incri...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:29:12.287662+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0a26d650",
-    "title": "Relogio Smartwatch Redmiwatch 5 Active Prata Xiaomi Branco Preto Prateado",
-    "description": "BONITO E AINDA INTELIGENTE  Smartwatch Aurafit G12 GPS  De R$ 419 por R$ 199 no Pix Use o Cupom: ECONOMIZEI  ou MELIGARANTE 🎟️ + Selecione Pix  Loja Verificada no ML  🛒 Compre com...",
-    "originalPrice": 419.0,
-    "currentPrice": 199.0,
-    "discountPercentage": 53,
-    "couponCode": "ECONOMIZEI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/relogio-smartwatch-redmiwatch-5-active-prata-xiaomi-branco-preto-prateado/p/MLB69247468?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0a26d650.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:28:15.207682+00:00",
     "likesCount": 1
   }
 ]
