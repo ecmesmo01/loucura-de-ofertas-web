@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-eaa84aca",
+    "title": "Perfume Masculino Eau de Parfum Ralph Lauren Polo Blue 125 Ml",
+    "description": "POLO BLUE NA VERSÃO PARFUM  Perfume Ralph Lauren Polo Blue EDP 125ml  De R$ 929 por R$ 436 no Pix Use o Cupom: BLACKDELUXO 🎟️ + Selecione PIx  Loja Oficial Ralph Lauren no ML  🛒 Co...",
+    "originalPrice": 929.0,
+    "currentPrice": 436.0,
+    "discountPercentage": 53,
+    "couponCode": "BLACKDELUXO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-masculino-eau-de-parfum-ralph-lauren-polo-blue-125-ml/p/MLB6275129?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-eaa84aca.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T23:21:12.826026+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6a273487",
     "title": "Armani Beauty Perfume Masculino Acqua Di Gi Parfum 100ml",
     "description": "ACQUA DI GIO VERSÃO PARFUM  Perfume Acqua di Giò Parfum 100ml  De R$ 1.029 por R$ 537 no Pix Use o Cupom: BLACKDELUXO 🎟️ + Selecione Pix  Loja Oficial Armani no ML  🛒 Compre com de...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:26:02.228345+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-13ed6b33",
-    "title": "Perfume Jean Paul Gaultier La Belle Eau de Parfum 100ml Feminino",
-    "description": "JEAN PRA ELAS, pagando com Cartão Mercado Pago  Perfume Jean Paul Gaultier La Belle EDP 100ml Feminino  De R$ 979 por R$ 504 Use o Cupom: VEMPROMP 🎟️  Vendido por Loja Oficial no M...",
-    "originalPrice": 979.0,
-    "currentPrice": 504.0,
-    "discountPercentage": 49,
-    "couponCode": "VEMPROMP",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-la-belle-eau-de-parfum-100ml-feminino/p/MLB23271534?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-13ed6b33.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:25:11.236010+00:00",
     "likesCount": 1
   }
 ]
