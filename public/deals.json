@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3bb4b1bc",
+    "title": "Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz, Aw2525hm | NVIDIA G-SYNC, Tempo de Respo",
+    "description": "🎁 Monitor Gamer Alienware 25\", Full Hd (1920 x 1080), 320 Hz, Aw2525hm | NVIDIA G-SYNC, Tempo de Resposta 0,5 ms, 400 nits, 1000:1 de contraste, 99% sRGB, 2 HDMI 2.1, 1 DisplayPort...",
+    "originalPrice": null,
+    "currentPrice": 1369.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK150",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FH5NMXHK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3bb4b1bc.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:25:07.871918+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8e8ea48a",
     "title": "Notebook Lenovo IdeaPad Slim 3 RYZEN 7",
     "description": "🔥 Notebook Lenovo IdeaPad Slim 3 RYZEN 7  - Ryzen 7 7735HS (8 núcleos e 16 threads) - Painel IPS - 8GB RAM (expansível) - 256GB SSD (Expansível) - PLACA DE VÍDEO Radeon™ 680M (inte...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:10:39.845338+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-cc53f09d",
-    "title": "Aspirador Vertical Britânia BAS1295P 1250W Preto",
-    "description": "🔥 **Aspirador Vertical Britânia BAS1295P 1250W Preto**  Chegou a hora de aposentar a vassoura e facilitar a limpeza da sua casa! Com 1250W de potência, esse aspirador garante prati...",
-    "originalPrice": 239.0,
-    "currentPrice": 128.0,
-    "discountPercentage": 46,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/aspirador-vertical-britania-bas1295p-1250w-preto/p/MLB25363151?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-cc53f09d.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:10:07.463893+00:00",
     "likesCount": 1
   }
 ]
