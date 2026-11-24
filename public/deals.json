@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6b5dc9ae",
+    "title": "Liquidificador Electrolux 1000W 2,7L Efficient com TriForce 5 Velocidades Cinza EBL1000 220V",
+    "description": "🎁 Liquidificador Electrolux 1000W 2,7L Efficient com TriForce 5 Velocidades Cinza EBL1000 220V  💸 De: R$ 179,00 🔥 POR: R$ 119,00 no PIX  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoqu...",
+    "originalPrice": 179.0,
+    "currentPrice": 119.0,
+    "discountPercentage": 34,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FPRCRFKM?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6b5dc9ae.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:44:58.990950+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b1cbc5ad",
     "title": "Smartphone Motorola Razr 60",
     "description": "🎁 Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho  🔥 Por: R$ 2.899,00 💳 ou em 12x no cartão  🛒...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T16:10:02.184427+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a6cd2244",
-    "title": "Smart Tv Philips 65 4k Google Tv Comando de Voz 65pug7231",
-    "description": "🎁 Smart Tv Philips 65 4k Google Tv Comando De Voz 65pug7231  🔥 POR: R$ 2.899,00 no Pix 🎟️ Cupom: OFERTAPRATECH  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com d...",
-    "originalPrice": null,
-    "currentPrice": 2899.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-philips-65-4k-google-tv-comando-de-voz-65pug7231/p/MLB82854595?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a6cd2244.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T16:07:26.679164+00:00",
     "likesCount": 1
   }
 ]
