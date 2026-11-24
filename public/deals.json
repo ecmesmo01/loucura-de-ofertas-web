@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c03c5660",
+    "title": "Smart TV 50\" Mini LED 4K Samsung M75H + Soundbar HW-B400F",
+    "description": "🔥 **Smart TV 50\" Mini LED 4K Samsung M75H + Soundbar HW-B400F**  Quer transformar sua sala em um verdadeiro cinema com som potente e imagem de altíssima qualidade? Essa é a oportun...",
+    "originalPrice": null,
+    "currentPrice": 2564.1,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HG4QGX3Y?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c03c5660.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:52:55.178576+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c850176d",
     "title": "Multivitamínico Growth Supplements 120 Cápsulas",
     "description": "💊 **Multivitamínico Growth Supplements 120 Cápsulas**  Dê um adeus definitivo àquela sensação de cansaço constante e fortaleça sua imunidade com a qualidade que você já conhece. Ga...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:53:52.461316+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0c2edc34",
-    "title": "Cadeira de escritório com design ergonômico conforme NR",
-    "description": "🎁 Cadeira de escritório com design ergonômico conforme NR-17, suporte lombar independente, malha respirável e encosto de cabeça ajustável,Python Fly (Cinza)  💸 De: R$ 399,00 🔥 POR:...",
-    "originalPrice": 399.0,
-    "currentPrice": 280.78,
-    "discountPercentage": 30,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CG8LWT97?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0c2edc34.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:43:50.851970+00:00",
     "likesCount": 1
   }
 ]
