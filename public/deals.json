@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-40e3cc1d",
+    "title": "Geladeira Electrolux Frost Free 320L",
+    "description": "Geladeira Electrolux Frost Free 320L -  R$2023 no PIX #anúncio  -Resgate e use o cupom de R$100 OFF 👉  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/1526836548/22194482...",
+    "originalPrice": null,
+    "currentPrice": 2023.0,
+    "discountPercentage": null,
+    "couponCode": "SHOPEE",
+    "affiliateUrl": "https://shopee.com.br/opaanlp/1526836548/22194482785?__mobile__=1&credential_token=3fbCuxANX4ixu3fTZLPVBXn8NfcaWao7XP8TYEnaarjzP&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAytDcibU2ljTaSgtpXHXt3Ckabn-lNokL3b_hjvnlYyrv6tEsaK2KzW3vQq-x67Uaz0QxBskr8GYx4zNY1nGlkESFYjEduAXU6o1j5GlKvvo6ThIWcv2UIIIuTTyejX4LxGnptdg108jziYt4NAyH4VSHs8iZ0J6kxgJQUix3LraoXmKJv6L-TEMI7rSa19uPXfqqnJvA&mmp_pid=an_18386310690&uls_trackid=57730lcg00br&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-40e3cc1d.jpg",
+    "store": "shopee",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T14:09:29.860789+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-dd442671",
     "title": "Placa de Vídeo ASRock Radeon RX 7600 Challenger OC, 8GB, GDDR6, 128-Bit, FSR, Ray Tracing, Preto",
     "description": "🔥 **Placa de Vídeo ASRock Radeon RX 7600 Challenger OC, 8GB, GDDR6, 128-Bit, FSR, Ray Tracing, Preto**  Procurando o upgrade definitivo para o seu setup gamer? A RX 7600 entrega al...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:34:00.709083+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-1a803fe8",
-    "title": "Notebook Gamer Acer Nitro V16 ANV16 Intel Core 5 210H 8GB RAM 512GB SSD RTX 5060 Linux 16",
-    "description": "🔥 **Notebook Gamer Acer Nitro V16 ANV16 Intel Core 5 210H 8GB RAM 512GB SSD RTX 5060 Linux 16\"**  Procurando potência máxima para rodar seus jogos favoritos e softwares pesados sem...",
-    "originalPrice": null,
-    "currentPrice": 6599.0,
-    "discountPercentage": null,
-    "couponCode": "SUJEITO",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-gamer-acer-nitro-v16-anv16-i31-58mm-intel-core-5-210h-8gb-ram-512gb-ssd-rtx-5060-linux-16-wuxga/p/MLB81506790?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T12:33:58.680173+00:00",
     "likesCount": 1
   }
 ]
