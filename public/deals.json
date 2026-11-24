@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2b4e00d6",
+    "title": "Caixa de Som Portátil Bluetooth AOC ACS5311 37W",
+    "description": "🔊 **Caixa de Som Portátil Bluetooth AOC ACS5311 37W**  Procurando som potente e graves profundos para animar qualquer ambiente? Essa é a escolha ideal! Com certificação IP67 à prov...",
+    "originalPrice": null,
+    "currentPrice": 190.95,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GV3RBVQN?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2b4e00d6.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:32:00.429566+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-69fa0438",
     "title": "Smart TV 4K 85\" LG Nano UHD AI NU855 (Modelo 2026)",
     "description": "🔥 **Smart TV 4K 85\" LG Nano UHD AI NU855 (Modelo 2026)**  Uma tela gigante de 85 polegadas com qualidade de imagem impressionante para transformar a sua sala em um verdadeiro cinem...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:04:08.932636+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5c5d7083",
-    "title": "Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das e",
-    "description": "🎁 Apple Watch SE 3 GPS, Caixa em alumínio luz das estrelas de 44 mm com Bracelete desportiva luz das estrelas - M/G  💸 De: R$ 3.699,00 🔥 POR: R$ 1.710,00 no PIX 🎟️ Cupom: 20BF26PRI...",
-    "originalPrice": 3699.0,
-    "currentPrice": 1710.0,
-    "discountPercentage": 54,
-    "couponCode": "20BF26PRIME",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FQG1SWXN?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c5d7083.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:58:50.050014+00:00",
     "likesCount": 1
   }
 ]
