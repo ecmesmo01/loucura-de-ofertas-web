@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fa1fec91",
+    "title": "Processador AMD Ryzen 9 5900XT Box (AM4/ 16 Cores/ 32 Threads/ 4.8GHz/ 72 MB Cache/Sem Video/Sem Coo",
+    "description": "🎁 Processador AMD Ryzen 9 5900XT Box (AM4/ 16 Cores/ 32 Threads/ 4.8GHz/ 72 MB Cache/Sem Video/Sem Cooler)  🔥 Por: R$ 2.079,99 💳 ou em 10x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | P...",
+    "originalPrice": null,
+    "currentPrice": 2079.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0D6NMCZG1?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-fa1fec91.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T20:00:05.987540+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-00e77304",
     "title": "Apple iPhone 15 (128GB) — Preto",
     "description": "🎁 Apple iPhone 15 (128GB) — Preto  🔥 POR: R$ 3.419,00 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B0CP6C...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T17:25:44.019236+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ccb6e1e9",
-    "title": "Geladeira Frost Free Inverse Inverter 401L Branca Midea MDRB548FGD013 Bivolt",
-    "description": "🔥 **Geladeira Frost Free Inverse Inverter 401L Branca Midea MDRB548FGD013 Bivolt**  Procurando espaço de sobra, modernidade e economia para a sua cozinha? Essa é a oportunidade per...",
-    "originalPrice": null,
-    "currentPrice": 2419.0,
-    "discountPercentage": null,
-    "couponCode": "QUEROOFFHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-frost-free-inverse-inverter-401l-branca-midea-branco-mdrb548fgd013-bivolt/p/MLB66041357?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ccb6e1e9.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T17:21:01.670552+00:00",
     "likesCount": 1
   }
 ]
