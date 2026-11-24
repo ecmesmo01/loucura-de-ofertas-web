@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6332e69e",
+    "title": "Fone de Ouvido Bluetooth Over-Ear JBL Tune 730BT Azul",
+    "description": "🎧 **Fone de Ouvido Bluetooth Over-Ear JBL Tune 730BT Azul**  Procurando a trilha sonora perfeita para o seu dia com conforto total? O JBL Tune 730BT entrega som de alta qualidade c...",
+    "originalPrice": null,
+    "currentPrice": 233.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GR1DZZZX?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6332e69e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T13:15:11.877948+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-aaa57e38",
     "title": "Tênis Kappa Pulse Rx Unissex Corrida Conforto",
     "description": "🔥 **Tênis Kappa Pulse Rx Unissex Corrida Conforto**  O custo-benefício definitivo para turbinar a sua corrida e o seu dia a dia chegou com preço de ocasião! Disponível em 8 cores i...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:41:10.624078+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e51e2bc9",
-    "title": "Controle Pro Controller Nintendo Switch",
-    "description": "🎮 **Controle Pro Controller Nintendo Switch**  Eleve o nível das suas jogadas com ergonomia profissional, maior precisão nos comandos e bateria de longa duração para horas de gamep...",
-    "originalPrice": null,
-    "currentPrice": 278.04,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B08M141D9N?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e51e2bc9.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:40:58.148951+00:00",
     "likesCount": 1
   }
 ]
