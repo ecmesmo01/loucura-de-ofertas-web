@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7ed389c2",
+    "title": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5",
+    "description": "🔥 Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H  - 8GB RAM - 256GB SSD - Linux  💵 R$ 2897 -  10x Sem Juros  🎟️ Cupom: 25BF26PRIME  🔗 LINK:   ⚠️Cupom, preço e estoque...",
+    "originalPrice": null,
+    "currentPrice": 2897.0,
+    "discountPercentage": null,
+    "couponCode": "25BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GL39RFGC?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7ed389c2.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T02:35:52.336331+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-1d2c9d95",
     "title": "Notebook ASUS Vivobook 15 Ryzen 7 5825U (VERSÃO COM 512GB SSD ) -- NJ611",
     "description": "🔥 Notebook ASUS Vivobook 15 Ryzen 7 5825U (VERSÃO COM 512GB SSD ) -- NJ611  - PAINEL IPS - 8Gb Ram (Expansível) - 512 GB SSD (Expansível) - Linux  💵 R$ 2499 REAIS  🎟️ Cupom: 25BF26...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T21:05:59.096768+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f964704e",
-    "title": "Kit 3 Chinelos Masculinosfemininos",
-    "description": "24 CONTO CADA CHINELINHO  Kit com 2 Chinelos Polo Wear  De R$ 119 por R$ 49  Vendido por Loja Oficial no ML  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-715...",
-    "originalPrice": 119.0,
-    "currentPrice": 49.0,
-    "discountPercentage": 59,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-7159089182-kit-3-chinelos-masculinosfemininos-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-f964704e.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T21:03:01.395566+00:00",
     "likesCount": 1
   }
 ]
