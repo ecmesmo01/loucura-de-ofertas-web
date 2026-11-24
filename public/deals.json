@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-15a50566",
+    "title": "Perfume Rabanne Lady Million Royal Eau de Parfum 80 Ml Feminino",
+    "description": "LADY MILLION ROYAL PARCELADINHO  Perfume Rabanne Lady Million Royal EDP 80ml  De R$ 869 por R$ 432 em 8x Use o Cupom: DESCONTOSMELI 🎟️  Vendido por Loja Oficial no ML  🛒 Compre com...",
+    "originalPrice": 869.0,
+    "currentPrice": 432.0,
+    "discountPercentage": 50,
+    "couponCode": "DESCONTOSMELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-rabanne-lady-million-royal-eau-de-parfum-80-ml-feminino/p/MLB27075749?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-15a50566.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:27:59.967365+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-70aca70e",
     "title": "Apple iPhone 17 256GB — Preto",
     "description": "🔥 **Apple iPhone 17 256GB — Preto**  Procurando o smartphone definitivo? O cobiçado **Apple iPhone 17** de 256GB está com um preço simplesmente inacreditável para você garantir o s...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:58:55.058332+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-bdc941ed",
-    "title": "Tablet Lenovo Idea Tab Pro, Processador Snapdragon 8s Gen 4, 8GB RAM, 256GB, Tela 13\" 3.5K 144Hz Wi‑",
-    "description": "🎁 Tablet Lenovo Idea Tab Pro, Processador Snapdragon 8s Gen 4, 8GB RAM, 256GB, Tela 13\" 3.5K 144Hz Wi‑Fi, Android 16, Caneta + Folio  🔥 Por: R$ 3.149,00 💳 ou em 10x no cartão  🛒 Co...",
-    "originalPrice": null,
-    "currentPrice": 3149.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GX2Q4SBN?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-bdc941ed.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:55:56.703801+00:00",
     "likesCount": 1
   }
 ]
