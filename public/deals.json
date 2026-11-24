@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c6cdfed8",
+    "title": "Nautica Perfume Voyage Eau de Toilette Masculino 100ml",
+    "description": "🔥 **Nautica Perfume Voyage Eau de Toilette Masculino 100ml**  Procurando uma fragrância marcante, refrescante e perfeita para o dia a dia? O clássico **Nautica Voyage** traz notas...",
+    "originalPrice": null,
+    "currentPrice": 98.12,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B01I54ITP0?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c6cdfed8.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:58:06.867165+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d2a5cf42",
     "title": "Amazon Fire TV Stick HD (Modelo Mais Recente) com Controle Remoto por Voz com Alexa",
     "description": "🔥 **Amazon Fire TV Stick HD (Modelo Mais Recente) com Controle Remoto por Voz com Alexa**  Transforme qualquer TV em uma Smart TV completa de forma simples e rápida! Tenha acesso a...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:28:03.805689+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-86ff987d",
-    "title": "Smartphone Oppo A6t 128gb 12gb Ram 4gb 8gb Ram Virtual Bateria Gigante 6500 Mah Camera Ai Violeta",
-    "description": "🔥 **Smartphone OPPO A6t 128GB 12GB RAM (4GB + 8GB RAM Virtual) Bateria Gigante 6500 mAh Câmera AI Violeta**  Procurando um celular com bateria de longa duração e ótimo desempenho s...",
-    "originalPrice": null,
-    "currentPrice": 719.09,
-    "discountPercentage": null,
-    "couponCode": "DESCONTOSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smartphone-oppo-a6t-128gb-12gb-ram-4gb-8gb-ram-virtual-bateria-gigante-6500-mah-camera-ai-violeta/p/MLB75697418?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-86ff987d.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T12:26:00.087489+00:00",
     "likesCount": 1
   }
 ]
