@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-32caaaef",
+    "title": "Kit Wella Nutri Enrich Shampoo Condicionador 1l Valvulas",
+    "description": "PREÇÃO NO KIT WELLA  Kit Wella Invigo Nutri Enrich Shampoo 1L + Cond 1L  De R$ 446 por R$ 231 no Pix Use o Cupom: VOCEDEZ 🎟️ + Selecione Pix  Vendido por Loja Oficial no ML  🛒 Comp...",
+    "originalPrice": 446.0,
+    "currentPrice": 231.0,
+    "discountPercentage": 48,
+    "couponCode": "VOCEDEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-wella-nutri-enrich-shampoo-condicionador-1l-valvulas/p/MLB62664301?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-32caaaef.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T17:26:23.912645+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7515ffa9",
     "title": "Purificador de Água Electrolux Eletrônico Compacto Efficient Painel Digital Bivolt Branco PE11B",
     "description": "💧 **Purificador de Água Electrolux Eletrônico Compacto Efficient Painel Digital Bivolt Branco PE11B**  Água pura, gelada e na temperatura ideal direto na sua casa com muita economi...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:07:28.337412+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-016f4707",
-    "title": "Ar Condicionado Split Inverter 12000 Btuh Prime Air F 12fc Cor Branco",
-    "description": "➡️ Ar-condicionado Split Inverter 12000 Btu/h Prime Air F 12fc Cor Branco  ✅ R$ 1.457 😱😱 🏷 Cupom: TODO2411SITE  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/ar-condi...",
-    "originalPrice": null,
-    "currentPrice": 1457.0,
-    "discountPercentage": null,
-    "couponCode": "TODO2411SITE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-split-inverter-12000-btuh-prime-air-f-12fc-cor-branco/p/MLB49209948?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-016f4707.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:07:23.335560+00:00",
     "likesCount": 1
   }
 ]
