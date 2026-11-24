@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-628a1f26",
+    "title": "Tênis Nike Court Legacy Next Nature Feminino",
+    "description": "🔥 **Tênis Nike Court Legacy Next Nature Feminino**  Para quem não abre mão de estilo e conforto no dia a dia, esse clássico da Nike é acerto garantido! Versátil, combina com qualqu...",
+    "originalPrice": 399.0,
+    "currentPrice": 240.0,
+    "discountPercentage": 40,
+    "couponCode": "OFICIAIS2411",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2204917860-tnis-nike-court-legacy-next-nature-feminino-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-628a1f26.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T12:46:58.951226+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-1720116d",
     "title": "Ar-condicionado Split Hi Wall Inverter Colormaq 18000 BTU",
     "description": "🔥 **Ar-condicionado Split Hi Wall Inverter Colormaq 18000 BTU**  Quer o ambiente sempre na temperatura ideal com máxima economia de energia? Garanta já o seu com um super desconto...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:07:54.976716+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-452e4a62",
-    "title": "Kit TRUSS Miracle Duo (2 Produtos)",
-    "description": "✨ **Kit TRUSS Miracle Duo (2 Produtos)**  Se o seu cabelo está precisando de um tratamento digno de salão no conforto de casa, essa é a sua chance! O queridinho dos profissionais g...",
-    "originalPrice": null,
-    "currentPrice": 147.73,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DMWX14CZ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-452e4a62.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:06:57.795924+00:00",
     "likesCount": 1
   }
 ]
