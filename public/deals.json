@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1d2c9d95",
+    "title": "Notebook ASUS Vivobook 15 Ryzen 7 5825U (VERSÃO COM 512GB SSD ) -- NJ611",
+    "description": "🔥 Notebook ASUS Vivobook 15 Ryzen 7 5825U (VERSÃO COM 512GB SSD ) -- NJ611  - PAINEL IPS - 8Gb Ram (Expansível) - 512 GB SSD (Expansível) - Linux  💵 R$ 2499 REAIS  🎟️ Cupom: 25BF26...",
+    "originalPrice": null,
+    "currentPrice": 2499.0,
+    "discountPercentage": null,
+    "couponCode": "25BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F84PXR9V?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1d2c9d95.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T02:34:14.700345+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7ddfb5fc",
     "title": "Ar Condicionado Split Electrolux 12000 Btus Ni12rne12r",
     "description": "CHEGA DE PASSAR CALOR Loja Oficial Centralar no ML  Ar-Condicionado Split Hi Wall Inverter Gree G-Side 12.000 BTU/h Frio 220V  De R$ 2.754 por R$ 1.909 no Pix  Aplique o Cupom de R...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T21:03:01.395566+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-02bdb119",
-    "title": "Smart Tv Pro Lg 65 4k Ultra Hd Ai 65un85c",
-    "description": "65 POLEGADAS LG CAIU DO CAMINHÃO  Smart TV LG PRO UHD 4K 65\" AI 65UN85C   De R$ 4.449 por R$ 3.010 no Pix Use o Cupom: OFFPRATECH 🎟️ + Selecione Pix  Vendido por Loja Oficial no ML...",
-    "originalPrice": 4449.0,
-    "currentPrice": 3010.0,
-    "discountPercentage": 32,
-    "couponCode": "OFFPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-pro-lg-65-4k-ultra-hd-ai-65un85c/p/MLB75681241?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-02bdb119.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T21:03:00.879233+00:00",
     "likesCount": 1
   }
 ]
