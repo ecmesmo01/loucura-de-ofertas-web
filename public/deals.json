@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-b1cbc5ad",
+    "title": "Smartphone Motorola Razr 60",
+    "description": "🎁 Smartphone Motorola Razr 60-256GB 12GB RAM+12GB Ram Boost Tela dobrável 6,9\" pOLED e externa 3,6” Moto AI camera IP48 - Azul Marinho  🔥 Por: R$ 2.899,00 💳 ou em 12x no cartão  🛒...",
+    "originalPrice": null,
+    "currentPrice": 2899.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F8LJSC9B?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b1cbc5ad.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:43:59.292757+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-12c26716",
     "title": "Smartwatch, HUAWEI WATCH FIT 4, Modos Esportivos Aprimorados, Assistente de Bem-Estar Emocional, Bat",
     "description": "🎁 Smartwatch, HUAWEI WATCH FIT 4, Modos Esportivos Aprimorados, Assistente de Bem-Estar Emocional, Bateria com Autonomia de Até 10 Dias, Compatível com iOS e Android, Preto  🔥 POR:...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T16:07:26.679164+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d1f3e7a0",
-    "title": "Notebook Vaio Fe16 Amd Ryzen 3 7330u Linux 8gb Ram 256gb Ssd 16 Ips Full Hd Antirreflexo Permite Exp",
-    "description": "➡️ Notebook Vaio Fe16 Amd Ryzen 3-7330U 256Gb Ssd  ✅ R$ 2.421 😱😱 🏷 Cupom: OFERTAPRATECH  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-3-...",
-    "originalPrice": null,
-    "currentPrice": 2421.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-vaio-fe16-amd-ryzen-3-7330u-linux-8gb-ram-256gb-ssd-16-ips-full-hd-antirreflexo-permite-expansao-de-ram-e-ssd-cinza-grafite/p/MLB79377679?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d1f3e7a0.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T16:03:59.892669+00:00",
     "likesCount": 1
   }
 ]
