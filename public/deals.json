@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2ea34982",
+    "title": "Fritadeira Oven Fryer 12L Oster 3 em 1",
+    "description": "🔥 **Fritadeira Oven Fryer 12L Oster 3 em 1 - 127V**  Quer transformar sua cozinha com praticidade e sofisticação? Essa é a oportunidade perfeita! A queridinha do momento une fritad...",
+    "originalPrice": null,
+    "currentPrice": 479.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0B726S9S3?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2ea34982.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T15:52:43.840644+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-01fd1817",
     "title": "ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas US",
     "description": "🎁 ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas USB-A, Recarga por USB-C ou Micro USB, Até 300 Ciclos, Cabo USB-C Incluso, Model...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T13:48:03.483265+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-02cb3bb3",
-    "title": "Whey Protein Fort 3w Vitafor 900g Sabor Chocolate",
-    "description": "BAIXOU O WHEY DA VITAFOR  Whey Fort 3w 900g Vitafor Baunilha  De R$ 373 por R$ 169 Use o Cupom: BEMESTAR ou OFICIAIS2411 🎟️  Vendido por Loja Oficial do ML  🛒 Compre com desconto a...",
-    "originalPrice": 373.0,
-    "currentPrice": 169.0,
-    "discountPercentage": 55,
-    "couponCode": "BEMESTAR",
-    "affiliateUrl": "https://www.mercadolivre.com.br/whey-protein-fort-3w-vitafor-900g-sabor-chocolate/p/MLB18724527?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-02cb3bb3.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T13:47:02.257108+00:00",
     "likesCount": 1
   }
 ]
