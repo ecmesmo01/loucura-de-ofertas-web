@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-01fd1817",
+    "title": "ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas US",
+    "description": "🎁 ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas USB-A, Recarga por USB-C ou Micro USB, Até 300 Ciclos, Cabo USB-C Incluso, Model...",
+    "originalPrice": null,
+    "currentPrice": 108.78,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07DHSHXVP?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-01fd1817.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T15:52:41.091057+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b19f8abb",
     "title": "Lattafa Al Noble Wazeer Edp 100ml Masculino Original",
     "description": "PERFUMAÇO ÁRABE, esse deixa um rastro absurdo  Perfume Árabe Lattafa Al Noble Wazeer EDP 100ml  De R$ 359 por R$ 125 no Pix Use o Cupom: VOCEDEZ 🎟️ + Selecione Pix  Vendido por Loj...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T13:47:02.257108+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a38d4c14",
-    "title": "Headset Gamer Sem Fio Redragon Zeus Pro Preto H510-PRO",
-    "description": "🎧 **Headset Gamer Sem Fio Redragon Zeus Pro Preto H510-PRO**  Procurando a imersão perfeita para as suas jogadas, sem a limitação de cabos? O **Redragon Zeus Pro** entrega áudio de...",
-    "originalPrice": null,
-    "currentPrice": 269.1,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CNKVYLF5?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a38d4c14.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T13:46:56.752734+00:00",
     "likesCount": 1
   }
 ]
