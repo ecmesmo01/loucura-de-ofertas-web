@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2ec986dd",
+    "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande",
+    "description": "🎁 Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto  🔥 POR: R$ 4.498,00 no PIX 🎟️ Cupom: SAMSUNG300  🛒 Comp...",
+    "originalPrice": null,
+    "currentPrice": 4498.0,
+    "discountPercentage": null,
+    "couponCode": "SAMSUNG300",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2ec986dd.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T19:53:10.381741+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-71744240",
     "title": "o Boticario Liz Flora Desodorante Colonia 100ml",
     "description": "DÁ PRA TUA MULHER Loja Oficial O Boticário  Kit Celebre Agora O Boticário  De R$ 155 por R$ 89 em 3x  Aplique o cupom de 10% OFF do anúncio  🛒 Compre com desconto aqui: https://www...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T17:16:02.583582+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e270b81f",
-    "title": "Smart TV Philips 65\" QLED 4K 65PQG7811/78 Sem Bordas HDR10+ Dolby Atmos e Comando de Voz",
-    "description": "🔥 **Smart TV Philips 65\" QLED 4K 65PQG7811/78 Sem Bordas HDR10+ Dolby Atmos e Comando de Voz**  Transforme sua sala em uma verdadeira sessão de cinema com imagens impressionantes e...",
-    "originalPrice": 4049.0,
-    "currentPrice": 3644.0,
-    "discountPercentage": 10,
-    "couponCode": "MERCADOLIVRE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-philips-65-qled-4k-65pqg781178-sem-bordas-hdr10-dolby-atmos-e-comando-de-voz/p/MLB79542241?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e270b81f.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T17:16:01.035562+00:00",
     "likesCount": 1
   }
 ]
