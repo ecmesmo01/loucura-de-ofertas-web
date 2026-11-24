@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ba272fef",
+    "title": "GoPro Hero Bundle - Kit Câmera de Ação Compacta 4K Com Acessórios, 12MP, Estabilização HyperSmooth,",
+    "description": "📸 **GoPro Hero Bundle - Kit Câmera de Ação Compacta 4K Com Acessórios, 12MP, Estabilização HyperSmooth, À Prova D'Água**  Registre suas melhores aventuras com máxima qualidade e es...",
+    "originalPrice": null,
+    "currentPrice": 1153.36,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DQR35QBH?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ba272fef.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:53:58.771372+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a9b643d6",
     "title": "Passadeira a Vapor Portátil Fast Steam Mondial VP",
     "description": "🔥 **Passadeira a Vapor Portátil Fast Steam Mondial VP-09 Branco/Azul 1270W (110V)**  Chega de sofrer com roupas amassadas na hora de sair! Prática, compacta e eficiente, essa passa...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:31:57.763406+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b956e3ad",
-    "title": "Lavadora de Alta Pressao Compacta Wap Wl 1800 1400w 1500psi 360lh 220v",
-    "description": "É PRESSÃO QUE VOCÊ QUER?  Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 220V  De R$ 575 por R$ 239 em 2x Use o Cupom: FERRAMENTAMAIS ou OFICIAIS2411 🎟️  Vendido por Loja Ofic...",
-    "originalPrice": 575.0,
-    "currentPrice": 239.0,
-    "discountPercentage": 58,
-    "couponCode": "FERRAMENTAMAIS",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-compacta-wap-wl-1800-1400w-1500psi-360lh-220v/p/MLB53860589?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b956e3ad.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:29:03.100285+00:00",
     "likesCount": 1
   }
 ]
