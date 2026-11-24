@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9825fb5f",
+    "title": "Micro-ondas Electrolux 27L Inox Espelhado MS37R 220V",
+    "description": "🔥 **Micro-ondas Electrolux 27L Inox Espelhado MS37R 220V**  Deixe sua cozinha muito mais moderna e prática com este modelo incrível que conta com 55 receitas pré-programadas para f...",
+    "originalPrice": null,
+    "currentPrice": 551.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07K6PQFHC?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9825fb5f.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:51:58.252055+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-43fd3f9d",
     "title": "Smartphone Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM",
     "description": "🔥 **Smartphone Samsung Galaxy S26 Ultra 5G 256GB 12GB RAM**  O monstro da Samsung voltou com um preço absurdo na loja oficial! Para quem busca o topo de linha absoluto com câmera q...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:22:04.720612+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2b2d9759",
-    "title": "Smart TV 65\" LG Nano UHD AI 4K 65NU850",
-    "description": "🔥 **Smart TV 65\" LG Nano UHD AI 4K 65NU850**  Leve o cinema para a sua casa com uma qualidade de imagem impressionante, inteligência artificial avançada e som imersivo. Aproveite e...",
-    "originalPrice": 6999.0,
-    "currentPrice": 4181.0,
-    "discountPercentage": 40,
-    "couponCode": "QUEROOFFHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-4k-65-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-65nu850bpsa/p/MLB82600518?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2b2d9759.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T12:19:29.804151+00:00",
     "likesCount": 1
   }
 ]
