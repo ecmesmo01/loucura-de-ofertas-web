@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6651403c",
+    "title": "Placa Mãe MSI A520M-A PRO (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)",
+    "description": "🎁 Placa Mãe MSI A520M-A PRO (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)  🔥 POR: R$ 338,18 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https:/...",
+    "originalPrice": null,
+    "currentPrice": 338.18,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B08HHMCCXV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6651403c.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T14:57:57.315639+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-beaeb539",
     "title": "Tênis Kappa Run 200 Original Caminhada Academia",
     "description": "👟 **Tênis Kappa Run 200 Original Caminhada Academia**  Procurando o tênis perfeito para o dia a dia, caminhada ou academia sem gastar uma fortuna? O **Tênis Kappa Run 200** entrega...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T13:12:47.892990+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-17f37d4b",
-    "title": "Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50M",
-    "description": "🔥 **Relógio Technos Masculino Golf 44mm Prata Aço Cinza Resistente 50M**  Procurando aquele relógio de presença para completar o seu estilo? Este modelo da Technos une sofisticação...",
-    "originalPrice": 899.0,
-    "currentPrice": 350.0,
-    "discountPercentage": 61,
-    "couponCode": "DESCONTOSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/relogio-technos-masculino-golf-44mm-prata-aco-cinza-resistente-50m/p/MLB44436630?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-17f37d4b.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T13:12:17.065799+00:00",
     "likesCount": 1
   }
 ]
