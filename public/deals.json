@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0f24c63a",
+    "title": "Grand Theft Auto VI: The Album (Amazon Exclusive)",
+    "description": "🎁 Grand Theft Auto VI: The Album (Amazon Exclusive)  🔥 Por: R$ 334,59 💳 ou em 8x no cartão  - Desconto na finalização  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compr...",
+    "originalPrice": null,
+    "currentPrice": 334.59,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HJT4Z5RB?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0f24c63a.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T19:57:05.502824+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4b14f1b9",
     "title": "Tnis Nike Journey Run Feminino",
     "description": "NIKE PRA CORRER DOS BOLETOS  Tênis Nike Journey Run (34 ao 40)  De R$ 699 por R$ 359 em 10x Use o Cupom: CURTAMELI ou M0D4TUHS 🎟️  Loja Oficial Nike no ML  🛒 Compre com desconto aq...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T17:17:09.936019+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3da2ba6c",
-    "title": "Kit Colcha Cobre Leito Casal Queen 3 Pçs Dupla Face 200 Fios",
-    "description": "🔥 **Kit Colcha Cobre Leito Casal Queen 3 Pçs Dupla Face 200 Fios**  Renove o visual do seu quarto com muito mais elegância e conforto! Este lindo kit dupla face 200 fios garante ma...",
-    "originalPrice": 117.41,
-    "currentPrice": 78.99,
-    "discountPercentage": 33,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3907795825-kit-colcha-cobre-leito-casal-queen-3-pcs-dupla-face-200-fios-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3da2ba6c.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T17:17:01.706061+00:00",
     "likesCount": 1
   }
 ]
