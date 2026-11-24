@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-93b31c01",
+    "title": "Controle sem fio PlayStation DualSense™ – Galactic Purple",
+    "description": "🎮 **Controle sem fio PlayStation DualSense™ – Galactic Purple**  Eleve sua experiência de jogo com um design espacial incrível e a tecnologia de feedback tátil e gatilhos adaptativ...",
+    "originalPrice": null,
+    "currentPrice": 358.89,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FY6PBWWJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-93b31c01.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:21:58.117534+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7e7ef33a",
     "title": "Climatizador 4 em 1 Britânia Air 8L BCL08A 220V",
     "description": "🔥 **Climatizador 4 em 1 Britânia Air 8L BCL08A 220V**  Procurando alívio para o calor com economia e praticidade? Este climatizador da Britânia refresca, umidifica, ventila e ainda...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:42:59.143873+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-147c1e41",
-    "title": "Fone de Ouvido Sem Fio TWS Philips TAT1109BK/00 Preto",
-    "description": "🎧 **Fone de Ouvido Sem Fio TWS Philips TAT1109BK/00 Preto**  Procurando aquele fone prático, com som de qualidade e bateria que acompanha o seu dia a dia? O modelo TWS da Philips e...",
-    "originalPrice": null,
-    "currentPrice": 89.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DVMQVVDY?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-147c1e41.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:39:59.542343+00:00",
     "likesCount": 1
   }
 ]
