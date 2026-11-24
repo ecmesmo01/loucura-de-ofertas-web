@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-be376605",
+    "title": "Kit 2 Cetaphil Locao de Limpeza 100ml Pele Seca Sensivel",
+    "description": "COREEE NO KIT Loja Oficial Cetaphil  Cetaphil Core Kit Loção Hidratante E Limpeza  De R$ 89 por R$ 34 no Pix  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/kit-2-ceta...",
+    "originalPrice": 89.0,
+    "currentPrice": 34.0,
+    "discountPercentage": 62,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-2-cetaphil-locao-de-limpeza-100ml-pele-seca-sensivel/p/MLB2110306481?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-be376605.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:31:02.671176+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a39d3b64",
     "title": "Tablet Samsung Galaxy Tab S10 Lite 128GB Tela 10.9\" Wi-Fi Cinza",
     "description": "🔥 **Tablet Samsung Galaxy Tab S10 Lite 128GB Tela 10.9\" Wi-Fi Cinza**  Procurando o dispositivo perfeito para estudar, trabalhar e maratonar suas séries com máximo desempenho? O Ga...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:13:55.472076+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b4272cd1",
-    "title": "Procurando a performance definitiva para suas partidas, sem o incômodo dos fios? O",
-    "description": "🖱️ **Mouse Gamer Sem Fio Logitech G703 LIGHTSPEED com RGB LIGHTSYNC, 6 Botões Programáveis, Sensor HERO 25K e Bateria Recarregável - Compatível com POWERPLAY**  Procurando a perfor...",
-    "originalPrice": null,
-    "currentPrice": 319.9,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B07W8X4F48?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b4272cd1.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:13:28.669832+00:00",
     "likesCount": 1
   }
 ]
