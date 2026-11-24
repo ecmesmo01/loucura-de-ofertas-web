@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-83bd32fa",
+    "title": "apenas R$ 140,00 no Pix",
+    "description": "☕ **Supercoffee Choconilla Economic Size 380gaffeine Army**  Dê um gás na sua rotina com muito sabor e energia! A versão econômica de 380g do queridinho para sua alta performance e...",
+    "originalPrice": 216.0,
+    "currentPrice": 140.0,
+    "discountPercentage": 35,
+    "couponCode": "VOCEDEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/supercoffee-choconilla-economic-size-380g-caffeine-army/p/MLB73052477?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-83bd32fa.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T17:46:02.071935+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f41adb0e",
     "title": "Tênis Adidas Masculino Adizero Drive RC Corrida Performance",
     "description": "🔥 **Tênis Adidas Masculino Adizero Drive RC Corrida Performance**  Procurando o aliado perfeito para elevar o nível dos seus treinos e quebrar recordes? O renomado **Adizero Drive...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:18:04.188782+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-1dd434ba",
-    "title": "Body Splash Masculino Blunn 200ml By Primacial Perfume Floral Cítrico",
-    "description": "🔥 **Body Splash Masculino Blunn 200ml By Primacial Perfume Floral Cítrico**  O queridinho voltou com tudo! Aproveite essa oportunidade antes que o cupom esgote e garanta sua fragrâ...",
-    "originalPrice": 69.0,
-    "currentPrice": 28.0,
-    "discountPercentage": 59,
-    "couponCode": "CORREQUETEM",
-    "affiliateUrl": "https://www.mercadolivre.com.br/body-splash-masculino-blunn-200ml-by-primacial-perfume-floral-citrico/p/MLB70511371?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1dd434ba.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:16:00.772281+00:00",
     "likesCount": 1
   }
 ]
