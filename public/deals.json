@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f7b51f4c",
+    "title": "Livro Sapiens: Uma Breve História da Humanidade - Yuval Noah Harari",
+    "description": "🔥 **Livro Sapiens: Uma Breve História da Humanidade - Yuval Noah Harari**  Uma verdadeira viagem fascinante pela história da nossa espécie, desde os primórdios até a era moderna. E...",
+    "originalPrice": null,
+    "currentPrice": 528.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B076MGRV7Z?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f7b51f4c.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:39:57.775278+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2d55736e",
     "title": "LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças",
     "description": "🎁 LEGO Set Icons 10330 McLaren MP4/4 e Ayrton Senna 693 peças  🔥 Por: R$ 395,09 💳 ou em 7x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aq...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:18:56.954990+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6da4fc50",
-    "title": "soundcore Anker V20i, Fone de Ouvido Sem Fio Bluetooth Aberto e Esportivo | Bass Up, IP55, Luzes Led",
-    "description": "🎁 soundcore Anker V20i, Fone de Ouvido Sem Fio Bluetooth Aberto e Esportivo | Bass Up, IP55, Luzes Led com sincronização de música Open Ear, Ganchos ajustáveis Ultraconfortáveis, E...",
-    "originalPrice": null,
-    "currentPrice": 179.55,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0D2XRXNGY?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6da4fc50.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:17:26.902816+00:00",
     "likesCount": 1
   }
 ]
