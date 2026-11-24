@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8e8ea48a",
+    "title": "Notebook Lenovo IdeaPad Slim 3 RYZEN 7",
+    "description": "🔥 Notebook Lenovo IdeaPad Slim 3 RYZEN 7  - Ryzen 7 7735HS (8 núcleos e 16 threads) - Painel IPS - 8GB RAM (expansível) - 256GB SSD (Expansível) - PLACA DE VÍDEO Radeon™ 680M (inte...",
+    "originalPrice": null,
+    "currentPrice": 3287.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK150",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G22R3QLT?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8e8ea48a.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:24:00.420964+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3f0c6e72",
     "title": "Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth, Bateria 36h e IP68",
     "description": "🔥 **Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth, Bateria 36h e IP68**  Procurando potência máxima e som de alta definição para qualquer ocasião? A LG XBOOM Blast che...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:10:07.463893+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-1043fad8",
-    "title": "Air Fryer Britania 65l 1700w 8 Funcoes Painel Digital Redstone Baf65a",
-    "description": "AIR FRYER COM VISOR DEPENCOU DE PREÇo  Air Fryer Britânia 6,5L 1700W 8 Funções Painel Digital Redstone BAF65A - 127v  De R$ 599 por R$263 no Pix  Cupom: OFICIAIS2411 🎟️  🛒 Compre c...",
-    "originalPrice": 599.0,
-    "currentPrice": 263.0,
-    "discountPercentage": 56,
-    "couponCode": "OFICIAIS2411",
-    "affiliateUrl": "https://www.mercadolivre.com.br/air-fryer-britania-65l-1700w-8-funcoes-painel-digital-redstone-baf65a/p/MLB68834252?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1043fad8.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:10:01.213381+00:00",
     "likesCount": 1
   }
 ]
