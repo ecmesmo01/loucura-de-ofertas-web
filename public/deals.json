@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e0f45f0f",
+    "title": "Tênis Lacoste Masculino Backcourt",
+    "description": "🔥 **Tênis Lacoste Masculino Backcourt**  Estilo e sofisticação da marca do crocodilo com um super desconto na Loja Oficial do Mercado Livre! Disponível em 4 cores e numeração do 38...",
+    "originalPrice": 399.0,
+    "currentPrice": 159.0,
+    "discountPercentage": 60,
+    "couponCode": "OFICIAIS2411",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4286618047-tnis-lacoste-masculino-backcourt-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e0f45f0f.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:28:07.053777+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-15a50566",
     "title": "Perfume Rabanne Lady Million Royal Eau de Parfum 80 Ml Feminino",
     "description": "LADY MILLION ROYAL PARCELADINHO  Perfume Rabanne Lady Million Royal EDP 80ml  De R$ 869 por R$ 432 em 8x Use o Cupom: DESCONTOSMELI 🎟️  Vendido por Loja Oficial no ML  🛒 Compre com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:01:17.888255+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-39037707",
-    "title": "Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta",
-    "description": "📱 **Smartphone Samsung Galaxy S26+ 5G 256GB 12GB RAM Tela 6.7\" Violeta**  O topo de linha que você esperava com um super desconto para garantir o seu hoje! Tela gigante de altíssim...",
-    "originalPrice": null,
-    "currentPrice": 4299.01,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQX8ZPN?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-39037707.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T11:58:55.058332+00:00",
     "likesCount": 1
   }
 ]
