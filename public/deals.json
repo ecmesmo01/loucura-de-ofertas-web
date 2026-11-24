@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-849a667d",
+    "title": "Novo Amazon Kindle 16GB (Modelo Mais Recente) - Roxo Ube",
+    "description": "📚 **Novo Amazon Kindle 16GB (Modelo Mais Recente) - Roxo Ube**  O leitor digital mais querido do mundo está ainda melhor! Mais fino, mais leve, com processador mais rápido e uma te...",
+    "originalPrice": null,
+    "currentPrice": 709.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4SMGD8C?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-849a667d.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T13:29:16.593697+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-cc922193",
     "title": "Cafeteira 2 em 1 Coffee To Go Oster 600ml",
     "description": "☕ **Cafeteira 2 em 1 Coffee To Go Oster 600ml**  Para quem ama café fresquinho e não tem tempo a perder! A solução perfeita para preparar sua bebida favorita e já levar no copo tér...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T12:04:57.685726+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0add4980",
-    "title": "Monitor Gamer LG UltraGear Curvo 34\" QuadHD 2K UltraWide 1800R 160Hz 1ms 34G600A",
-    "description": "🔥 **Monitor Gamer LG UltraGear Curvo 34\" QuadHD 2K UltraWide 1800R 160Hz 1ms 34G600A**  Eleve sua experiência de jogo a outro nível! Com tela curva imersiva UltraWide, resolução Qu...",
-    "originalPrice": null,
-    "currentPrice": 1599.0,
-    "discountPercentage": null,
-    "couponCode": "TECH2411",
-    "affiliateUrl": "https://www.mercadolivre.com.br/monitor-gamer-lg-ultragear-curvo-34-quadhd-2k-ultrawide-1800r-160hz-1ms-mbr-amd-freesync-premium-hdr10-maxxaudio-preto-34g600a/p/MLB62870034?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0add4980.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T12:04:57.614099+00:00",
     "likesCount": 1
   }
 ]
