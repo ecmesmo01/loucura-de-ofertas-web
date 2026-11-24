@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8e4cb651",
+    "title": "Smart TV 40\" Britânia Roku TV HDR10 Dolby Audio B40CRA",
+    "description": "🔥 **Smart TV 40\" Britânia Roku TV HDR10 Dolby Audio B40CRA**  Transforme sua sala em um verdadeiro cinema com essa Smart TV da Britânia! Com qualidade de imagem impressionante em H...",
+    "originalPrice": null,
+    "currentPrice": 1289.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GYPJM92X?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8e4cb651.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T13:36:56.743000+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-795ad3b3",
     "title": "Suporte TV Fixo Universal 10\" a 100\" Polegadas Forte para Todas as Marcas",
     "description": "🔥 **Suporte TV Fixo Universal 10\" a 100\" Polegadas Forte para Todas as Marcas**  Procurando segurança e praticidade para instalar sua televisão na parede? Este suporte ultra resist...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T12:12:03.278407+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c2e57dd8",
-    "title": "Monitor Gamer Samsung Odyssey G5 27\" QHD 180Hz 0.5ms",
-    "description": "🔥 **Monitor Gamer Samsung Odyssey G5 27\" QHD 180Hz 0.5ms**  Procurando a melhor experiência visual para os seus jogos? Esse monitor entrega imagens ultra fluidas em resolução QHD,...",
-    "originalPrice": null,
-    "currentPrice": 2749.0,
-    "discountPercentage": null,
-    "couponCode": "QUEROOFFHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/samsung-odyssey-g5-27-qhd-180-hz-003-ms-g-sync-freesync/p/MLB65552066?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c2e57dd8.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T12:11:17.282183+00:00",
     "likesCount": 1
   }
 ]
