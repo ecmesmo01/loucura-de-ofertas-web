@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a9b643d6",
+    "title": "Passadeira a Vapor Portátil Fast Steam Mondial VP",
+    "description": "🔥 **Passadeira a Vapor Portátil Fast Steam Mondial VP-09 Branco/Azul 1270W (110V)**  Chega de sofrer com roupas amassadas na hora de sair! Prática, compacta e eficiente, essa passa...",
+    "originalPrice": null,
+    "currentPrice": 129.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0C59MB8V7?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a9b643d6.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T16:51:30.723672+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2aa9fa75",
     "title": "Tábua De Corte Aço Inoxidável Antibacteriana",
     "description": "🔥 **Tábua De Corte Aço Inoxidável Antibacteriana**  Chega de tábuas que acumulam bactérias e odores na sua cozinha! Essa versão em aço inoxidável é super higiênica, durável, não da...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T14:29:03.100285+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5c3c9dad",
-    "title": "Notebook Gamer Acer Nitro V15 ANV15",
-    "description": "🎁 Notebook Gamer Acer Nitro V15 ANV15-52-57MC Intel® Core™ i5-13420H de 13ªG 8GB RAM 512GB SSD RTX 4050 Linux 15.6\"  🔥 POR: R$ 4.769,10 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço...",
-    "originalPrice": null,
-    "currentPrice": 4769.1,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0894JX78M?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c3c9dad.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T14:27:13.577340+00:00",
     "likesCount": 1
   }
 ]
