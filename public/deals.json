@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ad348f69",
+    "title": "Notebook ASUS Vivobook 15",
+    "description": "🔥 Notebook ASUS Vivobook 15  - Intel Core 5 - 8 GB - 256 GB SSD - W11 Home - 15.6'' FHD - Cool Silver - X1504MA-BQ300W  💵 R$ 2399 - PIX  🎟️ Resgate cupom do anúncio  🔗 LINK:   ⚠️Cu...",
+    "originalPrice": null,
+    "currentPrice": 2399.0,
+    "discountPercentage": null,
+    "couponCode": "ESTOQUE",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HF8X67WP?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ad348f69.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T02:46:51.242208+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8bda39e1",
     "title": "Micro-ondas 33L Philco PMO39B Limpa Fácil 1400W 127V",
     "description": "🎁 Micro-ondas 33L Philco PMO39B Limpa Fácil 1400W 127V  🔥 POR: R$ 400,00 🎟️ Cupom: 25BF26PRIME  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: ht...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T21:13:57.886688+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3bb6995e",
-    "title": "ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas US",
-    "description": "🎁 ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display | PD 20W na USB-C, QC 3.0 nas USB-A, Recarga por USB-C ou Micro USB, Até 300 Ciclos, Cabo USB-C Incluso, Model...",
-    "originalPrice": null,
-    "currentPrice": 108.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B07DHSHXVP?tag=loucuradeo0dc-20",
-    "imageUrl": "/images/deals/deal-3bb6995e.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T21:13:57.617887+00:00",
     "likesCount": 1
   }
 ]
