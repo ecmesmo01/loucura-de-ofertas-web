@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c6abcaf0",
+    "title": "Sanduicheira Elétrica Cadence Click",
+    "description": "🔥 **Sanduicheira Elétrica Cadence Click - 220V**  Comece o dia com mais praticidade ou prepare lanches deliciosos em poucos minutos! A Sanduicheira Click da Cadence é compacta, sup...",
+    "originalPrice": null,
+    "currentPrice": 77.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CDJ5DQ7M?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c6abcaf0.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T15:48:54.421572+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9d03f850",
     "title": "Caixa de Som Bluetooth Portátil JBL Go Essential 2, Preto",
     "description": "🎵 **Caixa de Som Bluetooth Portátil JBL Go Essential 2, Preto**  Leve o som autêntico da JBL para qualquer lugar com essa caixas ultracompacta e estilosa! Conta com som JBL Origina...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T13:39:47.420311+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-937fc1f3",
-    "title": "Anel com Letras ABC",
-    "description": "✨ **Anel com Letras ABC**  Destaque o seu visual com essa peça cheia de estilo e personalidade! Perfeito para compor mix de anéis ou usar como ponto alto do look.   ~De R$ 189,90~...",
-    "originalPrice": 189.9,
-    "currentPrice": 134.66,
-    "discountPercentage": 29,
-    "couponCode": "MERCADOLIVRE",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5059333526-anel-com-letras-abc-513393-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-937fc1f3.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T13:39:45.936533+00:00",
     "likesCount": 1
   }
 ]
