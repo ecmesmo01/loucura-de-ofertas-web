@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d7ea04ff",
+    "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 Vision AI Companion",
+    "description": "📺 **Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 Vision AI Companion**  A tela gigante que faltava na sua casa com tecnologia de ponta, Inteligência Artificial, Xbox Cloud Gamin...",
+    "originalPrice": null,
+    "currentPrice": 3799.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0H6N4P465?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d7ea04ff.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:08:54.879933+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2d9b6842",
     "title": "Caixa de Som LG Xboom XL5T Bluetooth Portátil IPX4 200W RMS Iluminação de Festa e Visor de Pixel LED",
     "description": "🔥 **Caixa de Som LG Xboom XL5T Bluetooth Portátil IPX4 200W RMS Iluminação de Festa e Visor de Pixel LED**  Procurando a trilha sonora perfeita para animar qualquer ambiente com mu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:20:00.789795+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-75ba43fc",
-    "title": "Cadeira Escritorio Ergonomica Genebra Luvinco Cor Cinza Escuro com Suporte Lombar Estofado Mesh",
-    "description": "CADEIRA GAMER É COISA DO PASSADO  Cadeira Escritório Ergonômica Genebra G500 Luvinco  De R$ 705 por R$ 528 em 10x  Vendido por Loja Oficial no ML  🛒 Compre com desconto aqui: https...",
-    "originalPrice": 705.0,
-    "currentPrice": 528.0,
-    "discountPercentage": 25,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-genebra-luvinco-cor-cinza-escuro-com-suporte-lombar-estofado-mesh/p/MLB68669908?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "/images/deals/deal-75ba43fc.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:18:59.077717+00:00",
     "likesCount": 1
   }
 ]
