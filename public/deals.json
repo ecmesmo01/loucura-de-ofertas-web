@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4c475910",
+    "title": "Smart TV Samsung Crystal UHD 50\" 4K - BE50HX-H",
+    "description": "🔥 **Smart TV Samsung Crystal UHD 50\" 4K - BE50HX-H**  Quer transformar sua sala em um verdadeiro cinema? A imagem em 4K da Samsung Crystal entrega cores vibrantes, nitidez impressi...",
+    "originalPrice": null,
+    "currentPrice": 2089.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HPL61NSQ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4c475910.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T14:54:33.176929+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5d2d53d7",
     "title": "Celular Samsung Galaxy A17 5g com Ia 128gb 4gb Ram Cam de 50mp Tela de 67 Nfc Ip54 Preto",
     "description": "🔥 Celular Samsung Galaxy A17 5G Com IA, 128gb, 4gb Ram  🚨 R$ 803 💲 pix 🎟️ Cupom: TECHHOME  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/celular-samsung-galaxy-a17-5g...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T13:06:02.410044+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2d9d097e",
-    "title": "Conj de Panelas 8 Pecas Ceramic Life Smart Plus Vanilla Brinox",
-    "description": "É UMA COZINHA COMPLETA  Conj de Panelas 8 Peças Ceramic Life Smart Plus Vanilla - Brinox  De R$ 1.099 por R$ 431 em 8x Cupom: DESCONTOSMELI 🎟️  🛒 Compre com desconto aqui: https://...",
-    "originalPrice": 1099.0,
-    "currentPrice": 431.0,
-    "discountPercentage": 61,
-    "couponCode": "DESCONTOSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/conj-de-panelas-8-pecas-ceramic-life-smart-plus-vanilla-brinox/p/MLB32717965?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2d9d097e.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T13:05:11.448132+00:00",
     "likesCount": 1
   }
 ]
