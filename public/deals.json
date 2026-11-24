@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f43699fd",
+    "title": "Smart TV Pro LG 65\" 4K Ultra HD AI 65UN85C",
+    "description": "📺 **Smart TV Pro LG 65\" 4K Ultra HD AI 65UN85C**  Quer transformar sua sala em um verdadeiro cinema com uma imagem de tirar o fôlego? Essa é a oportunidade perfeita para garantir u...",
+    "originalPrice": 4449.0,
+    "currentPrice": 3058.0,
+    "discountPercentage": 31,
+    "couponCode": "QUEROOFFHOJE",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-pro-lg-65-4k-ultra-hd-ai-65un85c/p/MLB75681241?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f43699fd.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T12:13:02.051527+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f75e6064",
     "title": "Celular Samsung Galaxy A57 5G 128GB 8GB RAM Câmera 50MP IP68 Super AMOLED 6.7",
     "description": "🔥 **Celular Samsung Galaxy A57 5G 128GB 8GB RAM Câmera 50MP IP68 Super AMOLED 6.7\"**  Procurando um upgrade de respeito? O Samsung Galaxy A57 5G une alto desempenho, resistência av...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T01:16:53.405121+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b335b16b",
-    "title": "Camiseta Basica Lupo Masculina Fitness Academia Confortavel",
-    "description": "LUPO É QUALIDADE  Camiseta Dry Fit Masculina Lupo Básica  De R$ 119 por R$ 64  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-1988691551-camiseta-basica-lupo-m...",
-    "originalPrice": 119.0,
-    "currentPrice": 64.0,
-    "discountPercentage": 46,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-1988691551-camiseta-basica-lupo-masculina-fitness-academia-confortavel-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b335b16b.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T01:14:52.965546+00:00",
     "likesCount": 1
   }
 ]
