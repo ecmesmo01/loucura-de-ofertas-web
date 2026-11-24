@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-28fc002d",
+    "title": "Ar Condicionado Split Inverter 18000 BTUs Hisense Hi-Efficiency Frio AS",
+    "description": "❄️ **Ar Condicionado Split Inverter 18000 BTUs Hisense Hi-Efficiency Frio AS-18TW2RWPHB00E - 220V**  Quer transformar sua casa em um refúgio de conforto nos dias mais quentes? Com...",
+    "originalPrice": null,
+    "currentPrice": 2650.4,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HFT6GQ5B?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-28fc002d.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:53:55.787727+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3a83a965",
     "title": "Meia Calça de Lã Térmica Translúcida Forrada com Pelinho Pelúciada",
     "description": "🔥 **Meia Calça de Lã Térmica Translúcida Forrada com Pelinho Pelúciada**  O segredo para continuar usando vestidos e saias nos dias mais frios com total conforto e elegância! Por f...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:57:51.236656+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-123757c1",
-    "title": "Monitor Gamer Samsung 24\" FHD, 120 Hz, HDMI, Preto, S3",
-    "description": "🎁 Monitor Gamer Samsung 24\" FHD, 120 Hz, HDMI, Preto, S3  💸 De: R$ 539,00 🔥 POR: R$ 433,00 🎟️ Cupom: CUPOMAMAZON  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com...",
-    "originalPrice": 539.0,
-    "currentPrice": 433.0,
-    "discountPercentage": 20,
-    "couponCode": "CUPOMAMAZON",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FBRZ1ZPB?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-123757c1.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:55:49.976490+00:00",
     "likesCount": 1
   }
 ]
