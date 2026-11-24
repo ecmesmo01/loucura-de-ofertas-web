@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e662b333",
+    "title": "Tablet Lenovo Idea Tab 11\" 90Hz - Octa-Core, 4GB RAM, 128GB, Wi-Fi 5, Android 15, Caneta e Capa",
+    "description": "🔥 **Tablet Lenovo Idea Tab 11\" 90Hz - Octa-Core, 4GB RAM, 128GB, Wi-Fi 5, Android 15, Caneta e Capa**  Procurando o dispositivo perfeito para estudos, trabalho ou entretenimento co...",
+    "originalPrice": null,
+    "currentPrice": 1499.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FN4BK3V7?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e662b333.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:24:55.446732+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c276d649",
     "title": "Headphone Bluetooth Over Ear Soundcore Q11i Anker Preto",
     "description": "🎧 **Headphone Bluetooth Over Ear Soundcore Q11i Anker Preto**  Procurando a trilha sonora perfeita para o seu dia com imersão total e conforto absurdo? O **Soundcore Q11i** entrega...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:44:14.858430+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-79f038ce",
-    "title": "Samsung Tablet Galaxy TAB S12 Ultra, 512GB, 12GB RAM, Tela de 14,6\", WiFi 7, S Pen e Capa Inclusas",
-    "description": "🎁 Samsung Tablet Galaxy TAB S12 Ultra, 512GB, 12GB RAM, Tela de 14,6\", WiFi 7, S Pen e Capa Inclusas  💸 De: R$ 11.999,00 🔥 Por: R$ 7.999 💳 Em até 12x de R$ 666,62 sem juros  🛒 Comp...",
-    "originalPrice": 11999.0,
-    "currentPrice": 7999.0,
-    "discountPercentage": 33,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKPCPCGV?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-79f038ce.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-23T22:44:10.092178+00:00",
     "likesCount": 1
   }
 ]
