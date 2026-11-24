@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d7f76204",
+    "title": "Perfume Jean Paul Gaultier Le Male Eau de Toilette 200 Ml Masculino",
+    "description": "CORRE OUTRO SACUDO DE 200ML, pagando com Cartão Mercado Pago  Perfume Jean Paul Gaultier Le Male EDT 200ml  De R$ 1.079 por R$ 479 em 10x Use o Cupom: VEMPROMP 🎟️  Vendido por Loja...",
+    "originalPrice": 1079.0,
+    "currentPrice": 479.0,
+    "discountPercentage": 56,
+    "couponCode": "VEMPROMP",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-le-male-eau-de-toilette-200-ml-masculino/p/MLB6198268?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d7f76204.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T20:13:09.847357+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0c56bb1e",
     "title": "Cozinha Compacta Madesa Emilly com Armario e Balcao Rusticcinza",
     "description": "➡️ Cozinha Compacta Madesa Emilly Com Armário e Balcão Rustic/Cinza  ✅ De R$ 905,87 por R$ 384 😱😱 🏷 Cupom: VEMPROMP (Cartão Mercado Pago)  🛒 Compre com desconto aqui: https://www.m...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T18:22:03.697761+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-93b31c01",
-    "title": "Controle sem fio PlayStation DualSense™ – Galactic Purple",
-    "description": "🎮 **Controle sem fio PlayStation DualSense™ – Galactic Purple**  Eleve sua experiência de jogo com um design espacial incrível e a tecnologia de feedback tátil e gatilhos adaptativ...",
-    "originalPrice": null,
-    "currentPrice": 358.89,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FY6PBWWJ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-93b31c01.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T18:21:58.117534+00:00",
     "likesCount": 1
   }
 ]
