@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9d03f850",
+    "title": "Caixa de Som Bluetooth Portátil JBL Go Essential 2, Preto",
+    "description": "🎵 **Caixa de Som Bluetooth Portátil JBL Go Essential 2, Preto**  Leve o som autêntico da JBL para qualquer lugar com essa caixas ultracompacta e estilosa! Conta com som JBL Origina...",
+    "originalPrice": null,
+    "currentPrice": 154.85,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FPNXM7TF?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9d03f850.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T15:46:57.667883+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-df4fc35a",
     "title": "WAP Parafusadeira e Furadeira à Bateria 12V BPF",
     "description": "🎁 WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt  🔥 Por: R$ 105,89 💳 ou em 3x no cartão  🛒 Compre aqui:  ⚠️ A...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T13:39:45.936533+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ea43f154",
-    "title": "Starlink Mini Kit Antena Internet via Satélite",
-    "description": "🌐 **Starlink Mini Kit Antena Internet via Satélite**  Garanta internet de alta velocidade em qualquer lugar com o kit portátil da Starlink! Perfeito para viagens, áreas remotas ou...",
-    "originalPrice": null,
-    "currentPrice": 364.0,
-    "discountPercentage": null,
-    "couponCode": "DESCONTOSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/starlink-mini-kit-antena-internet-via-satelite/p/MLB40656539?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ea43f154.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T13:39:44.825717+00:00",
     "likesCount": 1
   }
 ]
