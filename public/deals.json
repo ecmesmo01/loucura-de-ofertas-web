@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7515ffa9",
+    "title": "Purificador de Água Electrolux Eletrônico Compacto Efficient Painel Digital Bivolt Branco PE11B",
+    "description": "💧 **Purificador de Água Electrolux Eletrônico Compacto Efficient Painel Digital Bivolt Branco PE11B**  Água pura, gelada e na temperatura ideal direto na sua casa com muita economi...",
+    "originalPrice": 589.0,
+    "currentPrice": 388.0,
+    "discountPercentage": 34,
+    "couponCode": "TECHHOME",
+    "affiliateUrl": "https://www.mercadolivre.com.br/purificador-electrolux-eletronico-compacto-efficient-painel-digital-bivolt-branco-pe11b-bivolt/p/MLB29239223?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7515ffa9.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T17:25:46.436905+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-dcab59c0",
     "title": "Aspirador de Pó Vertical WAP Power Speed Max CI10 3 em 1 1600W 127V",
     "description": "🔥 **Aspirador de Pó Vertical WAP Power Speed Max CI10 3 em 1 1600W 127V**  Limpar a casa nunca foi tão fácil e prático! Diga adeus à vassoura com esse super aspirador 3 em 1 da WAP...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T15:07:23.335560+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-1cc56662",
-    "title": "Bundle Nintendo Switch OLED + Super Mario Bros Wonder + 3 Meses de Assinatura Nintendo Switch Online",
-    "description": "🎁 Bundle Nintendo Switch OLED + Super Mario Bros Wonder + 3 Meses de Assinatura Nintendo Switch Online  🔥 POR: R$ 1.598,00 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque var...",
-    "originalPrice": null,
-    "currentPrice": 1598.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FR6PC1FB?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1cc56662.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:06:15.597456+00:00",
     "likesCount": 1
   }
 ]
