@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4b1e235f",
+    "title": "Smart TV Hisense 40\" FHD 40A4NV com HDR10 e Alexa",
+    "description": "🔥 **Smart TV Hisense 40\" FHD 40A4NV com HDR10 e Alexa**  Procurando a TV perfeita para transformar o seu quarto ou ambiente compacto em uma verdadeira central de entretenimento? Es...",
+    "originalPrice": 1999.0,
+    "currentPrice": 1170.0,
+    "discountPercentage": 41,
+    "couponCode": "DESCONTOSMELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tvhisense-fhd-40-polegadas-40a4nv-com-hdr10-dts-virtual-x-compatibilidade-alexa/p/MLB50911983?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4b1e235f.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T12:50:02.799395+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-af76f6bf",
     "title": "Ar-Condicionado LG Dual Inverter Compact 12.000 BTU Frio 220V",
     "description": "❄️ **Ar-Condicionado LG Dual Inverter Compact 12.000 BTU Frio 220V**  Transforme o clima da sua casa e garanta o máximo de conforto com economia e tecnologia de ponta!   💰 Por apen...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T11:14:55.650479+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-221f9a42",
-    "title": "Amazon Echo Dot Max (Geração mais recente)",
-    "description": "🔥 **Amazon Echo Dot Max (Geração mais recente)**  Leve a sua casa inteligente para o próximo nível com o novo smart speaker da Amazon! O **Amazon Echo Dot Max** conta com som incri...",
-    "originalPrice": 699.0,
-    "currentPrice": 599.0,
-    "discountPercentage": 14,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DKLQT9XR?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-221f9a42.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-24T11:12:55.126306+00:00",
     "likesCount": 1
   }
 ]
