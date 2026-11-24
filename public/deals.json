@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e89d3ab3",
+    "title": "Boné Tommy Hilfiger Uptown Cap Masculino Básico",
+    "description": "🔥 **Boné Tommy Hilfiger Uptown Cap Masculino Básico**  Estilo e autenticidade para completar o seu visual no dia a dia. Garanta o seu boné original da Tommy Hilfiger com um super d...",
+    "originalPrice": 224.0,
+    "currentPrice": 154.0,
+    "discountPercentage": 31,
+    "couponCode": "M0D4TUHS",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5363969810-bone-tommy-hilfiger-uptown-cap-masculino-basico-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e89d3ab3.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T18:16:02.378626+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-aecf2638",
     "title": "Smart Tv Tcl 65 Polegadas Qled 4k P7l Wifi Bluetooth Google Tv Hdr10 120 Hz Vrr Aipq 65p7l",
     "description": "DESPENCOU A TELONA DE 75 POLEGADAS  Smart TV TCL 75\" UHD 4K P6K Wifi Google TV  De R$ 5.899 por R$ 3.774 no Pix Use o Cupom: OFERTAPRATECH ou QUEROOFFHOJE 🎟️ + Selecione Pix  Vendi...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-24T15:39:21.910953+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f750b877",
-    "title": "Webcam Full HD Logitech C920s 1080p/30fps com Microfone Embutido e Tampa de Privacidade",
-    "description": "🔥 **Webcam Full HD Logitech C920s 1080p/30fps com Microfone Embutido e Tampa de Privacidade**  Melhore instantaneamente a qualidade das suas reuniões, aulas online ou transmissões...",
-    "originalPrice": null,
-    "currentPrice": 299.9,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B07K986YLL?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f750b877.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T15:37:58.433297+00:00",
     "likesCount": 1
   }
 ]
