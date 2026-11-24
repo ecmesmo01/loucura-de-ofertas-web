@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0285eb17",
+    "title": "Apple iPhone 17e 256GB Preto",
+    "description": "🔥 **Apple iPhone 17e 256GB Preto**  Procurando o equilíbrio perfeito entre desempenho, tecnologia de ponta e espaço de sobra? O novo iPhone 17e chegou com tudo e está com um preço...",
+    "originalPrice": null,
+    "currentPrice": 4099.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GTRWMZWZ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0285eb17.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T11:10:55.447346+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ccb6bdb2",
     "title": "Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo Frequência 60Hz",
     "description": "⚡ **Parafusadeira Furadeira The Black Tools TB12A 3/8 a Bateria Cor Amarelo Frequência 60Hz**  Praticidade e potência na palma da mão para qualquer reparo ou projeto em casa! Essa...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T22:28:12.868985+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-687dc901",
-    "title": "Invicta Relógio masculino Speedway 42 mm de quartzo em aço inoxidável, dois tons (modelo: 46845), Do",
-    "description": "🎁 Invicta Relógio masculino Speedway 42 mm de quartzo em aço inoxidável, dois tons (modelo: 46845), Dois tons, Tendência  🔥 Por: R$ 219,00 💳 ou em 4x no cartão  - Desconto na final...",
-    "originalPrice": null,
-    "currentPrice": 219.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CK2MD3F7?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-687dc901.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T22:27:11.245758+00:00",
     "likesCount": 1
   }
 ]
