@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6ea999ce",
+    "title": "Tribit Alto-falante Bluetooth Portátil XSound Plus 2, 30W com XBass, IPX7 | 24 horas de autonomia, s",
+    "description": "🎁 Tribit Alto-falante Bluetooth Portátil XSound Plus 2, 30W com XBass, IPX7 | 24 horas de autonomia, som estéreo, microfone embutido, Bluetooth 5.3 para festas, Modo TWS e Festa, c...",
+    "originalPrice": null,
+    "currentPrice": 327.01,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CKXQBFWZ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6ea999ce.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T22:25:09.532654+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-16efaa07",
     "title": "Deo Colonia Infantil Natura Kaiak Vibe Mini 25ml",
     "description": "SENTE A MINI VIBE Loja Oficial Natura  Perfume Natura Kaiak Vibe Mini 25ml  De R$ 91 por R$ 36  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/deo-colonia-infantil-nat...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:12:25.899771+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3656081d",
-    "title": "Perfume Carolina Herrera 212 Vip Men Eau de Toilette 200ml Masculino",
-    "description": "CORRE PREÇÃO NO 212 VIP DE 200ML, pagando com Cartão Mercado Pago  Perfume Carolina Herrera 212 Vip Men EDT 200ml  De R$ 968 por R$ 394 Use o Cupom: VEMPROMP 🎟️  Vendido por Loja O...",
-    "originalPrice": 968.0,
-    "currentPrice": 394.0,
-    "discountPercentage": 59,
-    "couponCode": "VEMPROMP",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-carolina-herrera-212-vip-men-eau-de-toilette-200ml-masculino/p/MLB6139411?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3656081d.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:11:42.945909+00:00",
     "likesCount": 1
   }
 ]
