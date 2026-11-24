@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5c6ab005",
+    "title": "Smart TV UHD 4K Hi-QLED 75\" Hisense 75Q6QV (HDR10+, Dolby Atmos, Alexa)",
+    "description": "🔥 **Smart TV UHD 4K Hi-QLED 75\" Hisense 75Q6QV (HDR10+, Dolby Atmos, Alexa)**  Quer transformar sua sala em um verdadeiro cinema? Essa gigante de 75 polegadas entrega imagens espet...",
+    "originalPrice": null,
+    "currentPrice": 3899.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FL4N5RG6?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c6ab005.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-24T11:48:56.386970+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-679740bc",
     "title": "Monitor Gamer LG UltraGear 27G523b-B 27\" IPS 200Hz 1ms",
     "description": "🔥 **Monitor Gamer LG UltraGear 27G523b-B 27\" IPS 200Hz 1ms**  Eleve a performance do seu setup ao nível profissional! Com taxa de atualização absurda de 200Hz e tempo de resposta u...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-23T23:42:52.425059+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-80c502ed",
-    "title": "Kit Cobre Leito Colcha Casal 3 Pecas Boutis Lisas Dupla Face Porta Travesseiro Aba Americana Isabel",
-    "description": "VOU DORMIR NO SOFÁ PRA N DESARRUMAR A CAMA  Kit Colcha Casal 3 Peças Cobre Leito Estampado Dupla Face - loja oficial Cofari no Meli  de 86,90 por 53,90 no pix  🛒 Compre com descont...",
-    "originalPrice": 86.9,
-    "currentPrice": 53.9,
-    "discountPercentage": 38,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-cobre-leito-colcha-casal-3-pecas-boutis-lisas-dupla-face-porta-travesseiro-aba-americana-isabel-areia/p/MLB80848763?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-80c502ed.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-23T23:40:52.756971+00:00",
     "likesCount": 1
   }
 ]
