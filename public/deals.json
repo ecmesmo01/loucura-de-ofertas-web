@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-bbeba697",
+    "title": "Amazon Kindle Colorsoft 16GB (modelo 2024) - Com tela colorida e temperatura de luz ajustável - Cor",
+    "description": "🎁 Amazon Kindle Colorsoft 16GB (modelo 2024) - Com tela colorida e temperatura de luz ajustável - Cor Preta  🔥 Por: R$ 999,00 💳 ou em 10x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Pr...",
+    "originalPrice": null,
+    "currentPrice": 999.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CX8MT2M2?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-bbeba697.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-24T19:26:59.917119+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b7730082",
     "title": "Notebook Vaio Fe16 Amd Ryzen 7 5825u Linux 8gb Ram 512gb Ssd Wi Fi 6 Tela 16 Ips Wuxga Antirreflexo",
     "description": "🔥 Notebook Vaio FE16 VJFE69F11X-B0321H AMD Ryzen 7 5825U  - 8GB - 512GB - 16″ WUXGA IPS - Linux  💵 Cupom R$200 off no produto Por R$3165 no PIX  🔗 LINK:   ⚠️Cupom, preço e estoque...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T17:00:02.643203+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-540f0d3c",
-    "title": "Presente Eudora Club 6 2 Itens",
-    "description": "PRESENTÃO PRO TEU SOGRO  Loja Oficial Eudora  Eudora Kit Presente Club 6 (2 Itens)  De R$ 149 por R$ 83 em 3x  Cupom: VOCEDEZ + Aplique o cupom de 10% OFF 🎟️  🛒 Compre com desconto...",
-    "originalPrice": 149.0,
-    "currentPrice": 83.0,
-    "discountPercentage": 44,
-    "couponCode": "VOCEDEZ",
-    "affiliateUrl": "https://www.mercadolivre.com.br/presente-eudora-club-6-2-itens/p/MLB70366399?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-540f0d3c.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T16:54:04.703194+00:00",
     "likesCount": 1
   }
 ]
