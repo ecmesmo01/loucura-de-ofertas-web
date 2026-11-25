@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2669e1c9",
+    "title": "Smartphone Apple iPhone 16e 128GB - Preto",
+    "description": "📱 **Smartphone Apple iPhone 16e 128GB - Preto**  🔥 Por apenas: **R$ 2.998,00** 💳 Parcelamento disponível em até 12x no cartão de crédito!  Garanta já o seu lançamento com preço imp...",
+    "originalPrice": null,
+    "currentPrice": 2998.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2669e1c9.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T12:17:19.148740+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a77b71c6",
     "title": "Perfume Rabanne Lady Million EDP 80ml",
     "description": "🔥 **Perfume Rabanne Lady Million EDP 80ml**  Procurando aquela fragrância marcante e sofisticada por um preço incrível? O clássico Lady Million da Rabanne está com um super descont...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T01:42:31.074031+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-23c121ee",
-    "title": "Kit 3 Potes de Vidro 1040ml com Divisoria e Tampa Hermetica Borossilicato Pitia",
-    "description": "OS MELHORES POTES QUE EXISTEM  Kit 3 Organizadores Geladeira c/ Tampas  De R$ 59 por R$ 35 no Pix  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/kit-3-potes-de-vidro-...",
-    "originalPrice": 59.0,
-    "currentPrice": 35.0,
-    "discountPercentage": 41,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-3-potes-de-vidro-1040ml-com-divisoria-e-tampa-hermetica-borossilicato-pitia/p/MLB75667882?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-23c121ee.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T01:28:15.228656+00:00",
     "likesCount": 1
   }
 ]
