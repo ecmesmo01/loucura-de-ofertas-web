@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-98796dc4",
+    "title": "Smart TV 50\" Mini LED 4K Samsung M75H",
+    "description": "🎬 **Smart TV 50\" Mini LED 4K Samsung M75H**  Transforme a sua sala em uma verdadeira sessão de cinema com imagens impressionantes, cores vivas e o contraste perfeito da tecnologia...",
+    "originalPrice": 3799.0,
+    "currentPrice": 2403.0,
+    "discountPercentage": 37,
+    "couponCode": "MERCADOLIVRE",
+    "affiliateUrl": "https://www.mercadolivre.com.br/samsung-smart-tv-50-mini-led-4k-m75h-262027/p/MLB75994421?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-98796dc4.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T12:13:36.662429+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2873fb35",
     "title": "Monitor Gamer Superframe Vision 23.8\" Full HD IPS 240Hz",
     "description": "🔥 **Monitor Gamer Superframe Vision 23.8\" Full HD IPS 240Hz**  O upgrade que faltava no seu setup! Domine qualquer partida competitiva com a fluidez extrema dos 240Hz e a precisão...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T01:12:14.034375+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-059f9264",
-    "title": "Tnis Sandrini Aero Run Academia Caminhada Treino",
-    "description": "SANDRINI BARATINHO Loja Oficial Sandrini  Tênis Sandrini Aero Run Academia (36 e 37)  De R$ 149 por R$ 39  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-41137...",
-    "originalPrice": 149.0,
-    "currentPrice": 39.0,
-    "discountPercentage": 74,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4113792113-tnis-sandrini-aero-run-academia-caminhada-treino-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-059f9264.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T01:10:15.853184+00:00",
     "likesCount": 1
   }
 ]
