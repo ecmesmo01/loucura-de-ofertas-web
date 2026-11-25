@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-28f6999a",
+    "title": "Echo Dot Smart Speaker com Alexa, Som Vibrante e Potente, Wi-Fi e Bluetooth - Cor Preta",
+    "description": "🔥 **Echo Dot Smart Speaker com Alexa, Som Vibrante e Potente, Wi-Fi e Bluetooth - Cor Preta**  Leve a inteligência artificial para o seu dia a dia com a caixa de som mais famosa do...",
+    "originalPrice": null,
+    "currentPrice": 289.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-28f6999a.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T11:28:22.102349+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2f3c4cb9",
     "title": "Relógio Masculino De Pulso Social Clássico Casual Yazole",
     "description": "🔥 **Relógio Masculino De Pulso Social Clássico Casual Yazole**  Elegância e sofisticação para acompanhar você em qualquer ocasião, do trabalho aos momentos mais formais. Um acessór...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:19:14.890124+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-7026f8c9",
-    "title": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV",
-    "description": "🎁 Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+  💸 De: R$ 220,00 🔥 POR...",
-    "originalPrice": 220.0,
-    "currentPrice": 195.0,
-    "discountPercentage": 11,
-    "couponCode": "FIRETVHD25",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DVK166SV?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7026f8c9.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:17:11.342061+00:00",
     "likesCount": 1
   }
 ]
