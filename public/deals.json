@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fa47b1ec",
+    "title": "Camiseta Quiksilver Chest Transfer Preto",
+    "description": "🔥 **Camiseta Quiksilver Chest Transfer Preto**  Estilo de cria com preço absurdo de promoção! Garanta a sua peça original direto da Loja Oficial no Mercado Livre por um valor imper...",
+    "originalPrice": 151.0,
+    "currentPrice": 51.0,
+    "discountPercentage": 66,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-1414313533-camiseta-quiksilver-chest-transfer-preto-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-fa47b1ec.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T11:12:21.804749+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-175e7bd7",
     "title": "Proteína Max Titanium Whey Pro Concentrado em Pó Sabor Morango",
     "description": "🔥 **Proteína Max Titanium Whey Pro Concentrado em Pó Sabor Morango - 1kg**  Dê um gás nos seus treinos com mais energia e um sabor incrível! O Whey Pro da Max Titanium é ideal para...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:11:07.329977+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c54a36a0",
-    "title": "I2GO, Caixa de Som Bluetooth Ulta Square 200, 40W RMS. i2GO PRO",
-    "description": "🎁 I2GO, Caixa de Som Bluetooth Ulta Square 200, 40W RMS. i2GO PRO  🔥 Por: R$ 195,35 💳 ou em 6x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com descont...",
-    "originalPrice": null,
-    "currentPrice": 195.35,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CW3TXQB8?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c54a36a0.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:11:01.222946+00:00",
     "likesCount": 1
   }
 ]
