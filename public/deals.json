@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-65822a7b",
+    "title": "Controle Sem Fio DualShock 4 - Sony PlayStation 4 - Preto",
+    "description": "🎮 **Controle Sem Fio DualShock 4 - Sony PlayStation 4 - Preto**  Garanta jogabilidade precisa e máxima imersão nas suas partidas! O clássico controle da Sony com design ergonômico,...",
+    "originalPrice": null,
+    "currentPrice": 199.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07FN1MZBH?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-65822a7b.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T12:11:09.257515+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-e88738de",
     "title": "Tênis Kappa Park 2.0 Original Unissex",
     "description": "🔥 **Tênis Kappa Park 2.0 Original Unissex**  Procurando o tênis perfeito para o dia a dia, caminhada ou academia sem gastar uma fortuna? O **Tênis Kappa Park 2.0** unissex (disponí...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:56:12.409204+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d9ccd1f2",
-    "title": "Celular Samsung Galaxy S26 5g 256gb 12gb Ram Galaxy Ai Camera Tripla de 501210 Tela de 63 Preto",
-    "description": "🎁 Celular Samsung Galaxy S26 5G, 256GB, 12GB RAM, Galaxy AI, Câmera Tripla de 50+12+10, Tela de 6.3\" Preto  🔥 POR: R$ 3.728,70 no Pix 🎟️ Cupom: OFERTAPRATECH  🛒 Compre aqui:  ⚠️ An...",
-    "originalPrice": null,
-    "currentPrice": 3728.7,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-s26-5g-256gb-12gb-ram-galaxy-ai-camera-tripla-de-501210-tela-de-63-preto/p/MLB65560106?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d9ccd1f2.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:56:03.014829+00:00",
     "likesCount": 1
   }
 ]
