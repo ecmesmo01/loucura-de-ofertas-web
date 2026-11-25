@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e593cc57",
+    "title": "Kit 2 Sacos Para Lavar Tênis e Sapatos em Máquina de Lavar",
+    "description": "👟 **Kit 2 Sacos Para Lavar Tênis e Sapatos em Máquina de Lavar**  Chega de sofrer para limpar seus calçados! Com esse saco telado anti-impacto e fechamento em zíper, você lava seus...",
+    "originalPrice": 28.0,
+    "currentPrice": 14.0,
+    "discountPercentage": 50,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-2-sacos-para-lavar-tenis-e-sapatos-em-maquina-de-lavar-saco-telado-anti-impacto-com-fechamento-em-ziper/p/MLB74910518?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e593cc57.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T11:55:18.636560+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5485b751",
     "title": "Perfume Masculino Invictus Victory Paco Rabanne Eau de Parfum 100ml",
     "description": "🔥 **Perfume Masculino Invictus Victory Paco Rabanne Eau de Parfum 100ml**  O poder da vitória em uma fragrância marcante e sofisticada. Combinando frescor intenso e notas orientais...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:27:13.729709+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-71dfd930",
-    "title": "Kindle 16GB (modelo 2024) - Leve e compacto, com tela antirreflexo, trocas de página rápidas, luz fr",
-    "description": "🎁 Kindle 16GB (modelo 2024) - Leve e compacto, com tela antirreflexo, trocas de página rápidas, luz frontal ajustável e bateria de longa duração - Cor Verde  🔥 Por: R$ 519,00 💳 ou...",
-    "originalPrice": null,
-    "currentPrice": 519.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CP31QS6R?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-71dfd930.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:25:15.406553+00:00",
     "likesCount": 1
   }
 ]
