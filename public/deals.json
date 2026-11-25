@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-bbf0a0aa",
+    "title": "Voltagem: 127V",
+    "description": "🔌 Voltagem: 127V  🎁 BLUETTI Elite 100 V2 Gerador Solar, Bateria LFP de 1024Wh com 2 Saídas CA 120V|1800W (3600W Pico), 35% Mais Compacto, Energia Portátil para Camping, Emergências...",
+    "originalPrice": null,
+    "currentPrice": 4930.49,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G43TJ9K2?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-bbf0a0aa.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T22:35:10.285597+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8b8fd9c7",
     "title": "Bone Nike Club Swoosh Unissex Cor Branco Preto Tamanho Mg",
     "description": "BONÉ PRA VIRADA DO ANO Loja Oficial Nike  Boné Nike Club Swoosh  De R$ 179 por R$ 79  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/bone-nike-club-swoosh-unissex-cor-...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T12:59:09.764487+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8a667d6e",
-    "title": "Mala PP Riviera P Preta",
-    "description": "🔥 **Mala PP Riviera P Preta**  Viaje com praticidade, estilo e dentro dos padrões de bordo! Essa mala compacta é perfeita para quem busca organização e durabilidade em qualquer via...",
-    "originalPrice": null,
-    "currentPrice": 103.0,
-    "discountPercentage": null,
-    "couponCode": "MELIAGORA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/mala-pp-riviera-p-preta/p/MLB79768364?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8a667d6e.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T12:57:30.178362+00:00",
     "likesCount": 1
   }
 ]
