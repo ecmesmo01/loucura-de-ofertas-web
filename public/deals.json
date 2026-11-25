@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-31abaf4a",
+    "title": "Tênis New Balance 480 Low Unissex, Preto/Branco/Marrom, 39",
+    "description": "🔥 **Tênis New Balance 480 Low Unissex, Preto/Branco/Marrom, 39**  Procurando o equilíbrio perfeito entre estilo urbano e conforto para o dia a dia? O clássico da New Balance chegou...",
+    "originalPrice": null,
+    "currentPrice": 199.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G731G5GK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-31abaf4a.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T13:08:21.468701+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-67ee0076",
     "title": "Tênis Adidas Barreda Decode Preto e Branco",
     "description": "🔥 **Tênis Adidas Barreda Decode Preto e Branco**  Procurando o tênis perfeito para o dia a dia com estilo e conforto garantidos pela loja oficial? Esta é a sua chance de garantir u...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T11:04:18.310827+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-869598cf",
-    "title": "Kit Renovadores Gota De Colágeno E Rosa Mosqueta Kokeshi",
-    "description": "✨ **Kit Renovadores Gota De Colágeno E Rosa Mosqueta Kokeshi**  Dê um up na sua rotina de skincare! Conquiste uma pele muito mais firme, hidratada e com aquele brilho natural que v...",
-    "originalPrice": 93.9,
-    "currentPrice": 61.9,
-    "discountPercentage": 34,
-    "couponCode": "MERCADOLIVRE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-renovadores-gota-de-colageno-e-rosa-mosqueta-kokeshi/p/MLB74725743?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-869598cf.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-25T11:03:18.875775+00:00",
     "likesCount": 1
   }
 ]
