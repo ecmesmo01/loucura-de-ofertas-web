@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8923782f",
+    "title": "Philips Walita Centrífuga Viva 500W, Preta, 220V | Garantia de 2 Anos – extrai sucos naturais de fru",
+    "description": "🎁 Philips Walita Centrífuga Viva 500W, Preta, 220V | Garantia de 2 Anos – extrai sucos naturais de frutas e legumes com praticidade (RI1836/00)  🔥 Por: R$ 340,00 💳 ou em 12x no car...",
+    "originalPrice": null,
+    "currentPrice": 340.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B01IR0GDKA?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8923782f.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T20:28:08.081893+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-88c38db6",
     "title": "Notebook Acer Aspire Go 15 Touch com Processador Intel Core I5 13 Geracao 8gb de Memoria Ram Ddr5 Ar",
     "description": "🔥 Notebook Acer Aspire Go 15 Touch com  - Intel Core i5 13ª Geração - 8GB de Memória RAM DDR5 - Armazenamento 512GB SSD - Tela 15.6\" Full HD Touchscreen IPS - Windows 11  💵 R$ 3.73...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T12:05:17.590525+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8e4b9867",
-    "title": "Processador Gamer AMD Ryzen 7 5800X3D (8 Núcleos, 4.5GHz)",
-    "description": "🔥 **Processador Gamer AMD Ryzen 7 5800X3D (8 Núcleos, 4.5GHz)**  Quer turbinar o seu setup com uma das melhores CPUs para jogos do mercado? Garanta alta performance, fluidez e pode...",
-    "originalPrice": null,
-    "currentPrice": 429.0,
-    "discountPercentage": null,
-    "couponCode": "75MAIS1125MELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/processador-gamer-amd-ryzen-7-5800x3d-100-100000651wof-de-8-nucleos-e-45ghz-de-frequencia-com-grafica-integrada/p/MLB20892138?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8e4b9867.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T12:02:30.341638+00:00",
     "likesCount": 1
   }
 ]
