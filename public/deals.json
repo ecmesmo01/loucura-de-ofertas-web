@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c54a36a0",
+    "title": "I2GO, Caixa de Som Bluetooth Ulta Square 200, 40W RMS. i2GO PRO",
+    "description": "🎁 I2GO, Caixa de Som Bluetooth Ulta Square 200, 40W RMS. i2GO PRO  🔥 Por: R$ 195,35 💳 ou em 6x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com descont...",
+    "originalPrice": null,
+    "currentPrice": 195.35,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CW3TXQB8?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c54a36a0.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T00:11:01.222946+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-af49a872",
     "title": "Freezer Horizontal Philco 143 Litros Dupla Ação Pfh160b 220v 220v",
     "description": "🎁 Freezer Horizontal Philco 143 Litros Dupla Ação Pfh160b 220v 220v  🔥 POR: R$ 1.096,10 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: h...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:42:12.729132+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0f2be31a",
-    "title": "Notebook Acer Nitro V 15 RTX 4050 i7 16GB 512GB SSD Win 11 ANV15",
-    "description": "🎁 Notebook Acer Nitro V 15 RTX 4050 i7 16GB 512GB SSD Win 11 ANV15-52-77BG  🔥 POR: R$ 6.699,99 🎟️ Cupom: GAMER500  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre co...",
-    "originalPrice": null,
-    "currentPrice": 6699.99,
-    "discountPercentage": null,
-    "couponCode": "GAMER500",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0B8Z8LHKX?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0f2be31a.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:42:11.154617+00:00",
     "likesCount": 1
   }
 ]
