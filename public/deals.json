@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c3ed18e1",
+    "title": "Apple iPhone 17e de 256GB — Branco",
+    "description": "🎁 Apple iPhone 17e de 256GB — Branco  🔥 POR: R$ 4.098,60 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B0G...",
+    "originalPrice": null,
+    "currentPrice": 4098.6,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GTS998HJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c3ed18e1.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T00:46:11.869586+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a5de1621",
     "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 8GB, 512GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - M1502",
     "description": "🎁 Notebook ASUS Vivobook 15 AMD Ryzen 7, 8GB, 512GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - M1502YA-NJ611  🔥 Por R$ 2.499,00 💳 ou em 10x no cartão 🎟 Cupom para Prime: 25BF26PR...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T21:17:11.444165+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-955b914f",
-    "title": "AOC ACS2410 Caixa de Som Soundbar 2.0 Canais | Home Theater, Subwoofer Integrado, Compatível com AUX",
-    "description": "🎁 AOC ACS2410 Caixa de Som Soundbar 2.0 Canais | Home Theater, Subwoofer Integrado, Compatível com AUX/BT/USB/FM  🔥 POR: R$ 301,76 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e est...",
-    "originalPrice": null,
-    "currentPrice": 301.76,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4MKWQ37?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-955b914f.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T21:17:08.550857+00:00",
     "likesCount": 1
   }
 ]
