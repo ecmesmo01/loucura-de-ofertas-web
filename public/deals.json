@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1ffacfa9",
+    "title": "Panettone Chocotone Gotas de Chocolate Lindt 390g",
+    "description": "LINDT É ABSURDO, aproveita que tá no precinho  Panettone Chocotone Gotas De Chocolate Lindt 390g  De R$ 109 por R$ 59 Aplique o Cupom de R$ 20 OFF no Anúncio 🎟️ (logo abaixo do pre...",
+    "originalPrice": 109.0,
+    "currentPrice": 59.0,
+    "discountPercentage": 46,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/panettone-chocotone-gotas-de-chocolate-lindt-390g/p/MLB43798068?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1ffacfa9.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T01:58:14.704306+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6bc96b1a",
     "title": "Kit Kérastase Curl Manifesto Fondamentale (3 Produtos)",
     "description": "✨ **Kit Kérastase Curl Manifesto Fondamentale (3 Produtos)**  Tratamento de luxo de nível profissional para cabelos cacheados e crespos! Nutrição intensa, definição impecável e bri...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T21:41:00.143874+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2c8ce7bb",
-    "title": "Cafeteira Espresso Oster PrimaLatte Touch",
-    "description": "🎁 Cafeteira Espresso Oster PrimaLatte Touch - 127V  🔥 Por: R$ 881,91 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https:...",
-    "originalPrice": null,
-    "currentPrice": 881.91,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0BXY561N5?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2c8ce7bb.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T21:39:09.798572+00:00",
     "likesCount": 1
   }
 ]
