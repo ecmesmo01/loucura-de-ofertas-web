@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-25649880",
+    "title": "Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor",
+    "description": "🎁 Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor Roxo ube  🔥 Por: R$ 709,00 💳 ou em 10x no cartão  🛒 Compre aqui:  ⚠️ Anúncio |...",
+    "originalPrice": null,
+    "currentPrice": 709.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4SMGD8C?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-25649880.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T00:16:11.839961+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-63e22121",
     "title": "Monitor Gamer BenQ EW270Q com resolução 2K, cobertura de cor 90% P3, taxa de atualização de 200Hz e",
     "description": "🎁 Monitor Gamer BenQ EW270Q com resolução 2K, cobertura de cor 90% P3, taxa de atualização de 200Hz e alto-falantes integrados de 5W para uma experiência audiovisual completa  🔥 Po...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:43:09.850910+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3057dab0",
-    "title": "Notebook Gamer Predator Helios Neo 16 Phn16 73 96sw com Ia Intel Core Ultra 9 275hx 32gb 1tb Ssd Nvi",
-    "description": "🔥 Notebook Gamer Predator Helios Neo 16 RTX 5070 (VERSÃO COM 16GB RAM)  - Intel Core Ultra 7 255HX - RTX 5070 8GB - Tela de 16\"- 240HZ-IPS-QUAD HD-100% DCI-P - 16GB (EXPANSÍVEL) -...",
-    "originalPrice": null,
-    "currentPrice": 10049.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-gamer-predator-helios-neo-16-phn16-73-96sw-com-ia-intel-core-ultra-9-275hx-32gb-1tb-ssd-nvidia-rtx5070-gddr7-wqxga-16-windows-11-home/p/MLB46180713?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3057dab0.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:42:38.388155+00:00",
     "likesCount": 1
   }
 ]
