@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2562ba15",
+    "title": "Mini Chocottone M&M's Bauducco 80g",
+    "description": "🍫 **Mini Chocottone M&M's Bauducco 80g**  A combinação perfeita da massa fofinha Bauducco recheada com muito sabor e o toque crocante dos confetes M&M's! Uma opção deliciosa para m...",
+    "originalPrice": null,
+    "currentPrice": 12.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/mini-chocottone-mms-bauducco-80g/p/MLB18365775?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2562ba15.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T11:46:33.378273+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-96f67f84",
     "title": "Camiseta Quiksilver Masculina Q471A10580200 Preto",
     "description": "🔥 **Camiseta Quiksilver Masculina Q471A10580200 Preto**  Quer garantir aquele estilo autêntico gastando pouco? A clássica camiseta da Loja Oficial Quiksilver no Mercado Livre está...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:24:12.129397+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-63a49e79",
-    "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 | Vision AI Companion, Modo Futebol, Xbox Cloud Gami",
-    "description": "🎁 Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 | Vision AI Companion, Modo Futebol, Xbox Cloud Gaming, Canais Gratuitos, 7 Anos de Atualização  🔥 Por: R$ 3.799,00 💳 ou em 12x no...",
-    "originalPrice": null,
-    "currentPrice": 3799.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0H6N4P465?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-63a49e79.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:22:11.367087+00:00",
     "likesCount": 1
   }
 ]
