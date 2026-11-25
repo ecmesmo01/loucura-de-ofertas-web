@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5485b751",
+    "title": "Perfume Masculino Invictus Victory Paco Rabanne Eau de Parfum 100ml",
+    "description": "🔥 **Perfume Masculino Invictus Victory Paco Rabanne Eau de Parfum 100ml**  O poder da vitória em uma fragrância marcante e sofisticada. Combinando frescor intenso e notas orientais...",
+    "originalPrice": null,
+    "currentPrice": 369.11,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B08WKFBWH4?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5485b751.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T11:53:23.008779+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2562ba15",
     "title": "Mini Chocottone M&M's Bauducco 80g",
     "description": "🍫 **Mini Chocottone M&M's Bauducco 80g**  A combinação perfeita da massa fofinha Bauducco recheada com muito sabor e o toque crocante dos confetes M&M's! Uma opção deliciosa para m...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T00:25:15.406553+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9a8237d1",
-    "title": "Smart TV Semp 43 Polegadas LED Full HD S42 WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 43S42",
-    "description": "🎁 Smart TV Semp 43 Polegadas LED Full HD S42 WiFi Bluetooth Google TV 2 HDMI HDR10 Dolby Audio 43S42  🔥 Por: R$ 1.299,99 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e...",
-    "originalPrice": null,
-    "currentPrice": 1299.99,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FSF5FKPC?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9a8237d1.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T00:24:12.129397+00:00",
     "likesCount": 1
   }
 ]
