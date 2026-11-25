@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae13fc81",
+    "title": "Tasty Whey 3w Gourmet 900g Milkshake Morango Adaptogen Science Creme de Morango",
+    "description": "O WHEY QUE PARECE SOBREMESA  Tasty Whey 3w Gourmet 900g Milkshake Morango  De R$ 320 por R$ 164 no Pix Use o Cupom: VIVERML 🎟️ + Selecione Pix  Vendido por Loja Oficial no ML  🛒 Co...",
+    "originalPrice": 320.0,
+    "currentPrice": 164.0,
+    "discountPercentage": 49,
+    "couponCode": "VIVERML",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tasty-whey-3w-gourmet-900g-milkshake-morango-adaptogen-science-creme-de-morango/p/MLB19678155?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae13fc81.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T21:08:11.416232+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c0aecbf9",
     "title": "Fone de Ouvido Samsung Galaxy Buds3 Fe Sem Fio com Cancelamento de Ruido e Galaxy Ai Cinza",
     "description": "ESSE FONE É BRABO D+  Samsung Galaxy Buds3 FE    R$ 1.099 por R$ 539 no Pix Use os Cupons: ELETROTECHMELI 🎟️ + Selecione Pix  Vendido por Loja Oficial do ML  🛒 Compre com desconto...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T12:21:23.063988+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9d366dd9",
-    "title": "Smart TV LG 75\" Nano UHD 4K Ai NU855 (2026)",
-    "description": "🔥 **Smart TV LG 75\" Nano UHD 4K Ai NU855 (2026)**  Transforme a sua sala em um verdadeiro cinema com esse espetáculo de 75 polegadas! Equipada com tecnologia de ponta, inteligência...",
-    "originalPrice": 6999.0,
-    "currentPrice": 4181.0,
-    "discountPercentage": 40,
-    "couponCode": "LIVREHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-4k-65-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-65nu850bpsa/p/MLB82600518?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9d366dd9.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T12:19:16.268320+00:00",
     "likesCount": 1
   }
 ]
