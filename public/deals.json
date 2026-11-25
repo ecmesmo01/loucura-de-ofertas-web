@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7026f8c9",
+    "title": "Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV",
+    "description": "🎁 Amazon Fire TV Stick HD (modelo mais recente), Controle Remoto por Voz com Alexa, alimentado pela TV, com configuração simples e Acesso Antecipado à Alexa+  💸 De: R$ 220,00 🔥 POR...",
+    "originalPrice": 220.0,
+    "currentPrice": 195.0,
+    "discountPercentage": 11,
+    "couponCode": "FIRETVHD25",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DVK166SV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7026f8c9.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T00:17:11.342061+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-25649880",
     "title": "Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor",
     "description": "🎁 Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor Roxo ube  🔥 Por: R$ 709,00 💳 ou em 10x no cartão  🛒 Compre aqui:  ⚠️ Anúncio |...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T20:45:10.420486+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f8977012",
-    "title": "Apple Iphone 15 128 Gb Azul Distribuidor Autorizado",
-    "description": "🎁 Apple iPhone 15 (128GB) - Azul - Distribuidor Autorizado  🔥 POR: R$ 3.349,00 no Pix 🎟️ Cupom : OFERTAPRATECH + VEMPROMP  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 C...",
-    "originalPrice": null,
-    "currentPrice": 3349.0,
-    "discountPercentage": null,
-    "couponCode": "OFERTAPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/apple-iphone-15-128-gb-azul-distribuidor-autorizado/p/MLB1027172667?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f8977012.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T20:43:09.850910+00:00",
     "likesCount": 1
   }
 ]
