@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6446e48f",
+    "title": "o Boticario Creme Perfumado Desodorante Nativa Spa Orquidea",
+    "description": "ESSE CREME É SURREAL DE CHEIROSO  Creme Nativa Spa Orquídea Lumière 400ml   De R$ 89 por R$ 45 no Pix  Loja Oficial O Boticário no ML  🛒 Compre com desconto aqui: https://www.merca...",
+    "originalPrice": 89.0,
+    "currentPrice": 45.0,
+    "discountPercentage": 49,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/o-boticario-creme-perfumado-desodorante-nativa-spa-orquidea/p/MLB60956057?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6446e48f.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T23:41:12.066257+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5ec049fe",
     "title": "Versace Eros Edt 200ml para Masculino",
     "description": "PERFUMAÇO DA VERSACE DE 200ML  Perfume Versace Eros EDT 200ml  De R$ 986 por R$ 513  Loja Verificada no ML  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/versace-eros...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T20:04:14.025315+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c299d016",
-    "title": "L'Oréal Paris Elseve Hidra Hialurônico Kit Capilar Shampoo, Cond e Máscara | Ácido Hialurônico, 4x M",
-    "description": "🎁 L'Oréal Paris Elseve Hidra Hialurônico Kit Capilar Shampoo, Cond e Máscara | Ácido Hialurônico, 4x Mais Hidratação, Anti-Frizz.  🔥 POR: R$ 69,99 à vista  🛒 Compre aqui:  ⚠️ Anúnc...",
-    "originalPrice": null,
-    "currentPrice": 69.99,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0D7DSB3K6?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c299d016.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T20:04:09.997571+00:00",
     "likesCount": 1
   }
 ]
