@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-731e42b1",
+    "title": "Computador Acer All In One C24",
+    "description": "🎁 Computador Acer All In One C24-2YE13U5UNL-BR11 Intel Core i5-1334U de 13ª geração,16GB RAM 512GB SSD, 23,8”, Full HD 120HZ, Webcam, Windows 11 Sem Teclado e Mouse  🔥 Por R$ 4.698...",
+    "originalPrice": null,
+    "currentPrice": 4698.99,
+    "discountPercentage": null,
+    "couponCode": "25BF26PRIME",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B082WGSGLL?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-731e42b1.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-25T00:30:11.925018+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-aa2cd592",
     "title": "Jogo de Chave Boca e Estrela Combinada 12 Pcs Aco 6 22 Mm Cromada Profissional Tkch12 The Black Tool",
     "description": "🔥 Jogo De Chave Boca E Estrela Combinada 12 Pçs Aço  🚨 R$ 54 💲 à vista  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/jogo-de-chave-boca-e-estrela-combinada-12-pcs-ac...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-24T21:10:11.955073+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-25850fc9",
-    "title": "Controle Sem Fio Sony Dualsense Hyperpop para Ps5 Vermelho Techno Red",
-    "description": "➡️ Controle Sem Fio Sony Dualsense Hyperpop, Ps5, Techno Red Vermelho  ✅ R$ 349 😱😱 🏷 Cupom: TECHHOME  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/controle-sem-fio-s...",
-    "originalPrice": null,
-    "currentPrice": 349.0,
-    "discountPercentage": null,
-    "couponCode": "TECHHOME",
-    "affiliateUrl": "https://www.mercadolivre.com.br/controle-sem-fio-sony-dualsense-hyperpop-para-ps5-vermelho-techno-red/p/MLB66198761?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-25850fc9.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-24T21:09:09.839951+00:00",
     "likesCount": 1
   }
 ]
