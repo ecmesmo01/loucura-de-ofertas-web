@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-54b0f55c",
+    "title": "Smart TV LCD LED 32\" AOC 32S5155/78G - Wi-Fi, HD, Quad Core, Dolby Áudio, 60 Hz",
+    "description": "🔥 **Smart TV LCD LED 32\" AOC 32S5155/78G - Wi-Fi, HD, Quad Core, Dolby Áudio, 60 Hz**  Procurando uma TV nova para o quarto, sala ou escritório? Esse modelo da AOC entrega excelent...",
+    "originalPrice": null,
+    "currentPrice": 725.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK75OFF",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-54b0f55c.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:36:53.049218+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-73bc145c",
     "title": "Óculos de Sol Quadrado Masculino Leaf Metal Acetato Proteção UV Armação Preta Lente Degrade Preta",
     "description": "🔥 **Óculos de Sol Quadrado Masculino Leaf Metal Acetato Proteção UV Armação Preta Lente Degrade Preta**  Estilo, elegância e proteção para o seu dia a dia! Garanta um visual modern...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:09:58.789168+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-bb0695d6",
-    "title": "Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita 220V",
-    "description": "🔥 **Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita 220V**  Vai começar uma obra ou reforma? Garanta a potência e a precisão da Makita pelo menor preço! Ferramenta profiss...",
-    "originalPrice": 409.0,
-    "currentPrice": 217.0,
-    "discountPercentage": 47,
-    "couponCode": "PROJETOGRANDE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/serra-marmore-110mm-1300w-com-2-discos-4100nh3zx2-makita-profissional/p/MLB19802405?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-bb0695d6.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:09:51.276647+00:00",
     "likesCount": 1
   }
 ]
