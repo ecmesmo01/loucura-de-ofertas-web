@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f108a121",
+    "title": "JBL Boombox 3 Caixa de Som Bluetooth à Prova D'Água Preta | Até 24h de Bateria, JBL Original Pro Sou",
+    "description": "🎁 JBL Boombox 3 Caixa de Som Bluetooth à Prova D'Água Preta | Até 24h de Bateria, JBL Original Pro Sound, App JBL Portable, Conexão com 2 Dispositivos  🔥 Por: R$ 1.486,00 💳 ou em 1...",
+    "originalPrice": null,
+    "currentPrice": 1486.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0BF66H9XW?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f108a121.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T00:12:11.481897+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8da96b41",
     "title": "Lava Loucas Brastemp 8 Servicos Branca Blf08bb",
     "description": "Lava-Louças Brastemp 8 Serviços Branca (220V) -  R$1369 no PIX #anúncio  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/lava-loucas-brastemp-8-servicos-branca-blf08bb/...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T20:28:08.081893+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-88c38db6",
-    "title": "Notebook Acer Aspire Go 15 Touch com Processador Intel Core I5 13 Geracao 8gb de Memoria Ram Ddr5 Ar",
-    "description": "🔥 Notebook Acer Aspire Go 15 Touch com  - Intel Core i5 13ª Geração - 8GB de Memória RAM DDR5 - Armazenamento 512GB SSD - Tela 15.6\" Full HD Touchscreen IPS - Windows 11  💵 R$ 3.73...",
-    "originalPrice": null,
-    "currentPrice": 3739.0,
-    "discountPercentage": null,
-    "couponCode": "ESTOQUE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-acer-aspire-go-15-touch-com-processador-intel-core-i5-13-geracao-8gb-de-memoria-ram-ddr5-armazenamento-512gb-ssd-tela-156-full-hd-touchscreen-ips-windows-11-ag15-71pt-58sx/p/MLB52934844?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-88c38db6.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T20:27:10.794489+00:00",
     "likesCount": 1
   }
 ]
