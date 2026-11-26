@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0622b393",
+    "title": "Mochila Puma Phase Backpack",
+    "description": "🔥 **Mochila Puma Phase Backpack**  Essa oferta está imperdível e o estoque com desconto é super limitado! Garanta a sua na Loja Oficial da Puma com um preço absurdo de bom.  De R$...",
+    "originalPrice": 229.0,
+    "currentPrice": 89.0,
+    "discountPercentage": 61,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/mochila-phase-backpack-puma/p/MLB45717392?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0622b393.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T16:04:13.816840+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-45993b3e",
     "title": "Body Spray Carolina Herrera 212 VIP Black Masculino 250ml",
     "description": "🔥 **Body Spray Carolina Herrera 212 VIP Black Masculino 250ml**  O preço despencou! Garanta essa fragrância marcante e sofisticada por um valor imperdível. Perfeito para quem busca...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T14:11:03.727459+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-07fb1fce",
-    "title": "Perfume Lattafa Asad Eau de Parfum Bourbon Masculino 100ml",
-    "description": "🔥 **Perfume Lattafa Asad Eau de Parfum Bourbon Masculino 100ml**  Procurando uma fragrância marcante, sofisticada e com aquela fixação absurda que só os perfumes árabes entregam? O...",
-    "originalPrice": 344.0,
-    "currentPrice": 111.0,
-    "discountPercentage": 68,
-    "couponCode": "SUPEROFERTA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lattafa-asad-eau-de-parfum-bourbon-masculino/p/MLB54494268?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-07fb1fce.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T14:10:55.419764+00:00",
     "likesCount": 1
   }
 ]
