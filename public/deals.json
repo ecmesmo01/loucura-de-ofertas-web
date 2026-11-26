@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4e17a6ff",
+    "title": "Tênis Nike Court Vision Low Next Nature Masculino",
+    "description": "🔥 **Tênis Nike Court Vision Low Next Nature Masculino**  O clássico estilo basquete dos anos 80 agora em uma versão all white impecável para o seu dia a dia! Conforto e versatilida...",
+    "originalPrice": 449.0,
+    "currentPrice": 242.0,
+    "discountPercentage": 46,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/nike-court-vision-low-next-nature-masculino-adultos/p/MLB18679676?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4e17a6ff.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T15:42:30.938837+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2bc46f64",
     "title": "Notebook ASUS Vivobook Go 15 AMD Ryzen 5 7520U 8GB RAM 512GB SSD Tela 15.6\" FHD",
     "description": "🔥 **Notebook ASUS Vivobook Go 15 AMD Ryzen 5 7520U 8GB RAM 512GB SSD Tela 15.6\" FHD**  Procurando um notebook rápido, moderno e com excelente espaço para o seu dia a dia, estudos o...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T14:06:41.139613+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-35b0e0eb",
-    "title": "Panela De Pressão Elétrica Ppe",
-    "description": "🔥 **Panela De Pressão Elétrica Ppe-102 6 Litros Kian Preto**  Cozinhar ficou muito mais prático e seguro! Com capacidade de 6 litros, essa panela elétrica da Kian vai transformar a...",
-    "originalPrice": null,
-    "currentPrice": 217.0,
-    "discountPercentage": null,
-    "couponCode": "SUPEROFERTA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-ppe-102-6-litros-kian-preto/p/MLB47850195?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-35b0e0eb.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T14:06:35.932306+00:00",
     "likesCount": 1
   }
 ]
