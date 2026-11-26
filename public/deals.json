@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4abd96e4",
+    "title": "12x sem juros",
+    "description": "🔥 **Notebook Dell Inspiron 15 DC15-I51334U-M50 Intel Core i5-1334U 8GB 512GB SSD 15.6\" WVA 120Hz Windows 11**  Procurando potência, velocidade e uma tela de alta fluidez para o seu...",
+    "originalPrice": null,
+    "currentPrice": 3199.0,
+    "discountPercentage": null,
+    "couponCode": "TECH300",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GYFRGPZY?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4abd96e4.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T13:43:32.721950+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b3bc13e6",
     "title": "Whisky Royal Salute 21 Anos The Signature Blend Escocês",
     "description": "🥃 **Whisky Royal Salute 21 Anos The Signature Blend Escocês - 700 ml**  Para quem aprecia um verdadeiro clássico de luxo e sofisticação. Uma oportunidade rara para garantir um dos...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:17:52.576812+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e2578daa",
-    "title": "Câmbio Driving Force Shifter Preto Logitech G",
-    "description": "🎮 **Câmbio Driving Force Shifter Preto Logitech G**  Leve sua experiência de pilotagem virtual para o próximo nível! Com estrutura robusta em aço e revestimento em couro costurado...",
-    "originalPrice": null,
-    "currentPrice": 251.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/cambio-driving-force-shifter-preto-logitech-g/p/MLB24526678?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e2578daa.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:17:51.060033+00:00",
     "likesCount": 1
   }
 ]
