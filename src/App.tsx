@@ -7,6 +7,7 @@ import { CategoryFilter } from './components/CategoryFilter';
 import { DealCard } from './components/DealCard';
 import { Footer } from './components/Footer';
 import { AffiliateConverter } from './components/AffiliateConverter';
+import { initAnalytics } from './utils/analytics';
 import { SearchX, Sparkles, RefreshCw } from 'lucide-react';
 
 export const App: React.FC = () => {
@@ -54,6 +55,10 @@ export const App: React.FC = () => {
       localStorage.setItem('deals_theme', 'light');
     }
   }, [darkMode]);
+
+  useEffect(() => {
+    initAnalytics();
+  }, []);
 
   // Try to load any dynamic deals.json (GitHub Raw real-time with local fallback)
   const GITHUB_DEALS_URL = 'https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/deals.json';

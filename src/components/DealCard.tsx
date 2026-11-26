@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Deal } from '../types';
+import { trackOutboundClick } from '../utils/analytics';
 import { 
   ExternalLink, 
   Copy, 
@@ -149,6 +150,7 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
         href={deal.affiliateUrl}
         target="_blank"
         rel="noopener noreferrer"
+        onClick={() => trackOutboundClick(deal.affiliateUrl, deal.title)}
         className="relative aspect-[4/3] bg-slate-100 dark:bg-slate-800 overflow-hidden flex items-center justify-center p-4 cursor-pointer block"
         title={`Ver promoção: ${deal.title}`}
       >
@@ -202,6 +204,7 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
             href={deal.affiliateUrl}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackOutboundClick(deal.affiliateUrl, deal.title)}
             className="block"
           >
             <h3 className="font-bold text-sm sm:text-base text-slate-900 dark:text-white line-clamp-2 leading-snug group-hover:text-red-600 dark:group-hover:text-red-400 transition-colors">
@@ -276,6 +279,7 @@ export const DealCard: React.FC<DealCardProps> = ({ deal }) => {
             href={deal.affiliateUrl}
             target="_blank"
             rel="noopener noreferrer"
+            onClick={() => trackOutboundClick(deal.affiliateUrl, deal.title)}
             className="w-full py-2.5 px-4 rounded-xl font-bold text-sm bg-red-600 hover:bg-red-700 active:bg-red-800 text-white flex items-center justify-center gap-2 shadow-sm shadow-red-600/30 transition-all hover:translate-y-[-1px] cursor-pointer"
           >
             <span>Pegar Promoção</span>
