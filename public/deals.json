@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6b5b15ba",
+    "title": "Smartphone Motorola Signature 5G 512GB 12GB RAM Preto",
+    "description": "🔥 **Smartphone Motorola Signature 5G 512GB 12GB RAM Preto**  Procurando o topo de linha definitivo? O **Motorola Signature** chegou com preço imperdível para assinantes Prime, comb...",
+    "originalPrice": 4899.0,
+    "currentPrice": 4139.0,
+    "discountPercentage": 16,
+    "couponCode": "BLACK150",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GMKJDHT9?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6b5b15ba.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:08:55.353969+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-e2464001",
     "title": "Apple iPhone 17 256GB — Sálvia",
     "description": "🔥 **Apple iPhone 17 256GB — Sálvia**  Garanta o seu novo iPhone com um super desconto! Desempenho impecável, câmeras de alta definição e o design sofisticado da Apple que você já c...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T10:11:47.441339+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-27d4478e",
-    "title": "Smartphone Motorola Moto G77 5G 256GB 8GB + 16GB RAM Boost Dual Sim Marrom",
-    "description": "🔥 **Smartphone Motorola Moto G77 5G 256GB 8GB + 16GB RAM Boost Dual Sim Marrom**  Procurando um upgrade de respeito para o seu dia a dia? O Motorola Moto G77 5G chegou com tudo! Co...",
-    "originalPrice": null,
-    "currentPrice": 1484.0,
-    "discountPercentage": null,
-    "couponCode": "VIPTECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smartphone-motorola-moto-g77-5g-256gb-8gb-16gb-ram-boost-dual-sim-marrom/p/MLB81817959?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-27d4478e.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-26T10:09:27.804863+00:00",
     "likesCount": 1
   }
 ]
