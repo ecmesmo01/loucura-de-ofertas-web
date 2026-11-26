@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d72d1399",
+    "title": "Câmera DSLR Canon EOS Rebel T7+ com Lente EF-S 18",
+    "description": "📸 **Câmera DSLR Canon EOS Rebel T7+ com Lente EF-S 18-55mm**  Procurando a câmera perfeita para elevar a qualidade das suas fotos e vídeos? A EOS T7+ entrega imagens nítidas, excel...",
+    "originalPrice": null,
+    "currentPrice": 2995.55,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09QL7J9Q8?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d72d1399.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T11:33:45.695535+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-cb54c785",
     "title": "Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 (Vision AI Companion, Modo Futebol, Xbox Cloud Gamin",
     "description": "🔥 **Samsung Smart TV 70\" Crystal UHD 4K U8000H 2027 (Vision AI Companion, Modo Futebol, Xbox Cloud Gaming)**  A experiência do cinema na sua sala com uma tela gigante de 70 polegad...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:35:52.813127+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0d3f5e9f",
-    "title": "Celular Samsung Galaxy A37 5g 128gb 6gb Ram Camera 50mp",
-    "description": "SAI A R$1064,85 COM PLANO DE TROCA (R$400 EXTRA)  🎁 Celular Samsung Galaxy A37 5G 128GB, 6GB RAM, Câmera 50MP  🔥 POR R$ 1.464,86 no PIX 🎟️ Resgate o cupom abaixo do preço  🛒 Compre...",
-    "originalPrice": null,
-    "currentPrice": 1464.86,
-    "discountPercentage": null,
-    "couponCode": "ESTOQUE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-128gb-6gb-ram-camera-50mp/p/MLB68230300?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:35:43.701130+00:00",
     "likesCount": 1
   }
 ]
