@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a1990fde",
+    "title": "Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor",
+    "description": "🎁 Amazon Kindle 16GB (modelo mais recente), agora mais fino, mais leve e mais rápido, tela de 6\", Cor Grafite  🔥 Por: R$ 709,00 💳 ou em 10x no cartão  🛒 Compre aqui:  ⚠️ Anúncio |...",
+    "originalPrice": null,
+    "currentPrice": 709.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4SL3W21?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a1990fde.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T22:38:59.613644+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-62ed7eff",
     "title": "Kit 3 Shorts Masculino Bermuda Linho Vero Envio Imediato",
     "description": "SHORT DE FARIA LIMER  Kit 3 Shorts Masculino Bermuda Linho  De R$ 129 por R$ 56 no Pix  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-5755197830-kit-3-shorts-...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T20:56:58.106231+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a637350d",
-    "title": "Principia Kit Trio Antiacne Nc 10 Mix 01 Am 10",
-    "description": "NÃO QUERO NINGUÉM COM ACNE NO XET  Principia Kit Trio Antiacne Nc-10 + Mix-01 + Am-10  De R$ 202 por R$ 121 no Pix Use o Cupom: BELEZA20 🎟️ + Selecione Pix  Loja Oficial Principia...",
-    "originalPrice": 202.0,
-    "currentPrice": 121.0,
-    "discountPercentage": 40,
-    "couponCode": "BELEZA20",
-    "affiliateUrl": "https://www.mercadolivre.com.br/principia-kit-trio-antiacne-nc-10-mix-01-am-10/p/MLB50162966?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a637350d.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T20:56:01.716476+00:00",
     "likesCount": 1
   }
 ]
