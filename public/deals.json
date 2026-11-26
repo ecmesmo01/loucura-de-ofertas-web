@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a5b59dea",
+    "title": "Caixa de Som Soundbar 2.0 AOC ACS2410 com Subwoofer Integrado e Bluetooth/AUX/USB/FM",
+    "description": "🔊 **Caixa de Som Soundbar 2.0 AOC ACS2410 com Subwoofer Integrado e Bluetooth/AUX/USB/FM**  Dê um upgrade no som da sua TV ou PC! Essa soundbar entrega graves potentes com seu subw...",
+    "originalPrice": null,
+    "currentPrice": 301.76,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4MKWQ37?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a5b59dea.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:37:47.729964+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6e59dfd0",
     "title": "Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto",
     "description": "🔥 **Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto**  Nunca mais fique sem bateria no meio do dia! Este carregador portátil da Geonav conta com tecnologia de ca...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:13:46.572783+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8d9299fc",
-    "title": "Smartphone Samsung Galaxy S25 5G 256GB 12GB RAM Prata",
-    "description": "🔥 **Smartphone Samsung Galaxy S25 5G 256GB 12GB RAM Prata**  O lançamento que você esperava com um desconto absurdo! Potência máxima, inteligência artificial integrada, câmeras pro...",
-    "originalPrice": 4042.0,
-    "currentPrice": 2999.0,
-    "discountPercentage": 26,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DSXX6XB3?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8d9299fc.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:12:47.297735+00:00",
     "likesCount": 1
   }
 ]
