@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6e59dfd0",
+    "title": "Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto",
+    "description": "🔥 **Carregador Portátil Power Bank Geonav 10.000mAh PB10K20W1PBK Preto**  Nunca mais fique sem bateria no meio do dia! Este carregador portátil da Geonav conta com tecnologia de ca...",
+    "originalPrice": null,
+    "currentPrice": 88.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F6B226NK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6e59dfd0.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:35:47.108580+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5a767a35",
     "title": "Acer Nitro V15",
     "description": "🔥 **Notebook Gamer Acer Nitro V15 ANV15-52-57MC Intel Core i5-13420H 13ª Geração, 8GB DDR5, 512GB SSD NVMe, RTX 4050 6GB, Tela 15,6\" 165Hz**  Procurando a máquina definitiva para r...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:12:47.297735+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e0bcdb45",
-    "title": "Bundle Nintendo Switch 2 + EA Sports FC 27",
-    "description": "🔥 **Bundle Nintendo Switch 2 + EA Sports FC 27**  Procurando a melhor experiência em games? Chegou a hora de garantir o seu setup completo com um super desconto! Aproveite o preço...",
-    "originalPrice": null,
-    "currentPrice": 3719.91,
-    "discountPercentage": null,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e0bcdb45.jpg",
-    "store": "amazon",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:12:45.702603+00:00",
     "likesCount": 1
   }
 ]
