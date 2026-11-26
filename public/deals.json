@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-94331677",
+    "title": "Novo Amazon Kindle 16GB (Modelo Mais Recente - Roxo Ube)",
+    "description": "🔥 **Novo Amazon Kindle 16GB (Modelo Mais Recente - Roxo Ube)**  O leitor digital mais querido do momento está com um super preço! Agora mais fino, leve e rápido, com tela de 6\" ant...",
+    "originalPrice": null,
+    "currentPrice": 709.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4SMGD8C?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-94331677.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T11:20:46.185461+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9ae213eb",
     "title": "Kit 2 Camisetas Aramis Masculina Basic Lisa",
     "description": "🔥 **Kit 2 Camisetas Aramis Masculina Basic Lisa**  Renove seu guarda-roupa com o padrão de qualidade e sofisticação da Aramis! Peças versáteis e essenciais para o dia a dia com um...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:29:00.958005+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-744d4371",
-    "title": "Panela de Pressao Eletrica Fmaxx Chef 4 Litros 800w Prateado 60hz",
-    "description": "➡️ Panela De Pressão Elétrica Fmaxx Chef 4 Litros 800w Prateado 60hz  ✅ De R$ 309 por R$ 179,84 😱😱 🏷 Cupom: FULL2611  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/pa...",
-    "originalPrice": 309.0,
-    "currentPrice": 179.84,
-    "discountPercentage": 42,
-    "couponCode": "FULL2611",
-    "affiliateUrl": "https://www.mercadolivre.com.br/panela-de-pressao-eletrica-fmaxx-chef-4-litros-800w-prateado-60hz/p/MLB66161255?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-744d4371.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:28:59.648494+00:00",
     "likesCount": 1
   }
 ]
