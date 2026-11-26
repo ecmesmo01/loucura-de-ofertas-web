@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-063f777f",
+    "title": "Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM",
+    "description": "📱 **Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM**  Garanta o lançamento com tecnologia de ponta, tela imersiva de 6.3\" e um conjunto de câmeras profissional para fotos incrívei...",
+    "originalPrice": null,
+    "currentPrice": 3798.65,
+    "discountPercentage": null,
+    "couponCode": "SAMSUNG200",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQPFCXS?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-063f777f.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T11:16:44.178927+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c48808bd",
     "title": "Perfume Masculino Emporio Armani Stronger With You Eau de Toilette 100ml",
     "description": "🔥 **Perfume Masculino Emporio Armani Stronger With You Eau de Toilette 100ml**  Procurando aquela fragrância marcante, elegante e que deixa rastro por onde passa? O clássico da Arm...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:26:45.220534+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6b7bfdf5",
-    "title": "Frigobar Hq Bc 52 de 52 Litros Branco",
-    "description": "➡️ Frigobar Hq Bc-52 de 52 Litros Branco  ✅ R$ 510 😱😱 🏷 Cupom: MELIXF9  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/frigobar-hq-bc-52-de-52-litros-branco/p/MLB62929...",
-    "originalPrice": null,
-    "currentPrice": 510.0,
-    "discountPercentage": null,
-    "couponCode": "MELIXF9",
-    "affiliateUrl": "https://www.mercadolivre.com.br/frigobar-hq-bc-52-de-52-litros-branco/p/MLB62929682?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6b7bfdf5.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:26:43.875457+00:00",
     "likesCount": 1
   }
 ]
