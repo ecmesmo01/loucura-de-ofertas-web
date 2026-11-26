@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1aff5183",
+    "title": "Celular Samsung Galaxy A37 5g 256gb 8gb Ram Camera 50mp",
+    "description": "💛 Cupons Mercado Livre 💛 🚨 Em produtos selecionados  💸 25% OFF, Limite de R$ 500 🎟 Cupom: CUPOMNOML25  💸 25% OFF, Limite de R$ 500 🎟 Cupom: MELHORNOML25  💸 30% OFF, Limite de R$ 50...",
+    "originalPrice": 100.0,
+    "currentPrice": 99.0,
+    "discountPercentage": 1,
+    "couponCode": "CUPOMNOML25",
+    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a37-5g-256gb-8gb-ram-camera-50mp/p/MLB70099863?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=600&auto=format&fit=crop&q=80",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T00:16:12.081263+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f108a121",
     "title": "JBL Boombox 3 Caixa de Som Bluetooth à Prova D'Água Preta | Até 24h de Bateria, JBL Original Pro Sou",
     "description": "🎁 JBL Boombox 3 Caixa de Som Bluetooth à Prova D'Água Preta | Até 24h de Bateria, JBL Original Pro Sound, App JBL Portable, Conexão com 2 Dispositivos  🔥 Por: R$ 1.486,00 💳 ou em 1...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T20:28:11.403877+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8923782f",
-    "title": "Philips Walita Centrífuga Viva 500W, Preta, 220V | Garantia de 2 Anos – extrai sucos naturais de fru",
-    "description": "🎁 Philips Walita Centrífuga Viva 500W, Preta, 220V | Garantia de 2 Anos – extrai sucos naturais de frutas e legumes com praticidade (RI1836/00)  🔥 Por: R$ 340,00 💳 ou em 12x no car...",
-    "originalPrice": null,
-    "currentPrice": 340.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B01IR0GDKA?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8923782f.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T20:28:08.081893+00:00",
     "likesCount": 1
   }
 ]
