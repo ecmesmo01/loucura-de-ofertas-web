@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae8d0c5f",
+    "title": "Apple iPhone 17 de 256GB — Lavanda",
+    "description": "🎁 Apple iPhone 17 de 256GB — Lavanda  🔥 POR: R$ 4.973,00 no PIX 🎟️ Cupom: ELETROBLACK  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www...",
+    "originalPrice": null,
+    "currentPrice": 4973.0,
+    "discountPercentage": null,
+    "couponCode": "ELETROBLACK",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQWVYKZV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae8d0c5f.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T20:49:57.410695+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-34068ca1",
     "title": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED com 6 Botões Programáveis e Até 12.000 DPI - Preto",
     "description": "🎁 Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED com 6 Botões Programáveis e Até 12.000 DPI - Preto  🔥 POR: R$ 161,91 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T19:07:01.836632+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b65a20d7",
-    "title": "Kit Nuti Enrich Duo 2 L",
-    "description": "CORRE NO KIT POR MENOS DE 200 Loja Oficial Wella  Kit Wella Nuti-enrich Duo 2L  De R$ 446 por R$ 196  Cupom: PROMOAGORA 🎟️  🛒 Compre com desconto aqui: https://www.mercadolivre.com...",
-    "originalPrice": 446.0,
-    "currentPrice": 196.0,
-    "discountPercentage": 56,
-    "couponCode": "PROMOAGORA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-nuti-enrich-duo-2-l/p/MLB73536601?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b65a20d7.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T19:05:43.880625+00:00",
     "likesCount": 1
   }
 ]
