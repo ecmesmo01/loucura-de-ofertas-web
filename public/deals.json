@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3ff47f8a",
+    "title": "Smartphone Motorola Razr 60 256GB 12GB RAM Azul Marinho",
+    "description": "🔥 **Smartphone Motorola Razr 60 256GB 12GB RAM Azul Marinho**  O foldable que une tecnologia de ponta e design sofisticado com um preço imperdível! Conta com tela dobrável incrível...",
+    "originalPrice": null,
+    "currentPrice": 2899.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F8LJSC9B?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3ff47f8a.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:01:46.425829+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-58af625a",
     "title": "Apple iPhone 18 Pro 256GB Bordô (Distribuidor Autorizado)",
     "description": "🔥 **Apple iPhone 18 Pro 256GB Bordô (Distribuidor Autorizado)**  O topo de linha que você esperava acabou de entrar em oferta imperdível! Garanta o seu novo smartphone com um super...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:44:44.824801+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3f84b33f",
-    "title": "Placa Mae Asus B760m Ayw Wifi D4 Ii Lga1700 Matx Ddr4",
-    "description": "➡️ Placa-mãe Asus B760m-ayw Wifi D4 Ii Lga 1700 Matx Ddr4 Preto  ✅ R$ 739 😱😱 🏷 Cupom: MELIXF9  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/placa-mae-asus-b760m-ayw-...",
-    "originalPrice": null,
-    "currentPrice": 739.0,
-    "discountPercentage": null,
-    "couponCode": "MELIXF9",
-    "affiliateUrl": "https://www.mercadolivre.com.br/placa-mae-asus-b760m-ayw-wifi-d4-ii-lga1700-matx-ddr4/p/MLB70316596?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3f84b33f.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:43:45.620124+00:00",
     "likesCount": 1
   }
 ]
