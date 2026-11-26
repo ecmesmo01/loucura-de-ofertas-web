@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e2464001",
+    "title": "Apple iPhone 17 256GB — Sálvia",
+    "description": "🔥 **Apple iPhone 17 256GB — Sálvia**  Garanta o seu novo iPhone com um super desconto! Desempenho impecável, câmeras de alta definição e o design sofisticado da Apple que você já c...",
+    "originalPrice": null,
+    "currentPrice": 5123.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK150",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GQWP9K1G?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e2464001.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:08:49.819498+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c0dc2d03",
     "title": "Placa Mãe MSI PRO B840M-B, DDR5, Socket AMD AM5, M-ATX",
     "description": "🔥 **Placa Mãe MSI PRO B840M-B, DDR5, Socket AMD AM5, M-ATX**  Procurando a base perfeita para o seu novo setup de alta performance? A placa-mãe MSI PRO B840M-B chegou com tecnologi...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T10:09:27.804863+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f04015b1",
-    "title": "Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida",
-    "description": "🔥 **Short Masculino Bermuda Praia 2 Bolsos Zíper Secagem Rápida**  Procurando o melhor custo-benefício para curtir a praia, a piscina ou o dia a dia com total conforto? Essa bermud...",
-    "originalPrice": 79.0,
-    "currentPrice": 23.0,
-    "discountPercentage": 71,
-    "couponCode": "GANHEDESCONTO",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4096917772-short-masculino-bermuda-praia-2-bolsos-ziper-secagem-rapida-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f04015b1.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T10:07:47.473268+00:00",
     "likesCount": 1
   }
 ]
