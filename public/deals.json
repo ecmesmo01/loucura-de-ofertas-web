@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-abf41d73",
+    "title": "Tênis Lacoste Masculino Backcourt",
+    "description": "🔥 **Tênis Lacoste Masculino Backcourt**  Garanta toda a elegância e sofisticação da marca com mais de 55% de desconto! Esse modelo entrega um design clássico, conforto impecável e...",
+    "originalPrice": 399.0,
+    "currentPrice": 179.0,
+    "discountPercentage": 55,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4286618047-tnis-lacoste-masculino-backcourt-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-abf41d73.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:43:44.909380+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4abd96e4",
     "title": "12x sem juros",
     "description": "🔥 **Notebook Dell Inspiron 15 DC15-I51334U-M50 Intel Core i5-1334U 8GB 512GB SSD 15.6\" WVA 120Hz Windows 11**  Procurando potência, velocidade e uma tela de alta fluidez para o seu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:18:50.542425+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-423272ed",
-    "title": "Lavadora de Alta Pressão Kärcher Compacta 1.500 Psi 1400W 300L/h (110V)",
-    "description": "🔥 **Lavadora de Alta Pressão Kärcher Compacta 1.500 Psi 1400W 300L/h (110V)**  Deixe a limpeza da sua casa, quintal e carro muito mais rápida e eficiente! Com 1400W de potência, ap...",
-    "originalPrice": null,
-    "currentPrice": 199.0,
-    "discountPercentage": null,
-    "couponCode": "PROJETOGRANDE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-krcher-compacta-1500-psi-1400w-300lh-com-aplicador-de-detergente-e-lanca-regulavel/p/MLB40583845?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-423272ed.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:17:52.576812+00:00",
     "likesCount": 1
   }
 ]
