@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4568c153",
+    "title": "Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande",
+    "description": "🎁 Celular Samsung Galaxy S25 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla de 200+50+10+50, Tela Grande de 6.9\", Titânio Preto  🔥 POR: R$ 4.498,00 🎟️ Cupom: SAMSUNG300  🛒 Compre aqui...",
+    "originalPrice": null,
+    "currentPrice": 4498.0,
+    "discountPercentage": null,
+    "couponCode": "SAMSUNG300",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DSYJCY45?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4568c153.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T21:29:59.112549+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c1d13467",
     "title": "Notebook Asus Tuf Gamer A16 Fa607nuq Nvidia Rtx 4050 Amd Ryzen 7 16gb Ram 512gb Ssd Windows 11 Home",
     "description": "🎁 Notebook ASUS TUF Gamer A16 FA607NUQ NVIDIA RTX 4050 AMD Ryzen 7 16GB RAM 512GB SSD Windows 11 Home 16\" LCD LED 144Hz IPS RL019W  🔥 POR: R$ 6.531,08 no Pix 🎟️ Cupom: Aplicar R$20...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T20:02:03.253953+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e7915199",
-    "title": "Shampoo Antiqueda Aq 01 250ml Principia",
-    "description": "PRECINHO NESSE KIT ANTIQUEDA  Kit Principia Shampoo E Condicionador Antiqueda Aq-01 250ml  De R$ 103 por R$ 68 Use o Cupom: BELEZA20 🎟️  Loja Oficial Principia no ML  🛒 Compre com...",
-    "originalPrice": 103.0,
-    "currentPrice": 68.0,
-    "discountPercentage": 34,
-    "couponCode": "BELEZA20",
-    "affiliateUrl": "https://www.mercadolivre.com.br/shampoo-antiqueda-aq-01-250ml-principia/p/MLB53840949?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e7915199.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T20:02:01.796379+00:00",
     "likesCount": 1
   }
 ]
