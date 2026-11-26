@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-dc209dd3",
+    "title": "Whey Protein Concentrado 900g Pote Dux Nutrition Lab - Sabor Churros",
+    "description": "🔥 **Whey Protein Concentrado 900g Pote Dux Nutrition Lab - Sabor Churros**  O queridinho dos atletas com aquele preço que a gente ama para garantir os resultados nos treinos! Quali...",
+    "originalPrice": 223.0,
+    "currentPrice": 163.0,
+    "discountPercentage": 27,
+    "couponCode": "ENERGIAMELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/whey-protein-concentrado-900g-pote-dux-nutrition-lab-sabor-churros/p/MLB69846008?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dc209dd3.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:46:54.581529+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-19b58eb1",
     "title": "Smart TV Philco Roku TV HD Dolby Audio 24” PTV24G5YR2CP",
     "description": "📺 **Smart TV Philco Roku TV HD Dolby Audio 24” PTV24G5YR2CP**  Procurando uma TV compacta, inteligente e com excelente qualidade de som e imagem para o seu quarto, cozinha ou escri...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:26:30.414655+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-edfcab5b",
-    "title": "Creatina Monohidratada Hardcore Integralmédica 300g",
-    "description": "💪 **Creatina Monohidratada Hardcore Integralmédica 300g**  Garante mais força, explosão e desempenho máximo nos seus treinos diários!   📈 De R$ 79,00 💥 **Por apenas: R$ 35,00** no...",
-    "originalPrice": 79.0,
-    "currentPrice": 35.0,
-    "discountPercentage": 56,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/creatina-monohidratada-hardcore-integralmedica-300g/p/MLB6204289?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-edfcab5b.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:25:50.047455+00:00",
     "likesCount": 1
   }
 ]
