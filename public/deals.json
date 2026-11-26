@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3d14fad5",
+    "title": "Perfume Natura Homem Evolut.io 100 ml",
+    "description": "🔥 **Perfume Natura Homem Evolut.io 100 ml**  A escolha perfeita para quem busca versatilidade e sofisticação no dia a dia. Uma fragrância marcante que acompanha você em todas as oc...",
+    "originalPrice": 299.0,
+    "currentPrice": 140.0,
+    "discountPercentage": 53,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/natura-homem-evolutio-100-ml/p/MLB50275420?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3d14fad5.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T14:41:57.441029+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-da2fa50a",
     "title": "Kit 9 Pares Meias Puma Algodão Sapatilha Invisível Original",
     "description": "🔥 **Kit 9 Pares Meias Puma Algodão Sapatilha Invisível Original**  Renove suas gavetas com conforto e qualidade de marca oficial! Perfeitas para o dia a dia, essas meias invisíveis...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:31:53.390126+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a49c96bc",
-    "title": "Sony PlayStation Store Gift Card (R$ 300 e R$ 550)",
-    "description": "🎮 **Sony PlayStation Store Gift Card (R$ 300 e R$ 550)**  Garante saldo na sua carteira da PSN direto pela Loja Oficial da PlayStation com desconto exclusivo para turbinar seus jog...",
-    "originalPrice": 550.0,
-    "currentPrice": 300.0,
-    "discountPercentage": 45,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/sony-playstation-store-gift-card-r-300-digital/p/MLB50196683?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a49c96bc.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:31:52.238256+00:00",
     "likesCount": 1
   }
 ]
