@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-718e7626",
+    "title": "Conforto e elegância em um só calçado!",
+    "description": "✨ **Conforto e elegância em um só calçado!**  👠 **Chinelo Havaianas Slim Square Feminino Bico Quadrado**  Moderno, sofisticado e perfeito para acompanhar você em qualquer ocasião d...",
+    "originalPrice": 54.99,
+    "currentPrice": 32.99,
+    "discountPercentage": 40,
+    "couponCode": "MERCADOLIVRE",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5416027104-chinelo-havaianas-slim-square-feminino-bico-quadrado-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-718e7626.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T10:49:53.628164+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-1d19b94c",
     "title": "Honeywhale M2 Pro Patinete Eletrico Adulto 500w Scooter Eletrica Velocidade Maxima de 32 Kmh 22 Km d",
     "description": "HONEYWHALE M2 Pro Patinete Eletrico Adulto, 500W 32 KM/H - R$1613 No PIX! #anúncio Cupom: FULL2611  COMPARTILHE O GRUPO> santostecpromo.com.br  🛒 Compre com desconto aqui: https://...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:12:33.235494+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8a8f1866",
-    "title": "Camera de Seguranca Wi Fi A28b 4k Dupla Lente Visao Noturna Colorida Full Hd Externa Prova Dagua Ip6",
-    "description": "➡️ Câmera de Segurança Wi-Fi A28B 4K Dupla Lente Visão Noturna Colorida Full Hd Externa Prova D'água Ip66 Sensor Movimento iCSee DUOSEG  ✅ R$ 85,15 😱😱 🏷 Cupom: FULL2611 (Comprando...",
-    "originalPrice": null,
-    "currentPrice": 85.15,
-    "discountPercentage": null,
-    "couponCode": "FULL2611",
-    "affiliateUrl": "https://www.mercadolivre.com.br/camera-de-seguranca-wi-fi-a28b-4k-dupla-lente-visao-noturna-colorida-full-hd-externa-prova-dagua-ip66-sensor-movimento-icsee-duoseg/p/MLB46329411?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8a8f1866.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:12:31.769918+00:00",
     "likesCount": 1
   }
 ]
