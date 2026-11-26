@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0b2b1e66",
+    "title": "Ração Úmida Whiskas Sachê Carne ao Molho para Gatos Adultos - Pack com 20 Unidades (Leve 20 Pague 16",
+    "description": "🔥 **Ração Úmida Whiskas Sachê Carne ao Molho para Gatos Adultos - Pack com 20 Unidades (Leve 20 Pague 16)**  Alimente seu gatinho com muito sabor e economia! Aproveite essa super o...",
+    "originalPrice": 71.0,
+    "currentPrice": 35.0,
+    "discountPercentage": 51,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DPXVL7LK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0b2b1e66.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:43:57.635694+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b5ee58dd",
     "title": "Calça Masculina Social Bolso Faca Embutido Lycra Sarja Slim",
     "description": "🔥 **Calça Masculina Social Bolso Faca Embutido Lycra Sarja Slim**  Eleve seu estilo com uma peça versátil, elegante e extremamente confortável para o dia a dia ou ocasiões especiai...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:33:52.977935+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c417c4a4",
-    "title": "Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F",
-    "description": "🔥 **Monitor Gamer AOC AGON G50 24\" 144Hz 0,5ms IPS HDR10 G-SYNC 24G50F**  Quer levar suas jogadas para o próximo nível? Com taxa de atualização de 144Hz e tempo de resposta ultrarr...",
-    "originalPrice": null,
-    "currentPrice": 419.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FLKGNYJ8?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c417c4a4.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:33:51.659419+00:00",
     "likesCount": 1
   }
 ]
