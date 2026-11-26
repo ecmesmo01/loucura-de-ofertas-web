@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-14ced681",
+    "title": "Fone de Ouvido Bluetooth Over-Ear JBL Tune 530BT Branco",
+    "description": "🎧 **Fone de Ouvido Bluetooth Over-Ear JBL Tune 530BT Branco**  Procurando a trilha sonora perfeita para o seu dia com total liberdade e conforto? Esse modelo entrega uma autonomia...",
+    "originalPrice": null,
+    "currentPrice": 160.55,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GM1GYWR1?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-14ced681.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T11:18:46.899499+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-762cd1b1",
     "title": "Geladeira Consul Frost Free Duplex 333 Litros Branca CRM40MB (220V)",
     "description": "🔥 **Geladeira Consul Frost Free Duplex 333 Litros Branca CRM40MB (220V)**  Chegou a hora de dar um upgrade na sua cozinha com muito espaço, tecnologia e sem precisar se preocupar c...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:28:11.470769+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-cb658fe9",
-    "title": "Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\" - Br",
-    "description": "🎁 Celular Samsung Galaxy S26+ 5G, 256GB, 12GB RAM, Câmera Tripla de 50+12+10, Tela Grande de 6.7\" - Branco  🔥 POR: R$ 4.026,00 no PIX 🎟️ Cupom: BLACK100OFF  🛒 Compre aqui:  ⚠️ Anún...",
-    "originalPrice": null,
-    "currentPrice": 4026.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK100OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQGVXDJ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-cb658fe9.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:28:10.092408+00:00",
     "likesCount": 1
   }
 ]
