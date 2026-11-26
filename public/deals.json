@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3d4a6c7e",
+    "title": "Tablet Samsung Galaxy Tab S10 Lite 128GB Tela 10.9\" Wi-Fi Vermelho",
+    "description": "🔥 **Tablet Samsung Galaxy Tab S10 Lite 128GB Tela 10.9\" Wi-Fi Vermelho**  Procurando o equilíbrio perfeito entre entretenimento, estudos e produtividade? Esse tablet entrega um des...",
+    "originalPrice": null,
+    "currentPrice": 1485.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FMFTWHJJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3d4a6c7e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:45:27.956987+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3b047907",
     "title": "Kit Camiseta Light Insider + Par de Meia Spectrum",
     "description": "🔥 **Kit Camiseta Light Insider + Par de Meia Spectrum**  Renove seu guarda-roupa com tecnologia e conforto extremos! Aproveite essa super promoção da Loja Oficial Insider no Mercad...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:23:46.156711+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-897a31ce",
-    "title": "Geladeira Refrigerador HQ Defrost 290 Litros Branco HQ",
-    "description": "🔥 **Geladeira Refrigerador HQ Defrost 290 Litros Branco HQ-290RDF 127V**  Procurando o melhor custo-benefício para a sua cozinha? Essa é a oportunidade perfeita para garantir sua g...",
-    "originalPrice": 1819.0,
-    "currentPrice": 1286.0,
-    "discountPercentage": 29,
-    "couponCode": "MODOCASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-refrigerador-hq-defrost-290-litros-br-hq-290rdf-branco/p/MLB69243842?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-897a31ce.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:22:48.708052+00:00",
     "likesCount": 1
   }
 ]
