@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9aafa0f6",
+    "title": "Notebook Samsung Galaxy Book4 (Intel Core i5 1335U, 16GB RAM, 512GB SSD, Tela IPS, Windows 11)",
+    "description": "🔥 **Notebook Samsung Galaxy Book4 (Intel Core i5 1335U, 16GB RAM, 512GB SSD, Tela IPS, Windows 11)**  Procurando a máquina perfeita para trabalhar, estudar ou rodar seus programas...",
+    "originalPrice": 4148.0,
+    "currentPrice": 3699.0,
+    "discountPercentage": 11,
+    "couponCode": "ELETRONAAMZ",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0D4SW3MH6?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9aafa0f6.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": true,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T13:04:58.893807+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c974eda4",
     "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP",
     "description": "❄️ **Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V**  Procurando praticidade e um ambiente sempre fresco sem quebra-quebra...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T11:42:47.977170+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0398ae8a",
-    "title": "WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, Sistema de Autolimpeza, 1",
-    "description": "🔥 **WAP Extratora Portátil Spot Cleaner W3, 3 em 1, Borrifa, Esfrega e Extrai, Sistema de Autolimpeza, 1450W 127V**  Quer manter sofás, tapetes e estofados sempre com aspecto de no...",
-    "originalPrice": null,
-    "currentPrice": 409.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CH3WBKN6?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0398ae8a.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:42:45.911879+00:00",
     "likesCount": 1
   }
 ]
