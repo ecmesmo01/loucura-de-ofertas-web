@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a48f558c",
+    "title": "Smartphone Motorola Edge 70 Fusion 5G",
+    "description": "🎁 Smartphone Motorola Edge 70 Fusion 5G - 256GB 8GB RAM + 16GB RAM Boost, camera 50MP Sony Lytia 710, Tela 1.5K extreme Amoled 144hz - Verde  🔥 POR: R$ 1.665,00 🎟️ Cupom: 15IMPERDI...",
+    "originalPrice": null,
+    "currentPrice": 1665.0,
+    "discountPercentage": null,
+    "couponCode": "15IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GMKV5S6B?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a48f558c.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:13:41.779164+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9fd5f728",
     "title": "Smartphone Motorola Moto G67 5G",
     "description": "🎁 Smartphone Motorola Moto G67 5G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Claro  🔥 POR: R$ 829,09 🎟️ Cu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T22:57:10.185654+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-10b3ec11",
-    "title": "Principia Kit Creme Hidratante Ch 01 Agua Micelar Am 01 Todo Tipo de Pele Dianoite",
-    "description": "PELE LIMPA E HIDRATADA Loja Oficial Principia  Principia Kit Creme Hidratante Ch-01 + Água Micelar Am-01 Todo Tipo De Pele Dia/noite  De R$ 83 por R$ 57 no Pix  Cupom: BELEZABLACK...",
-    "originalPrice": 83.0,
-    "currentPrice": 57.0,
-    "discountPercentage": 31,
-    "couponCode": "BELEZABLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/principia-kit-creme-hidratante-ch-01-agua-micelar-am-01-todo-tipo-de-pele-dianoite/p/MLB60020191?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-10b3ec11.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T22:55:13.022881+00:00",
     "likesCount": 1
   }
 ]
