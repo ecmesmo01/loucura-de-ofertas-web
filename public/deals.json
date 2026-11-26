@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a6bf53c0",
+    "title": "Teclado Mecânico Gamer Husky Anchorage RGB Gateron EF Brown",
+    "description": "🔥 **Teclado Mecânico Gamer Husky Anchorage RGB Gateron EF Brown**  Upgrade seu setup com um teclado mecânico de altíssimo desempenho! Digitação precisa, resposta rápida, iluminação...",
+    "originalPrice": null,
+    "currentPrice": 124.0,
+    "discountPercentage": null,
+    "couponCode": "SUPEROFERTA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/teclado-mecanico-gamer-husky-anchorage-rgb-gateron-ef-red/p/MLB79059906?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a6bf53c0.jpg",
+    "store": "mercadolivre",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:04:57.967863+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9dd948fb",
     "title": "Water Cooler Redragon Gamerstorm Le360 Rd Argb Preto de 360mm",
     "description": "🔥 **Water Cooler Redragon Gamerstorm Le360 Rd Argb Preto de 360mm**  Mantenha a temperatura do seu setup sob controle com máximo desempenho e estilo! Esse water cooler de 360mm ent...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T12:39:51.164793+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-670bb642",
-    "title": "Micro-ondas Panasonic NN-ST66NBRU Black Glass 34L Dupla Refeição",
-    "description": "🔥 **Micro-ondas Panasonic NN-ST66NBRU Black Glass 34L Dupla Refeição**  Procurando sofisticação e alta performance para a sua cozinha? O queridinho Black Glass da Panasonic está co...",
-    "originalPrice": 949.0,
-    "currentPrice": 574.0,
-    "discountPercentage": 40,
-    "couponCode": "VIPTECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/microondas-panasonic-nn-st66nbru-black-glass-34l-dupla-refeicao/p/MLB22491295?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-670bb642.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:39:01.657989+00:00",
     "likesCount": 1
   }
 ]
