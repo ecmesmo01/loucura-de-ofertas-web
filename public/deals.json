@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-84d83644",
+    "title": "Deo Parfum Essencial Exclusivo Floral Feminino 100ml Natura",
+    "description": "✨ **Deo Parfum Essencial Exclusivo Floral Feminino 100ml Natura**  Aquele toque de sofisticação e marcância que não pode faltar no seu dia a dia. Aproveite o super desconto da loja...",
+    "originalPrice": 279.9,
+    "currentPrice": 106.36,
+    "discountPercentage": 62,
+    "couponCode": "DISPON",
+    "affiliateUrl": "https://www.mercadolivre.com.br/deo-parfum-essencial-exclusivo-floral-feminino-100ml-natura/p/MLB66306996?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-84d83644.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:20:02.925533+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-138211e9",
     "title": "Vitamina B12 Metilcobalamina 60 Cápsulas Nutrify",
     "description": "🔥 **Vitamina B12 Metilcobalamina 60 Cápsulas Nutrify**  Garanta mais energia, foco e disposição para o seu dia a dia com a vitamina B12 da Nutrify em cápsulas. Um suplemento de alt...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:01:46.425829+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-58af625a",
-    "title": "Apple iPhone 18 Pro 256GB Bordô (Distribuidor Autorizado)",
-    "description": "🔥 **Apple iPhone 18 Pro 256GB Bordô (Distribuidor Autorizado)**  O topo de linha que você esperava acabou de entrar em oferta imperdível! Garanta o seu novo smartphone com um super...",
-    "originalPrice": 11999.0,
-    "currentPrice": 9399.0,
-    "discountPercentage": 22,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/iphone-18-pro-de-256-gb-bordo-distribuidor-autorizado/p/MLB1077855486?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-58af625a.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:59:58.101092+00:00",
     "likesCount": 1
   }
 ]
