@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6826c50c",
+    "title": "Notebook Lenovo IdeaPad Slim 3 RYZEN 7",
+    "description": "🔥 Notebook Lenovo IdeaPad Slim 3 RYZEN 7  - Ryzen 7 7735HS (8 núcleos e 16 threads) - Painel IPS - 8GB RAM (expansível) - 256GB SSD (Expansível) - PLACA DE VÍDEO Radeon™ 680M (inte...",
+    "originalPrice": null,
+    "currentPrice": 3137.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK300",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G22R3QLT?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6826c50c.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T20:03:58.433786+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-fb81afc0",
     "title": "Kit de Internet via Satélite Starlink Mini, Branco | Dual Band 3 x 3 Mu-MIMO, Wi-Fi 5, WPA2, Etherne",
     "description": "🎁 Kit de Internet via Satélite Starlink Mini, Branco | Dual Band 3 x 3 Mu-MIMO, Wi-Fi 5, WPA2, Ethernet LAN, Plugue Starlink  🔥 POR: R$ 397,12 à vista  🛒 Compre aqui:  ⚠️ Anúncio |...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T18:34:57.306203+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5dacb423",
-    "title": "soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes,",
-    "description": "🎁 soundcore P20i da Anker, Fone de Ouvido Bluetooth 5.3 Sem Fio, 2 Mics IA | Bass UP, Graves Potentes, Drivers de 10mm, 30H, Resistência à Água TWS, Personalização de Som via App p...",
-    "originalPrice": null,
-    "currentPrice": 84.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK25OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0BTYCRJSS?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5dacb423.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T18:34:56.029806+00:00",
     "likesCount": 1
   }
 ]
