@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-dfb5a429",
+    "title": "Monitor BenQ PD2705Q QHD 27\" IPS com Thunderbolt 3",
+    "description": "🔥 **Monitor BenQ PD2705Q QHD 27\" IPS com Thunderbolt 3**  Procurando a precisão de cores definitiva para o seu fluxo de trabalho? Este monitor profissional da BenQ entrega imagens...",
+    "originalPrice": null,
+    "currentPrice": 2948.98,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B088HSJP47?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dfb5a429.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T15:34:54.337581+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-4d11938b",
     "title": "Smartphone Motorola Moto G17 4G 256GB 4GB RAM Rosa",
     "description": "📱 **Smartphone Motorola Moto G17 4G 256GB 4GB RAM Rosa**  Procurando um celular completo, com muito espaço e bateria de sobra? O Moto G17 é a escolha perfeita para o seu dia a dia!...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T14:05:34.835829+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a6bf53c0",
-    "title": "Teclado Mecânico Gamer Husky Anchorage RGB Gateron EF Brown",
-    "description": "🔥 **Teclado Mecânico Gamer Husky Anchorage RGB Gateron EF Brown**  Upgrade seu setup com um teclado mecânico de altíssimo desempenho! Digitação precisa, resposta rápida, iluminação...",
-    "originalPrice": null,
-    "currentPrice": 124.0,
-    "discountPercentage": null,
-    "couponCode": "SUPEROFERTA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/teclado-mecanico-gamer-husky-anchorage-rgb-gateron-ef-red/p/MLB79059906?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a6bf53c0.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T14:04:57.967863+00:00",
     "likesCount": 1
   }
 ]
