@@ -44,5 +44,5 @@
       "destination": "/index.html"
     }
   ],
-  "ignoreCommand": "git log -1 --pretty=%B | grep -qE 'chore\\(sync\\)|feat\\(deal-img\\)' && exit 0 || exit 1"
+  "ignoreCommand": "git log -1 --pretty=%B | grep -qE 'chore\\(sync\\)|feat\\(deal-img\\)|\\[skip ci\\]|\\[skip vercel\\]' && exit 0 || exit 1"
 }
