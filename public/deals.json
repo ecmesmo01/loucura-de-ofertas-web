@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-430a5bb8",
+    "title": "Kit Cetaphil Hidratante (2 Unidades)",
+    "description": "🔥 **Kit Cetaphil Hidratante (2 Unidades)**  Se a sua pele anda precisando de um cuidado intensivo, essa é a hora certa de garantir o seu! O queridinho dos dermatologistas para uma...",
+    "originalPrice": null,
+    "currentPrice": 119.75,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FHBNQQFV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-430a5bb8.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:07:52.774413+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2bab3363",
     "title": "Tênis Adidas Ultimashow 2.0",
     "description": "🔥 **Tênis Adidas Ultimashow 2.0**  Estilo, conforto e versatilidade para o seu dia a dia com um super desconto que você não pode perder!   📉 De R$ 339,00 💥 **Por apenas: R$ 134,00*...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:45:48.690612+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6c2b7307",
-    "title": "Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V",
-    "description": "🔥 **Lavadora de Alta Pressão Compacta WAP WL 1800 1400W 1500PSI 360L/h 220V**  Procurando potência e economia na hora da limpeza? Essa é a sua chance de garantir uma das melhores l...",
-    "originalPrice": 575.0,
-    "currentPrice": 231.0,
-    "discountPercentage": 60,
-    "couponCode": "PROJETOGRANDE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-compacta-wap-wl-1800-1400w-1500psi-360lh-220v/p/MLB53860589?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6c2b7307.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:44:48.455726+00:00",
     "likesCount": 1
   }
 ]
