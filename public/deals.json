@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f0e185e5",
+    "title": "Uber Gift Card R$250 (Digital)",
+    "description": "🔥 **Uber Gift Card R$250 (Digital)**  Economia garantida para suas próximas viagens ou pedidos de delivery! Aproveite esse desconto exclusivo para garantir o seu crédito na Uber co...",
+    "originalPrice": null,
+    "currentPrice": 250.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/uber-gift-card-r250-digital/p/MLB72638649?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f0e185e5.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:38:48.079756+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3f15f1a2",
     "title": "Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A",
     "description": "🔥 **Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A**  Procurando uma qualidade de imagem absurda para o seu setup? Esse monitor da AOC entrega resolução 4K cristalina,...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:14:29.517686+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ac8c11ff",
-    "title": "Monitor Gamer Dell Alienware 25\" IPS 320Hz Full HD G-Sync Pivot AW2525HM",
-    "description": "🔥 **Monitor Gamer Dell Alienware 25\" IPS 320Hz Full HD G-Sync Pivot AW2525HM**  Eleve sua experiência nos games com uma fluidez impressionante de 320Hz e tempo de resposta ultrarrá...",
-    "originalPrice": null,
-    "currentPrice": 1224.0,
-    "discountPercentage": null,
-    "couponCode": "ZHSMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/monitor-gamer-dell-alienware-25-ips-320hz-full-hd-g-sync-pivot/p/MLB59111393?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ac8c11ff.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:12:48.593209+00:00",
     "likesCount": 1
   }
 ]
