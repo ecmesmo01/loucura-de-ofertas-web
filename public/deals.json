@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-df16b819",
+    "title": "Controle sem fio PlayStation Dualshock 4™ - Preto",
+    "description": "🎮 **Controle sem fio PlayStation Dualshock 4™ - Preto**  O clássico que faltava para melhorar suas jogadas chegou com um preço imperdível! Garanta mais precisão, conforto e ergonom...",
+    "originalPrice": 349.9,
+    "currentPrice": 199.0,
+    "discountPercentage": 43,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07FN1MZBH?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-df16b819.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:40:48.204717+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-07edf3a1",
     "title": "Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 7 Peças Allegra",
     "description": "🍳 **Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 7 Peças Allegra**  Procurando durabilidade e sofisticação para a sua cozinha? Este conjunto da Tramontina é o queridinho...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:17:33.010025+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-af711d1b",
-    "title": "Smart TV DLED 43\" Full HD Multi Roku TV 3 HDMI 2 USB Wi-Fi TL082E",
-    "description": "🔥 **Smart TV DLED 43\" Full HD Multi Roku TV 3 HDMI 2 USB Wi-Fi TL082E**  Quer dar um upgrade na sua sala com uma TV completa, imagem nítida e sistema super fluido? Essa é a oportun...",
-    "originalPrice": null,
-    "currentPrice": 1112.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://shopee.com.br/opaanlp/389315825/23897693321?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAxb0-Kyu_uOnb0VuFyHP60e3ftcOJM0FCTNe3uBzbPJRnyoffkvuHeChkpS2wHQfZw3-1VDKQDxq-GxcYhvBCnwv_SzNt-4fUHVNsrPCCRbVpoVL9yYjtUn4vUEr8x0QwNYvlkiZiU8pbiQ3zSfufWa0Yp4a2h1VZyYyiDofeE1O7iwdgIaPmwyqjpsJt3MSWjPfz0&mmp_pid=an_18386310690&uls_trackid=577igfae00k8&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-af711d1b.jpg",
-    "store": "shopee",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:16:49.794163+00:00",
     "likesCount": 1
   }
 ]
