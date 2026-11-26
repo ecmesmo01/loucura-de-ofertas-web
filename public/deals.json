@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c974eda4",
+    "title": "Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP",
+    "description": "❄️ **Ar Condicionado Portátil Hisense com Wi-Fi 12.000 BTUs Frio Evaporação Automática AP-12CWBRNPS01 – 127V**  Procurando praticidade e um ambiente sempre fresco sem quebra-quebra...",
+    "originalPrice": null,
+    "currentPrice": 1887.07,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CRSZRJ9B?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c974eda4.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:02:05.026912+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b7c1582a",
     "title": "Smart TV Philips 50\" 4K 50PUG7300 Comando de Voz Bluetooth",
     "description": "🔥 **Smart TV Philips 50\" 4K 50PUG7300 Comando de Voz Bluetooth**  Quer dar aquele upgrade na sua sala com uma imagem de cinema? Esta é a oportunidade perfeita para garantir uma Sma...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:42:45.911879+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0b88f944",
-    "title": "Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104 MB Cache/ Radeon Graphics /",
-    "description": "🔥 **Processador AMD Ryzen 7 9800X3D (AM5/ 8 Cores/ 16 Threads/ 5.2 GHz/ 104 MB Cache/ Radeon Graphics / Sem Cooler)**  O queridinho dos gamers está com um preço simplesmente espeta...",
-    "originalPrice": null,
-    "currentPrice": 1952.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DKFMSMYK?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0b88f944.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:39:45.490555+00:00",
     "likesCount": 1
   }
 ]
