@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5c009c63",
+    "title": "Amaciante de Roupa e Tecidos Aconchego Ultra Galão 7L Ypê",
+    "description": "🧺 **Amaciante de Roupa e Tecidos Aconchego Ultra Galão 7L Ypê**  Deixe suas roupas incrivelmente macias e com um perfume duradouro que abraça a família inteira! O queridinho da lav...",
+    "originalPrice": null,
+    "currentPrice": 23.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B07THLZGPF?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5c009c63.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:11:48.116032+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9ad68b0d",
     "title": "Power Bank 20000mAh Carregador Portátil Turbo Rápido 22.5W Display Digital Preto",
     "description": "🔥 **Power Bank 20000mAh Carregador Portátil Turbo Rápido 22.5W Display Digital Preto**  Nunca mais fique sem bateria no meio do dia! Esse modelo conta com alta capacidade de 20.000...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:47:50.045868+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5bf389c1",
-    "title": "Kit Sensor Temperatura e Degelo CDI 10K para Metalfrio VN4350",
-    "description": "🔥 **Kit Sensor Temperatura e Degelo CDI 10K para Metalfrio VN4350**  Precisa fazer a manutenção ou reposição de peças no seu equipamento? Aproveite esse cupom exclusivo no Mercado...",
-    "originalPrice": null,
-    "currentPrice": 250.0,
-    "discountPercentage": null,
-    "couponCode": "VIPTECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-sensor-temperatura-e-degelo-cdi-10k-para-metalfrio-vn-4350/p/MLB45186592?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:46:31.205027+00:00",
     "likesCount": 1
   }
 ]
