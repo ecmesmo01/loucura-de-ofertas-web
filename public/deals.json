@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c5fe1015",
+    "title": "Shampoo Invigo Nutri Enrich Wella Professionals 1000 ml",
+    "description": "🎁 Shampoo Invigo Nutri Enrich Wella Professionals 1000 ml  🔥 Por: R$ 117,00 💳 ou em 3x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui:...",
+    "originalPrice": null,
+    "currentPrice": 117.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0BG312BMR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c5fe1015.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T17:15:55.837042+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-95f3bbb6",
     "title": "Apple iPhone 17e de 256GB — Preto",
     "description": "🎁 Apple iPhone 17e de 256GB — Preto  🔥 POR: R$ 4.098,60 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B0GT...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T15:23:01.041691+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-fd7198eb",
-    "title": "iPhone Air 256GB Dourado-claro Somente eSIM (Distribuidor Autorizado)",
-    "description": "🔥 **iPhone Air 256GB Dourado-claro Somente eSIM (Distribuidor Autorizado)**  Procurando o setup perfeito? O novo iPhone Air chegou com visual deslumbrante em dourado-claro, design...",
-    "originalPrice": null,
-    "currentPrice": 5399.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/iphone-air-256gb-dourado-claro-somente-esim-distribuidor-autorizado/p/MLB1054107096?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-fd7198eb.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T15:21:56.701293+00:00",
     "likesCount": 1
   }
 ]
