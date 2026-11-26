@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9bf5247c",
+    "title": "Krups Heineken Chopeira de Cerveja Preto de com 5l",
+    "description": "NÃO POSSO TER UMA DESSA EM CASA  Chopeira de Cerveja Krups Heineken 5L 127Vv  De R$ 1.899 por R$ 751 no Pix  Loja Oficial Arno no ML  🛒 Compre com desconto aqui: https://www.mercad...",
+    "originalPrice": 1899.0,
+    "currentPrice": 751.0,
+    "discountPercentage": 60,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/krups-heineken-chopeira-de-cerveja-preto-de-com-5l/p/MLB43207749?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9bf5247c.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T21:56:01.913192+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-9c1617ab",
     "title": "Jogo Panelas Ceramico Haushop 10 Pecas Antiaderente Creme",
     "description": "KITZÃO DE PANELA BRABO  Jogo De Panelas 10 Peças Cerâmico Marmorizado Haushop  De R$ 499 por R$ 236 no Pix  Cupom: PROMOAGORA 🎟️  🛒 Compre com desconto aqui: https://www.mercadoliv...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T20:28:59.688536+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-80292e47",
-    "title": "Teclado sem fio Logitech Pebble Keys 2 K380s com Conexão Bluetooth Easy-Switch e Pilha Inclusa - Com",
-    "description": "🎁 Teclado sem fio Logitech Pebble Keys 2 K380s com Conexão Bluetooth Easy-Switch e Pilha Inclusa - Compatível com PC, Mac, Chrome OS, Android, iOS e Apple TV, Layout US - Grafite...",
-    "originalPrice": null,
-    "currentPrice": 149.9,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CJ3WFW9H?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-80292e47.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T20:27:57.994094+00:00",
     "likesCount": 1
   }
 ]
