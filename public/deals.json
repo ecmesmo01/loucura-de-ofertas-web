@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8495970d",
+    "title": "Fritadeira Air Fryer Dako 5L Preto/Inox 1700W",
+    "description": "🔥 **Fritadeira Air Fryer Dako 5L Preto/Inox 1700W**  Cansado de gastar horas na cozinha? Chegou a hora de transformar suas refeições com muito mais praticidade e zero óleo! Com 5 l...",
+    "originalPrice": null,
+    "currentPrice": 153.07,
+    "discountPercentage": null,
+    "couponCode": "SUPEROFERTA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/fritadeira-air-fryer-dako-5-litros-pretoinox-com-painel-analogico-e-potencia-de-1700w/p/MLB37851307?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8495970d.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:20:57.246983+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6a2220a0",
     "title": "Liquidificador Turbo Power Mondial 550W 220V",
     "description": "🔥 **Liquidificador Turbo Power Mondial 550W 220V**  O queridinho da cozinha acabou de despencar de preço! Uma oportunidade imperdível para garantir mais potência e praticidade no s...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:21:48.886694+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-21e90b17",
-    "title": "Freezer Vertical Midea 2 em 1 Inverter 196L Branco",
-    "description": "🔥 **Freezer Vertical Midea 2 em 1 Inverter 196L Branco**  Procurando espaço e economia na sua cozinha? O Freezer Vertical da Midea conta com tecnologia Inverter (muito mais silênci...",
-    "originalPrice": 2492.0,
-    "currentPrice": 1528.0,
-    "discountPercentage": 39,
-    "couponCode": "MODOCASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/freezer-vertical-196l-2-em-1-inverter-branco-midea-branco/p/MLB67658850?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-21e90b17.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:20:10.101088+00:00",
     "likesCount": 1
   }
 ]
