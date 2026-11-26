@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-58833b85",
+    "title": "Perfume Jean Paul Gaultier Le Male Eau de Toilette 200 Ml Masculino",
+    "description": "CORRE OUTRO SACUDO DE 200ML, cupom exclusivo meli+  Perfume Jean Paul Gaultier Le Male EDT 200ml  De R$ 1.079 por R$ 519 em 10x Use o Cupom: MELIXF9 🎟️  Vendido por Loja Oficial no...",
+    "originalPrice": 1079.0,
+    "currentPrice": 519.0,
+    "discountPercentage": 52,
+    "couponCode": "MELIXF9",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-le-male-eau-de-toilette-200-ml-masculino/p/MLB6198268?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-58833b85.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:40:53.819631+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-74b8fb01",
     "title": "Perfume Jean Paul Gaultier Le Beau Eau de Toilette 125 Ml Masculino",
     "description": "EU AMO O PERFUME SACUDO, cupom exclusivo meli+  Perfume Jean Paul Gaultier Le Beau EDT 125ml  De R$ 846 por R$ 386 no Pix Use o Cupom: MELIXF9 🎟️ + Selecione Pix  Vendido por Loja...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T01:29:14.197035+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a5b7d377",
-    "title": "Teclado Gamer Logitech G213 com Layout ABNT2, RGB LIGHTSYNC, Controles de Mídia Dedicados, Design Du",
-    "description": "🎁 Teclado Gamer Logitech G213 com Layout ABNT2, RGB LIGHTSYNC, Controles de Mídia Dedicados, Design Durável e Resistente à Respingos  🔥 POR: R$ 334,87 à vista  🛒 Compre aqui:  ⚠️ A...",
-    "originalPrice": null,
-    "currentPrice": 334.87,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B081P3Z565?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a5b7d377.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T01:29:10.686369+00:00",
     "likesCount": 1
   }
 ]
