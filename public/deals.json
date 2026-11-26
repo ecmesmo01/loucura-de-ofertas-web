@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6d9e2c51",
+    "title": "Kit Kérastase Blond Absolu Violet Lumière (2 Produtos)",
+    "description": "✨ **Kit Kérastase Blond Absolu Violet Lumière (2 Produtos)**  Seu loiro radiante, tratado e protegido com o tratamento de salão que você ama, agora com um super desconto de cair o...",
+    "originalPrice": 821.0,
+    "currentPrice": 401.0,
+    "discountPercentage": 51,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-kerastase-blond-absolu-violet-lumiere-2-produtos/p/MLB66826839?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6d9e2c51.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T15:00:01.335577+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7bb09c8d",
     "title": "Perfume Árabe Alpine Homme Sport Maison Alhambra 100ml EDP",
     "description": "🔥 **Perfume Árabe Alpine Homme Sport Maison Alhambra 100ml EDP**  Quer o aroma do famoso Allure Sport por uma fração do preço? Essa é a sua chance de garantir esse queridinho impor...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:45:33.220369+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c744b4de",
-    "title": "Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic",
-    "description": "🔥 **Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic**  Quer transformar a sua cozinha com móveis novos, modernos e super espaçosos sem gastar uma fortuna? Chegou a o...",
-    "originalPrice": 965.0,
-    "currentPrice": 427.0,
-    "discountPercentage": 56,
-    "couponCode": "MELID07",
-    "affiliateUrl": "https://www.mercadolivre.com.br/cozinha-compacta-madesa-emilly-pop-com-armario-e-balcao-rustic/p/MLB28310834?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c744b4de.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:44:43.471455+00:00",
     "likesCount": 1
   }
 ]
