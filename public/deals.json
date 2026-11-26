@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5039d770",
+    "title": "Hot Wheels City Pista de Brinquedo Ataque de Cobra 4 Anos",
+    "description": "🐍 **Hot Wheels City Pista de Brinquedo Ataque de Cobra 4 Anos**  Procurando o presente perfeito para garantir muita diversão e adrenalina? Essa pista incrível da Hot Wheels vai des...",
+    "originalPrice": null,
+    "currentPrice": 99.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DL6DK1PX?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5039d770.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:30:48.769296+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-19c0a5e0",
     "title": "Kit Cadiveu Professional Hydra Up – 3 Produtos",
     "description": "🧴 **Kit Cadiveu Professional Hydra Up – 3 Produtos**  Quer transformar o seu cabelo em casa com resultados dignos de salão? O tratamento completo que faltava na sua rotina está com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T11:05:19.963358+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d1f72c56",
-    "title": "Kit Relogio Feminino Dourado Champion Digital Espelhado Colar e Brincos com Correia em Aco Inoxidave",
-    "description": "✨ **Kit Relógio Feminino Dourado Champion Digital Espelhado Colar E Brincos Com Correia em Aço Inoxidável Prova DAgua 50 Metros**  Procurando o acessório perfeito para elevar o seu...",
-    "originalPrice": 449.0,
-    "currentPrice": 222.0,
-    "discountPercentage": 51,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-relogio-feminino-dourado-champion-digital-espelhado-colar-e-brincos-com-correia-em-aco-inoxidavel-prova-dagua-50-metros/p/MLB23261738?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d1f72c56.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-26T11:03:47.930647+00:00",
     "likesCount": 1
   }
 ]
