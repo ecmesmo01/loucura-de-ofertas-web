@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f3626019",
+    "title": "Echo Spot com Alexa (Geração mais recente)",
+    "description": "🔥 **Echo Spot com Alexa (Geração mais recente)**  Transforme suas noites e manhãs com o despertador inteligente mais completo do momento! Com um som vibrante e design moderno na co...",
+    "originalPrice": null,
+    "currentPrice": 368.11,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0C2RS4ZG6?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f3626019.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T11:13:46.572783+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8d9299fc",
     "title": "Smartphone Samsung Galaxy S25 5G 256GB 12GB RAM Prata",
     "description": "🔥 **Smartphone Samsung Galaxy S25 5G 256GB 12GB RAM Prata**  O lançamento que você esperava com um desconto absurdo! Potência máxima, inteligência artificial integrada, câmeras pro...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:26:26.772615+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9b9af0c2",
-    "title": "Celular Samsung Galaxy A07 128gb 4gb Tela Grande",
-    "description": "➡️ Smartphone Samsung Galaxy A07 128gb 4gb  ✅ R$ 599 😱😱 🏷 Cupom: MELIXF9  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-128gb-4gb-tela-gran...",
-    "originalPrice": null,
-    "currentPrice": 599.0,
-    "discountPercentage": null,
-    "couponCode": "MELIXF9",
-    "affiliateUrl": "https://www.mercadolivre.com.br/celular-samsung-galaxy-a07-128gb-4gb-tela-grande/p/MLB66053451?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9b9af0c2.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:25:43.446353+00:00",
     "likesCount": 1
   }
 ]
