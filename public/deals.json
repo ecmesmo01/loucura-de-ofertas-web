@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0cbbb99f",
+    "title": "Notebook Dell 15, Intel Core 3 100U 13ª Geração, 8GB RAM DDR5, 512GB SSD NVMe, Tela 15.6\" Full HD 12",
+    "description": "🎁 Notebook Dell 15, Intel Core 3 100U 13ª Geração, 8GB RAM DDR5, 512GB SSD NVMe, Tela 15.6\" Full HD 120 Hz Antirreflexo, Windows 11 Home, 1 Ano de Garantia — DC15-C3100-A20  🔥 Por...",
+    "originalPrice": null,
+    "currentPrice": 2699.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GYG4P437?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0cbbb99f.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T20:40:58.963365+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ba8089ce",
     "title": "Smart Tv Tcl 65 Polegadas Qled 4k P8ls Wifi Bluetooth Google Tv Hdr10 120 Hz Dlg Vrr 65p8ls",
     "description": "65” QLED PARCCELADINHA, modelo p8ls também  Smart TV TCL 65 Polegadas QLED 4K P8LS WiFi Bluetooth 65P8LS  De R$ 5.499 por R$ 3.699 em 10x Use o Cupom: TECHVIP 🎟️  Loja Oficial TCL...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T18:57:59.597452+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-0c427a98",
-    "title": "Cadeira Escritorio Ergonomica Genebra B500 Nr 17 Luvinco Cor Preto com Suporte Lombar Estofado Mesh",
-    "description": "CADEIRA GAMER É COISA DO PASSADO  Cadeira Escritório Ergonômica Genebra G500 Luvinco  De R$ 705 por R$ 394 no Pix se o Cupom: OFERTAVIP 🎟️ + Selecione Pix  Vendido por Loja Oficial...",
-    "originalPrice": 705.0,
-    "currentPrice": 394.0,
-    "discountPercentage": 44,
-    "couponCode": "OFERTAVIP",
-    "affiliateUrl": "https://www.mercadolivre.com.br/cadeira-escritorio-ergonomica-genebra-b500-nr-17-luvinco-cor-preto-com-suporte-lombar-estofado-mesh/p/MLB46220740?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0c427a98.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T18:56:34.261967+00:00",
     "likesCount": 1
   }
 ]
