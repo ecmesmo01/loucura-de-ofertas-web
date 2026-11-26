@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d51cd987",
+    "title": "Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho",
+    "description": "🎁 Galaxy Tab S10 Lite, 128GB, Tela 10.9\", WIFI, Vermelho  🔥 POR: R$ 1.485,00 🎟️ Cupom: 25IMPERDIVEL  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqu...",
+    "originalPrice": null,
+    "currentPrice": 1485.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FMFTWHJJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d51cd987.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:02:41.850517+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-93736579",
     "title": "Kit Body Splash Masculino Barbarius e Midtown 200ml Primacial Perfume Fresco Amadeirado",
     "description": "➡️ KIT BODY SPLASH MASCULINO BARBARIUS E MIDTOWN 200ML - PRIMACIAL PERFUME FRESCO AMADEIRADO  ✅ R$ 60 😱😱  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/kit-body-splas...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T21:48:12.750787+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a7aa4117",
-    "title": "Notebook Hp 200 G2i Intel Core 5 120u 16 Intel Graphics Ram 16gb 1x16gb Ddr5 5200 Ssd 256gb Pcie4x4",
-    "description": "🔥 Notebook HP 200 G2i Intel Core 5-120U  - Painel IPS - 16 polegadas - 16GB RAM (EXPANSÍVEL) - 256GB (EXPANSÍVEL) - W11  💵 R$ 3467 REAIS 3729 REAIS EM ATÉ 10X SEM JUROS (15X COM ME...",
-    "originalPrice": null,
-    "currentPrice": 3467.0,
-    "discountPercentage": null,
-    "couponCode": "MENOSPRATECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-hp-200-g2i-intel-core-5-120u-16-intel-graphics-ram-16gb-1x16gb-ddr5-5200-ssd-256gb-pcie4x4-windows-11-home-pls-sl-e30q9atak4/p/MLB78745134?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a7aa4117.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-25T21:48:11.209040+00:00",
     "likesCount": 1
   }
 ]
