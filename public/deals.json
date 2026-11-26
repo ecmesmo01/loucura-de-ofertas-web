@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f8fdd284",
+    "title": "Smart TV 65\" 4K QLED Hisense 65Q6QV HI-QLED",
+    "description": "🔥 **Smart TV 65\" 4K QLED Hisense 65Q6QV HI-QLED**  Leve o cinema para a sua casa com uma qualidade de imagem impressionante! Equipada com Processador AI, tecnologias HDR10+, Dolby...",
+    "originalPrice": null,
+    "currentPrice": 2783.0,
+    "discountPercentage": null,
+    "couponCode": "DISPON",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FL4VDVCV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f8fdd284.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T12:08:26.846521+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d09a0711",
     "title": "Placa Mãe Gamer Asus Prime B550M ARGB AM4 DDR4",
     "description": "🔥 **Placa Mãe Gamer Asus Prime B550M ARGB AM4 DDR4**  Procurando a base perfeita para o seu setup de alta performance? Esta é a oportunidade que você estava esperando para garantir...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T04:15:28.218230+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ddeaa19b",
-    "title": "Lava e Seca Philco Smart Invertplus Lavagem 10kg Branco",
-    "description": "LAVA E SECA DA PHILCO  Lava E Seca Philco Smart Invertplus Lavagem 10kg Branco  De R$ 3.612 por R$ 2.206  Cupom: MODOCASA 🎟️  🛒 Compre com desconto aqui: https://www.mercadolivre.c...",
-    "originalPrice": 3612.0,
-    "currentPrice": 2206.0,
-    "discountPercentage": 39,
-    "couponCode": "MODOCASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lava-e-seca-philco-smart-invertplus-lavagem-10kg-branco/p/MLB35438923?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ddeaa19b.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:58:02.213521+00:00",
     "likesCount": 1
   }
 ]
