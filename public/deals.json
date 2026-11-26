@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-22cc369c",
+    "title": "Cadeira de Escritório Ergonômica Soberano Preta 200kg Laruno",
+    "description": "🔥 **Cadeira de Escritório Ergonômica Soberano Preta 200kg Laruno**  Procurando o máximo deconforto e durabilidade para o seu home office ou escritório? Chegou a hora de dar um upgr...",
+    "originalPrice": 699.99,
+    "currentPrice": 532.0,
+    "discountPercentage": 24,
+    "couponCode": "BLACK75OFF",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HBCMDDVD?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-22cc369c.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:52:56.865340+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-838432b9",
     "title": "Acqua di Giò Profondo Giorgio Armani Perfume Masculino Eau de Toilette 50ml",
     "description": "🔥 **Acqua di Giò Profondo Giorgio Armani Perfume Masculino Eau de Toilette 50ml**  Procurando uma fragrância marcante, sofisticada e inesquecível? O clássico da perfumeria mundial...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:25:49.286310+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-764f4f95",
-    "title": "Calvin Klein CK One Eau de Toilette 200ml",
-    "description": "🔥 **Calvin Klein CK One Eau de Toilette 200ml**  O clássico icônico e unissex que nunca sai de moda está com um preço excelente na Amazon! Uma fragrância refrescante e limpa, ideal...",
-    "originalPrice": null,
-    "currentPrice": 253.4,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B00S2WDIGG?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-764f4f95.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:25:47.283279+00:00",
     "likesCount": 1
   }
 ]
