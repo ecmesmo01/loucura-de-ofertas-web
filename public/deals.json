@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-13bcb2f7",
+    "title": "Smart TV 65\" 4K UHD Philips 65PUG7231/78 Google TV Dolby",
+    "description": "🔥 **Smart TV 65\" 4K UHD Philips 65PUG7231/78 Google TV Dolby**  Procurando uma tela gigante com qualidade de cinema para a sua casa? Esse modelo da Philips acabou de despencar de p...",
+    "originalPrice": 4049.0,
+    "currentPrice": 2601.0,
+    "discountPercentage": 36,
+    "couponCode": "MODOCASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-65-4k-uhd-philips-65pug723178-google-tv-dolby/p/MLB2112103819?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-13bcb2f7.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:57:55.273253+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f9291e06",
     "title": "Tênis Kappa Park 2.0 Original Unissex Caminhada Academia",
     "description": "🏃 **Tênis Kappa Park 2.0 Original Unissex Caminhada Academia**  🔥 De R$ 299,00 | **Por apenas: R$ 139,00**  ✨ Garanta já o seu tênis original perfeito para caminhadas e treinos com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:43:44.909380+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-4abd96e4",
-    "title": "12x sem juros",
-    "description": "🔥 **Notebook Dell Inspiron 15 DC15-I51334U-M50 Intel Core i5-1334U 8GB 512GB SSD 15.6\" WVA 120Hz Windows 11**  Procurando potência, velocidade e uma tela de alta fluidez para o seu...",
-    "originalPrice": null,
-    "currentPrice": 3199.0,
-    "discountPercentage": null,
-    "couponCode": "TECH300",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GYFRGPZY?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4abd96e4.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-26T13:43:32.721950+00:00",
     "likesCount": 1
   }
 ]
