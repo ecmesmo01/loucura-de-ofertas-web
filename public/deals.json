@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-fe2b8440",
+    "title": "Uber Gift Card R$100 (Digital)",
+    "description": "💳 **Uber Gift Card R$100 (Digital)**  Economize nas suas próximas viagens ou pedidos de delivery! Aproveite o desconto direto e garanta seu saldo com economia.   📉 De R$ 100,00 ⚡ P...",
+    "originalPrice": null,
+    "currentPrice": 100.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/uber-gift-card-r100-digital/p/MLB72638652?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-fe2b8440.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:39:50.015117+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f0e185e5",
     "title": "Uber Gift Card R$250 (Digital)",
     "description": "🔥 **Uber Gift Card R$250 (Digital)**  Economia garantida para suas próximas viagens ou pedidos de delivery! Aproveite esse desconto exclusivo para garantir o seu crédito na Uber co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:16:51.578020+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8539437b",
-    "title": "Ar Condicionado Split Hi Wall Inverter Samsung WindFree AI 12000 BTU/h Frio AR12DYFAAWKNAZ – 220 Vol",
-    "description": "🔥 **Ar Condicionado Split Hi Wall Inverter Samsung WindFree AI 12000 BTU/h Frio AR12DYFAAWKNAZ – 220 Volts**  Climatização inteligente e economia de energia na sua casa! O modelo W...",
-    "originalPrice": null,
-    "currentPrice": 1771.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK150",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0F1HLLKSL?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8539437b.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:14:29.517686+00:00",
     "likesCount": 1
   }
 ]
