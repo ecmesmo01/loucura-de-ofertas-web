@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-46c4b515",
+    "title": "Base De Carregamento Do Dualsense - PlayStation 5",
+    "description": "🔥 **Base De Carregamento Do Dualsense - PlayStation 5**  Mantenha seus controles sempre prontos para a próxima partida e diga adeus à bagunça de cabos! Essencial para todo jogador...",
+    "originalPrice": null,
+    "currentPrice": 165.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09JH4PD8Q?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-46c4b515.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:41:46.314853+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-df16b819",
     "title": "Controle sem fio PlayStation Dualshock 4™ - Preto",
     "description": "🎮 **Controle sem fio PlayStation Dualshock 4™ - Preto**  O clássico que faltava para melhorar suas jogadas chegou com um preço imperdível! Garanta mais precisão, conforto e ergonom...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:18:46.899499+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-762cd1b1",
-    "title": "Geladeira Consul Frost Free Duplex 333 Litros Branca CRM40MB (220V)",
-    "description": "🔥 **Geladeira Consul Frost Free Duplex 333 Litros Branca CRM40MB (220V)**  Chegou a hora de dar um upgrade na sua cozinha com muito espaço, tecnologia e sem precisar se preocupar c...",
-    "originalPrice": 2637.0,
-    "currentPrice": 1792.0,
-    "discountPercentage": 32,
-    "couponCode": "VIPTECH",
-    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-consul-frost-free-333-litros-duplex-branca-crm40mb/p/MLB59799660?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-762cd1b1.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:17:33.010025+00:00",
     "likesCount": 1
   }
 ]
