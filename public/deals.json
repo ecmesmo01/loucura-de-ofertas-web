@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-d2e28681",
+    "title": "Apple iPhone 16e de 128GB — Preto",
+    "description": "🔥 **Apple iPhone 16e de 128GB — Preto**  Aproveite essa oportunidade para garantir o seu smartphone novo com um super preço! Desempenho de ponta, design elegante e tecnologia de úl...",
+    "originalPrice": null,
+    "currentPrice": 2969.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0DXR7GNWJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d2e28681.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:22:48.052893+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-cf298973",
     "title": "Aparador de Grama Elétrico WAP WG AG01E 1600W 220V",
     "description": "🔥 **Aparador de Grama Elétrico WAP WG AG01E 1600W 220V**  Procurando deixar seu jardim impecável com praticidade e economia? Chegou a oportunidade perfeita para garantir o seu apar...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T10:53:49.351858+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b3edfddc",
-    "title": "Máquina De Lavar Automática Consul CWM12AB 12kg Branca",
-    "description": "🔥 **Máquina De Lavar Automática Consul CWM12AB 12kg Branca**  Chega de perder tempo e esforço lavando roupa na mão! Renove sua lavanderia com essa super máquina da Consul, que gara...",
-    "originalPrice": null,
-    "currentPrice": 1398.0,
-    "discountPercentage": null,
-    "couponCode": "MODOCASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/maquina-de-lavar-automatica-consul-hasta-12kg-branco/p/MLB59322254?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b3edfddc.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-26T10:52:47.573157+00:00",
     "likesCount": 1
   }
 ]
