@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-b12b7bd9",
+    "title": "Mouse sem fio Logitech MX Master 4 com o Desempenho avançado e a Sensação tátil do Haptic feedback,",
+    "description": "🎁 Mouse sem fio Logitech MX Master 4 com o Desempenho avançado e a Sensação tátil do Haptic feedback, Design ergonômico, Rolagem ultra rápida, Conexão USB-C ou Bluetooth, Windows,...",
+    "originalPrice": null,
+    "currentPrice": 368.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FPM2VC6Q?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b12b7bd9.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T18:20:57.917657+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-afccf90c",
     "title": "Celular Samsung Galaxy A57 5g 128gb 8gb Ram Camera 50mp Ip68 Super Amoled 67 Recursos Ai Azul Escuro",
     "description": "BAITA CxB NO A57 DA SAMSUNG  Celular Samsung Galaxy A57 5G 128GB  R$ 1.583 no Pix Use o Cupom: MODOTECH 🎟️ + Selecione Pix  Loja Oficial Samsung no ML  🛒 Compre com desconto aqui:...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T16:31:56.567560+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-83a05165",
-    "title": "Principia Kit Antiqueda Trio Shampoo Condicionar Sc 01",
-    "description": "SEU CABELO AINDA TEM SALVAÇÃO   Kit Principia Shampoo Antiqueda  - Shampoo 250ml - Condicionar 250ml - Sérum Capilar Principia   De R$ 193 por R$ 90 no Pix Use os Cupons:  AMLQOGST...",
-    "originalPrice": 193.0,
-    "currentPrice": 90.0,
-    "discountPercentage": 53,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/principia-kit-antiqueda-trio-shampoo-condicionar-sc-01/p/MLB66922319?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-83a05165.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T16:30:00.358742+00:00",
     "likesCount": 1
   }
 ]
