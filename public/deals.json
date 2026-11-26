@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4d11938b",
+    "title": "Smartphone Motorola Moto G17 4G 256GB 4GB RAM Rosa",
+    "description": "📱 **Smartphone Motorola Moto G17 4G 256GB 4GB RAM Rosa**  Procurando um celular completo, com muito espaço e bateria de sobra? O Moto G17 é a escolha perfeita para o seu dia a dia!...",
+    "originalPrice": null,
+    "currentPrice": 985.0,
+    "discountPercentage": null,
+    "couponCode": "15IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQH6BZF?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4d11938b.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T15:32:35.655095+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-cc92a9ce",
     "title": "Óculos de Sol Retrô Redondo Vintage Unissex Proteção UV400",
     "description": "🔥 **Óculos de Sol Retrô Redondo Vintage Unissex Proteção UV400**  Quer dar um up no visual com um acessório cheio de estilo e super bem avaliado? Esse modelo em acetato da Lux Glas...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T14:04:57.967863+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-9dd948fb",
-    "title": "Water Cooler Redragon Gamerstorm Le360 Rd Argb Preto de 360mm",
-    "description": "🔥 **Water Cooler Redragon Gamerstorm Le360 Rd Argb Preto de 360mm**  Mantenha a temperatura do seu setup sob controle com máximo desempenho e estilo! Esse water cooler de 360mm ent...",
-    "originalPrice": null,
-    "currentPrice": 274.0,
-    "discountPercentage": null,
-    "couponCode": "SUPEROFERTA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/watercooler-redragon-gamerstorm-le360-rd-argb-preto-de-360mm/p/MLB77753756?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9dd948fb.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T14:04:16.869381+00:00",
     "likesCount": 1
   }
 ]
