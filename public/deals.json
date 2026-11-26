@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae9aae42",
+    "title": "Perfume Feminino Refilável Gourmand Amadeirado Angel Mugler EDP 100ml",
+    "description": "✨ **Perfume Feminino Refilável Gourmand Amadeirado Angel Mugler EDP 100ml**  O clássico e inconfundível perfume das estrelas com um desconto simplesmente inacreditável! Fragrância...",
+    "originalPrice": 1113.0,
+    "currentPrice": 641.0,
+    "discountPercentage": 42,
+    "couponCode": "BLACKDELUXO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-feminino-refilavel-gourmand-amadeirado-com-praline-e-patchouli-eau-de-parfum-angel-mugler-100ml/p/MLB18103733?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae9aae42.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:22:00.105428+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ab54607a",
     "title": "Máquina de Costura Singer Heavy Duty 220V HD4423 Preta",
     "description": "🪡 **Máquina de Costura Singer Heavy Duty 220V HD4423 Preta**  Procurando potência, velocidade e precisão para os seus projetos? A escolha definitiva para quem costura do pesado ao...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:03:53.912738+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-43648a59",
-    "title": "Notebook Samsung Galaxy Book4 Intel® U300 8GB 256GB SSD 15.6\" Full HD LED",
-    "description": "💻 **Notebook Samsung Galaxy Book4 Intel® U300 8GB 256GB SSD 15.6\" Full HD LED**  Procurando a máquina perfeita para estudar, trabalhar ou maratonar suas séries? O moderno **Galaxy...",
-    "originalPrice": 3499.0,
-    "currentPrice": 2640.0,
-    "discountPercentage": 25,
-    "couponCode": "MODALID",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-samsung-galaxy-book4-intel-u300-120-ghz-ate-44ghz-8-mb-l3-cache-windows-11-home-8gb-256gb-ssd-uhd-graphics-156-full-hd-led-155kg/p/MLB40347107?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-43648a59.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:02:43.863075+00:00",
     "likesCount": 1
   }
 ]
