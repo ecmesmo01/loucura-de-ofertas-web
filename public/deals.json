@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-07edf3a1",
+    "title": "Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 7 Peças Allegra",
+    "description": "🍳 **Tramontina Jogo de Panelas de Aço Inox com Fundo Triplo 7 Peças Allegra**  Procurando durabilidade e sofisticação para a sua cozinha? Este conjunto da Tramontina é o queridinho...",
+    "originalPrice": null,
+    "currentPrice": 519.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B076MGRV7Z?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-07edf3a1.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T12:39:51.164793+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-670bb642",
     "title": "Micro-ondas Panasonic NN-ST66NBRU Black Glass 34L Dupla Refeição",
     "description": "🔥 **Micro-ondas Panasonic NN-ST66NBRU Black Glass 34L Dupla Refeição**  Procurando sofisticação e alta performance para a sua cozinha? O queridinho Black Glass da Panasonic está co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:16:49.794163+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-063f777f",
-    "title": "Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM",
-    "description": "📱 **Smartphone Samsung Galaxy S26 5G 256GB 12GB RAM**  Garanta o lançamento com tecnologia de ponta, tela imersiva de 6.3\" e um conjunto de câmeras profissional para fotos incrívei...",
-    "originalPrice": null,
-    "currentPrice": 3798.65,
-    "discountPercentage": null,
-    "couponCode": "SAMSUNG200",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQPFCXS?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-063f777f.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:16:44.178927+00:00",
     "likesCount": 1
   }
 ]
