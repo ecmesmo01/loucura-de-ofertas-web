@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-97510bec",
+    "title": "Calça Jeans Masculina Original com Elastano Lycra",
+    "description": "🔥 **Calça Jeans Masculina Original com Elastano Lycra**  Renove seu visual com muito estilo e conforto! Essa calça jeans conta com elastano de alta qualidade, garantindo flexibilid...",
+    "originalPrice": 78.0,
+    "currentPrice": 39.0,
+    "discountPercentage": 50,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2070063236-calca-jeans-masculina-original-elastano-lycra-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-97510bec.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T15:14:57.997556+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-131b5a56",
     "title": "Perfume Carolina Herrera 212 VIP Men Eau de Toilette 200ml",
     "description": "🔥 **Perfume Carolina Herrera 212 VIP Men Eau de Toilette 200ml**  Procurando aquela fragrância marcante que deixa rastro por onde passa? O clássico e sofisticado 212 VIP Men de 200...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:53:54.263493+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-22cc369c",
-    "title": "Cadeira de Escritório Ergonômica Soberano Preta 200kg Laruno",
-    "description": "🔥 **Cadeira de Escritório Ergonômica Soberano Preta 200kg Laruno**  Procurando o máximo deconforto e durabilidade para o seu home office ou escritório? Chegou a hora de dar um upgr...",
-    "originalPrice": 699.99,
-    "currentPrice": 532.0,
-    "discountPercentage": 24,
-    "couponCode": "BLACK75OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HBCMDDVD?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-22cc369c.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:52:56.865340+00:00",
     "likesCount": 1
   }
 ]
