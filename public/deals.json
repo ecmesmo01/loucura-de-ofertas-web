@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae71b7ed",
+    "title": "Caixa de Som Portátil Basike Bluetooth 200W com Graves Reforçados e Prova d'Água",
+    "description": "🎵 **Caixa de Som Portátil Basike Bluetooth 200W com Graves Reforçados e Prova d'Água**  Quer levar a festa para qualquer lugar com som de alta potência e graves que batem forte? Es...",
+    "originalPrice": 1128.0,
+    "currentPrice": 523.0,
+    "discountPercentage": 54,
+    "couponCode": "MODOCASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/caixa-de-som-portatil-basike-bluetooth-200w-com-graves-reforcados-e-prova-dagua/p/MLB73076146?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae71b7ed.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:54:11.920137+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-59763abf",
     "title": "Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original",
     "description": "🔥 **Kit 10 Cuecas Boxer Lupo Algodão Confortável Box Original**  Renove suas gavetas com o máximo de conforto e qualidade que só a Lupo oferece! Um kit completo com 10 unidades par...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:38:48.079756+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3f15f1a2",
-    "title": "Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A",
-    "description": "🔥 **Monitor AOC 27\" 4K IPS 106% NTSC 97% DCI-P3 Speakers U27B3A**  Procurando uma qualidade de imagem absurda para o seu setup? Esse monitor da AOC entrega resolução 4K cristalina,...",
-    "originalPrice": null,
-    "currentPrice": 797.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK75OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FGDKYGFS?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3f15f1a2.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:38:04.190229+00:00",
     "likesCount": 1
   }
 ]
