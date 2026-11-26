@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c744b4de",
+    "title": "Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic",
+    "description": "🔥 **Cozinha Compacta Madesa Emilly Pop com Armário e Balcão Rustic**  Quer transformar a sua cozinha com móveis novos, modernos e super espaçosos sem gastar uma fortuna? Chegou a o...",
+    "originalPrice": 965.0,
+    "currentPrice": 427.0,
+    "discountPercentage": 56,
+    "couponCode": "MELID07",
+    "affiliateUrl": "https://www.mercadolivre.com.br/cozinha-compacta-madesa-emilly-pop-com-armario-e-balcao-rustic/p/MLB28310834?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c744b4de.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:44:43.471455+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c850b378",
     "title": "Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino",
     "description": "🔥 **Perfume Jean Paul Gaultier Le Male Elixir Parfum 75 ml Masculino**  Procurando por aquela fragrância marcante, sofisticada e que chama atenção por onde passa? O cobiçado **Le M...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:20:33.804126+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-212f6a3b",
-    "title": "Ar Condicionado Split Inverter 18000 BTUs Frio BreezeIN AI TCL",
-    "description": "❄️ **Ar Condicionado Split Inverter 18000 BTUs Frio BreezeIN AI TCL**  Clima perfeito, economia de energia e tecnologia inteligente para a sua casa! O Ar Condicionado TCL BreezeIN...",
-    "originalPrice": null,
-    "currentPrice": 2740.89,
-    "discountPercentage": null,
-    "couponCode": "BLACK150",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HLV6PMPP?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-212f6a3b.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:19:48.389581+00:00",
     "likesCount": 1
   }
 ]
