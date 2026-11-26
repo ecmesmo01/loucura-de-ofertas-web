@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ca6cbf20",
+    "title": "Camiseta Calvin Klein Flame Front Logo Azul Marinho",
+    "description": "🔥 **Camiseta Calvin Klein Flame Front Logo Azul Marinho**  Atualize o seu estilo com aquela peça de grife que faz toda a diferença no visual! Design moderno, tecido de alta qualida...",
+    "originalPrice": 271.0,
+    "currentPrice": 107.0,
+    "discountPercentage": 61,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4608214240-camiseta-calvin-klein-flame-front-logo-azul-marinho-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ca6cbf20.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T14:52:03.684136+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-68675fab",
     "title": "Desodorante Colônia O Boticário Quasar Deep Blue 100ml",
     "description": "🌊 **Desodorante Colônia O Boticário Quasar Deep Blue 100ml**  Procurando aquela fragrância marcante que transmite frescor e intensidade na medida certa? O sucesso da linha Quasar e...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:37:53.330058+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-54b0f55c",
-    "title": "Smart TV LCD LED 32\" AOC 32S5155/78G - Wi-Fi, HD, Quad Core, Dolby Áudio, 60 Hz",
-    "description": "🔥 **Smart TV LCD LED 32\" AOC 32S5155/78G - Wi-Fi, HD, Quad Core, Dolby Áudio, 60 Hz**  Procurando uma TV nova para o quarto, sala ou escritório? Esse modelo da AOC entrega excelent...",
-    "originalPrice": null,
-    "currentPrice": 725.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK75OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FVY9MD19?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-54b0f55c.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:36:53.049218+00:00",
     "likesCount": 1
   }
 ]
