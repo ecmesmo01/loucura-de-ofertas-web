@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4e2cf5d0",
+    "title": "Sony Playstation 5 Slim 1tb Cor Branco",
+    "description": "🔥 Sony PlayStation 5 Slim 1TB cor branco  🚨 R$ 3.622 🎟️ Cupom: PROMOTOP  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/sony-playstation-5-slim-1tb-cor-branco/p/MLB286...",
+    "originalPrice": null,
+    "currentPrice": 3622.0,
+    "discountPercentage": null,
+    "couponCode": "PROMOTOP",
+    "affiliateUrl": "https://www.mercadolivre.com.br/sony-playstation-5-slim-1tb-cor-branco/p/MLB28616777?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4e2cf5d0.jpg",
+    "store": "mercadolivre",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T17:31:29.878497+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6d7ac971",
     "title": "Console Playstation 5 Pro 2tb Branco Sony Bivolt Branco",
     "description": "🔥 Console Sony Playstation 5 Edição Slim Disk 1 Tb Branco  🚨 R$ 3.671 🎟️ Cupom: PROMOTOP  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/console-playstation-5-pro-2tb-...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T15:47:35.072829+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a54aff7e",
-    "title": "Perfume Maison Alhambra Philos Messenger EDP 100ml",
-    "description": "🔥 **Perfume Maison Alhambra Philos Messenger EDP 100ml**  Procurando um perfume árabe diferenciado e com um dos melhores acordes cítricos da perfumaria importada? O **Philos Messen...",
-    "originalPrice": 299.0,
-    "currentPrice": 180.0,
-    "discountPercentage": 40,
-    "couponCode": "MAISDESCONTODEZ",
-    "affiliateUrl": "https://www.mercadolivre.com.br/philos-messenger-edp-100ml-perfume-arabe-maison-alhambra/p/MLB46981343?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a54aff7e.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T15:46:58.486185+00:00",
     "likesCount": 1
   }
 ]
