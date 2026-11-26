@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9fd5f728",
+    "title": "Smartphone Motorola Moto G67 5G",
+    "description": "🎁 Smartphone Motorola Moto G67 5G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Claro  🔥 POR: R$ 829,09 🎟️ Cu...",
+    "originalPrice": null,
+    "currentPrice": 829.09,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GLQPPTLR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9fd5f728.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:13:25.213644+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-88b23c74",
     "title": "Ar Condicionado 12000 Btus Hw Invert Tcl Frio Breezein 220v Branco",
     "description": "🎁 Ar Condicionado 12000 Btus Hw Invert Tcl Frio Breezein 220v Branco  🔥 POR: R$ 1.749,07 no Pix 🎟️ Cupom: MELIXF9  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T22:55:13.022881+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-184ddc56",
-    "title": "Anker Cabo USB-C para USB-C, 2 Unidades, 100W Carregamento Turbo (1,8m) | Nylon Trançado Reforçado,",
-    "description": "🎁 Anker Cabo USB-C para USB-C, 2 Unidades, 100W Carregamento Turbo (1,8m) | Nylon Trançado Reforçado, para iPhone 18-15, Samsung, Xiaomi, Motorola, iPad, MacBook, Tablet, Notebook,...",
-    "originalPrice": null,
-    "currentPrice": 76.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B09LCJPZ1P?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-184ddc56.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T22:51:08.922086+00:00",
     "likesCount": 1
   }
 ]
