@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3b36a3ad",
+    "title": "Tênis Nike Grandstand II Masculino",
+    "description": "🔥 **Tênis Nike Grandstand II Masculino**  Estilo, conforto e a qualidade lendária da marca do swoosh por um valor inacreditável! Perfeito para compor aquele visual casual com muita...",
+    "originalPrice": 599.0,
+    "currentPrice": 234.0,
+    "discountPercentage": 61,
+    "couponCode": "MAISDESCONTODEZ",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5135550958-tnis-nike-grandstand-ii-masculino-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3b36a3ad.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T15:00:34.611179+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6d9e2c51",
     "title": "Kit Kérastase Blond Absolu Violet Lumière (2 Produtos)",
     "description": "✨ **Kit Kérastase Blond Absolu Violet Lumière (2 Produtos)**  Seu loiro radiante, tratado e protegido com o tratamento de salão que você ama, agora com um super desconto de cair o...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T13:45:42.594942+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ccd1543d",
-    "title": "Monitor Gamer Curvo Samsung Odyssey 34” Ultra WQHD 165Hz 1ms",
-    "description": "🔥 **Monitor Gamer Curvo Samsung Odyssey 34” Ultra WQHD 165Hz 1ms**  Procurando a imersão definitiva para o seu setup? O incrível monitor ultrawide da Samsung está com um desconto e...",
-    "originalPrice": null,
-    "currentPrice": 1341.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK75OFF",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0D3J76C63?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ccd1543d.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T13:45:33.220369+00:00",
     "likesCount": 1
   }
 ]
