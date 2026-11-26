@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-886edf20",
+    "title": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+    "description": "🎁 Bundle Nintendo Switch 2 + EA Sports FC 27  🔥 POR: R$ 3.519,91 🎟️ Cupom: Aplicar 5% Off  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https:/...",
+    "originalPrice": null,
+    "currentPrice": 3519.91,
+    "discountPercentage": null,
+    "couponCode": "ESTOQUE",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-886edf20.jpg",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T17:28:18.533729+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-84f58371",
     "title": "Sony Playstation 5 Slim Cfi 2015b 1tb Digital Cor Branco 2023",
     "description": "➡️ Sony PlayStation 5 Slim CFI-2015B 1TB Digital cor branco 2023  ✅ R$ 3.321 😱😱 🏷 Cupom: PROMOTOP  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/sony-playstation-5-sl...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T15:43:58.640134+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-4e17a6ff",
-    "title": "Tênis Nike Court Vision Low Next Nature Masculino",
-    "description": "🔥 **Tênis Nike Court Vision Low Next Nature Masculino**  O clássico estilo basquete dos anos 80 agora em uma versão all white impecável para o seu dia a dia! Conforto e versatilida...",
-    "originalPrice": 449.0,
-    "currentPrice": 242.0,
-    "discountPercentage": 46,
-    "couponCode": "MAISDESCONTODEZ",
-    "affiliateUrl": "https://www.mercadolivre.com.br/nike-court-vision-low-next-nature-masculino-adultos/p/MLB18679676?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4e17a6ff.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T15:42:30.938837+00:00",
     "likesCount": 1
   }
 ]
