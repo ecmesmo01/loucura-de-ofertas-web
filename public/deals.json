@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-4eb83ec8",
+    "title": "Perfume Feminino Lancôme La Vie Est Belle L'Elixir Eau de Parfum 100ml",
+    "description": "🔥 **Perfume Feminino Lancôme La Vie Est Belle L'Elixir Eau de Parfum 100ml**  ✨ A versão mais desejada e sofisticada de Lancôme com o menor valor histórico direto na Loja Oficial d...",
+    "originalPrice": 969.0,
+    "currentPrice": 495.0,
+    "discountPercentage": 49,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-feminino-lancome-la-vie-est-belle-lelixir-eau-de-parfum-100ml/p/MLB42081528?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4eb83ec8.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T16:04:57.038821+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0622b393",
     "title": "Mochila Puma Phase Backpack",
     "description": "🔥 **Mochila Puma Phase Backpack**  Essa oferta está imperdível e o estoque com desconto é super limitado! Garanta a sua na Loja Oficial da Puma com um preço absurdo de bom.  De R$...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T14:11:11.651300+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b084387f",
-    "title": "Fone Bluetooth Samsung Galaxy Buds Core Preto",
-    "description": "🔥 Fones Samsung Galaxy Buds Core  🚨 R$ 146 🎟️ Cupom: SUPEROFERTA  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/fone-bluetooth-samsung-galaxy-buds-core-preto/p/MLB528...",
-    "originalPrice": null,
-    "currentPrice": 146.0,
-    "discountPercentage": null,
-    "couponCode": "SUPEROFERTA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/fone-bluetooth-samsung-galaxy-buds-core-preto/p/MLB52845211?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b084387f.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T14:11:03.727459+00:00",
     "likesCount": 1
   }
 ]
