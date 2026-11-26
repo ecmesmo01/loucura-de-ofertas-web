@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-533d327a",
+    "title": "Fogão De Piso 5 Bocas Itatiaia Electra Glass Plus Acendime Cor Preto",
+    "description": "🔥 **Fogão De Piso 5 Bocas Itatiaia Electra Glass Plus Acendime Cor Preto**  Cozinha nova, moderna e muito mais elegante? Esse fogão da Itatiaia traz mesa de vidro temperado e visua...",
+    "originalPrice": null,
+    "currentPrice": 852.0,
+    "discountPercentage": null,
+    "couponCode": "VIPTECH",
+    "affiliateUrl": "https://www.mercadolivre.com.br/fogao-de-piso-5-bocas-itatiaia-electra-glass-plus-acendime-cor-preto/p/MLB51525038?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-533d327a.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:08:48.792330+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-379cf2ca",
     "title": "Vaso Sanitário Monobloco Caixa Acoplada Privada Completo Cor Branco",
     "description": "🚽 **Vaso Sanitário Monobloco Caixa Acoplada Privada Completo Cor Branco**  Renove seu banheiro com muito mais sofisticação e elegância! Esse modelo monobloco traz um design moderno...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:46:31.140774+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-aa809e5d",
-    "title": "Smartphone Motorola Edge 70 Fusion 5G 256GB",
-    "description": "📱 **Smartphone Motorola Edge 70 Fusion 5G 256GB** (8GB RAM + 16GB RAM Boost, Câmera 50MP Sony Lytia 710, Tela 1.5K Extreme AMOLED 144Hz) - Verde  Procurando um smartphone topo de l...",
-    "originalPrice": null,
-    "currentPrice": 1665.0,
-    "discountPercentage": null,
-    "couponCode": "15IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GMKV5S6B?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-aa809e5d.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:46:29.878465+00:00",
     "likesCount": 1
   }
 ]
