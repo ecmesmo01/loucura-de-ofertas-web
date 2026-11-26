@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-54bd0b05",
+    "title": "Kit com 3 Livros Pai Rico Pai Pobre Robert Kiyosaki Os Segredos da Mente Milionaria T Harv Eker o Ho",
+    "description": "📚 **Kit com 3 Livros: Pai Rico Pai Pobre + Os Segredos da Mente Milionária + O Homem Mais Rico da Babilônia**  Quer transformar sua mentalidade financeira e alcançar a liberdade ec...",
+    "originalPrice": 187.0,
+    "currentPrice": 76.0,
+    "discountPercentage": 59,
+    "couponCode": "15LIVROS",
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-com-3-livros-pai-rico-pai-pobre-robert-kiyosaki-os-segredos-da-mente-milionaria-t-harv-eker-o-homem-mais-rico-da-babilonia-george-clason-capa-mole-edicao-em-portugues/p/MLB19796771?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-54bd0b05.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:22:54.657778+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-23b75830",
     "title": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS",
     "description": "🔥 **Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS**  Procurando potência e velocidade para o seu dia a dia, estudos ou trabalho? Essa é a oportunidade perfeita para garantir um...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:04:01.795670+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-03d0bc2e",
-    "title": "Jogo Tira Varetas - Luccas Neto, Elka, Colorido, 4+ Anos",
-    "description": "🎁 **Jogo Tira Varetas - Luccas Neto, Elka, Colorido, 4+ Anos**  Procurando a diversão perfeita para a garotada? O clássico jogo Tira Varetas agora ganhou a versão oficial do Luccas...",
-    "originalPrice": null,
-    "currentPrice": 32.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B07QRZLMC5?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-03d0bc2e.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:03:55.592020+00:00",
     "likesCount": 1
   }
 ]
