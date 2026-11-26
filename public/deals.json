@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-474e34bd",
+    "title": "Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Azul",
+    "description": "💥 Oferta Exclusiva Prime  🎁 Celular Samsung Galaxy S26 Ultra 5G, 256GB, 12GB RAM, Câmera Quádrupla, Tela Grande de 6.9\" - Azul  🔥 POR: R$ 5.799,00 🎟️ Cupom: 25IMPERDIVEL  🛒 Compre...",
+    "originalPrice": null,
+    "currentPrice": 5799.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GKQFR5FQ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-474e34bd.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:49:42.447219+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d74402bd",
     "title": "Controle Sem Fio Sony DualSense Hyperpop, Ps5, Remix Green, Verde 1000048534",
     "description": "➡️ Controle Sem Fio Sony DualSense Hyperpop, Ps5, Remix Green, Verde 1000048534  ✅ R$ 346 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/1930141978/58220452518?__mob...",
@@ -1878,25 +1897,6 @@
     "freeShipping": true,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-26T03:04:25.582852+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-de76d21d",
-    "title": "Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5",
-    "description": "🔥 Notebook Lenovo IdeaPad Slim 3i 15.3\" - Intel Core i5-13420H  - 8Gb Ram - 256Gb Ssd - Linux  💵 R$ 2897 - Sem Juros  🎟️ CUPOM: 25IMPERDIVEL + Resgate cupom do anúncio  🔗 LINK:   ⚠...",
-    "originalPrice": null,
-    "currentPrice": 2897.0,
-    "discountPercentage": null,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GL39RFGC?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-de76d21d.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-26T03:03:21.439109+00:00",
     "likesCount": 1
   }
 ]
