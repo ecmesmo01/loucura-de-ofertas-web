@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-475fd513",
+    "title": "MIFA A90 Caixas de Som Portáteis Bluetooth, Alto-falante Bluetooth portátil IPX7 à prova d'água, 60W",
+    "description": "🎁 MIFA A90 Caixas de Som Portáteis Bluetooth, Alto-falante Bluetooth portátil IPX7 à prova d'água, 60W Bass, Emparelhamento estéreo sem fio, Mic embutido, Suporte Micro SD, USB, AU...",
+    "originalPrice": null,
+    "currentPrice": 266.44,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09FKWS793?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-475fd513.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T20:51:58.944725+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-24050d82",
     "title": "Notebook Acer Aspire Go 15 com Processador Intel Core I5 13 Geracao 8gb de Memoria Ram Ddr5 Armazena",
     "description": "➡️ Notebook Acer Aspire Go 15 com Processador Intel Core i5 13ª Geração 8GB de Memória RAM DDR5 Armazenamento 256GB SSD Tela 15.6\" Full HD Windows 11 AG15-71P-5939  ✅ R$ 2.549 😱😱 🏷...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T19:08:00.008571+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2403d501",
-    "title": "Processador Amd Ryzen 5 5500 36ghz 42ghz Max Turbo Cache 16mb Am4",
-    "description": "➡️ Processador Amd Ryzen 5 5500 3.6GHz 4.2GHz Cache 16Mb Am4  ✅ R$ 445 😱😱 🏷 Cupom: PROMOAGORA  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/processador-amd-ryzen-5-5...",
-    "originalPrice": null,
-    "currentPrice": 445.0,
-    "discountPercentage": null,
-    "couponCode": "PROMOAGORA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/processador-amd-ryzen-5-5500-36ghz-42ghz-max-turbo-cache-16mb-am4/p/MLB19444510?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2403d501.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T19:07:31.064843+00:00",
     "likesCount": 1
   }
 ]
