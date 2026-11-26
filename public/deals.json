@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-df33e86c",
+    "title": "Procurando um smartphone moderno, veloz e com excelente conjunto de câmeras? O",
+    "description": "🔥 **Smartphone Motorola Moto G47 5G 128GB Rosa (4GB + 8GB RAM Boost, Câmera 50 MP Sony LYTIA 600, Tela FHD+ de 120Hz)**  Procurando um smartphone moderno, veloz e com excelente con...",
+    "originalPrice": null,
+    "currentPrice": 865.95,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GYPQBXVX?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-df33e86c.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:21:48.886694+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-21e90b17",
     "title": "Freezer Vertical Midea 2 em 1 Inverter 196L Branco",
     "description": "🔥 **Freezer Vertical Midea 2 em 1 Inverter 196L Branco**  Procurando espaço e economia na sua cozinha? O Freezer Vertical da Midea conta com tecnologia Inverter (muito mais silênci...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:02:37.906655+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3490fce9",
-    "title": "Capacitor Eletrolítico 680uF x 450V 105º Radial Nippon",
-    "description": "🔥 **Capacitor Eletrolítico 680uF x 450V 105º Radial Nippon - 1 Unidade**  Garanta os melhores componentes para seus projetos com descontos exclusivos no Mercado Livre! Aproveite os...",
-    "originalPrice": 299.0,
-    "currentPrice": 200.0,
-    "discountPercentage": 33,
-    "couponCode": "MELIOW7",
-    "affiliateUrl": "https://www.mercadolivre.com.br/capacitor-eletrolitico-680uf-x-450v-105-radial-nippon-1-pc/p/MLB2118107342?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:02:31.904275+00:00",
     "likesCount": 1
   }
 ]
