@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5da4d2e4",
+    "title": "Caixa de Som Portátil JBL PartyBox Club 120 160W",
+    "description": "🔥 **Caixa de Som Portátil JBL PartyBox Club 120 160W** (ou modelo correspondente) / **JBL PartyBox 330 Caixa de Som com Rodinhas 280W - Preta**  A trilha sonora das suas melhores f...",
+    "originalPrice": null,
+    "currentPrice": 2293.05,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HHK9J94J?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5da4d2e4.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T13:29:47.813298+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ac618115",
     "title": "Smartphone Motorola Moto G67 5G 128GB Verde Claro",
     "description": "📱 **Smartphone Motorola Moto G67 5G 128GB Verde Claro**  Procurando um smartphone moderno, com tela de alta qualidade e excelente desempenho? O **Moto G67 5G** traz recursos avança...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T12:07:32.501820+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-3a8177d9",
-    "title": "Fonte XPG Core Reactor II VE 850W 80 Plus Gold ATX 3.1 PCIe 5.1 Full Modular",
-    "description": "⚡ **Fonte XPG Core Reactor II VE 850W 80 Plus Gold ATX 3.1 PCIe 5.1 Full Modular**  Alimente seu setup com o máximo de eficiência, segurança e organização! A XPG Core Reactor II VE...",
-    "originalPrice": null,
-    "currentPrice": 428.0,
-    "discountPercentage": null,
-    "couponCode": "MELIOW7",
-    "affiliateUrl": "https://www.mercadolivre.com.br/fonte-xpg-core-reactor-ii-ve-850w-80-plus-gold-atx-31-pcie-51-full-modular-pfc-ativo/p/MLB41229862?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3a8177d9.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T12:06:35.705246+00:00",
     "likesCount": 1
   }
 ]
