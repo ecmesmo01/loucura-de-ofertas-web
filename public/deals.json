@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7fb3ff20",
+    "title": "Purificador de Água Electrolux PE12P Preto Touch Bivolt",
+    "description": "💧 **Purificador de Água Electrolux PE12P Preto Touch Bivolt**  Tenha água purificada, gelada ou natural sempre à mão com este purificador compacto e super moderno! Equipado com pai...",
+    "originalPrice": 899.0,
+    "currentPrice": 447.0,
+    "discountPercentage": 50,
+    "couponCode": "MELID07",
+    "affiliateUrl": "https://www.mercadolivre.com.br/purificador-de-agua-gelada-fria-e-natural-eletrico-compacto-eletronico-placa-filtro-refil-6-meses-ou-3000l-painel-touch-bivolt-preto-pe12p-electrolux/p/MLB46563797?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7fb3ff20.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T12:51:50.976713+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3bedd7ad",
     "title": "Creatina Monohidratada 100% Pura 250g - Growth Supplements",
     "description": "🔥 **Creatina Monohidratada 100% Pura 250g - Growth Supplements**  Garanta o suplemento campeão de vendas direto da Loja Oficial da Growth no Mercado Livre com um super desconto por...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T11:28:49.318848+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5d64638d",
-    "title": "Ventilador de Parede Ventisol New, Oscilante, 50cm, Preto, 127V",
-    "description": "🔥 **Ventilador de Parede Ventisol New, Oscilante, 50cm, Preto, 127V**  Quer refrescar sua casa ou comércio com máxima eficiência e economia? Este modelo conta com classificação A e...",
-    "originalPrice": null,
-    "currentPrice": 139.3,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B09Z1FPNR4?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5d64638d.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T11:28:46.364043+00:00",
     "likesCount": 1
   }
 ]
