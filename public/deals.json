@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e8b3307a",
+    "title": "Caixa de Som Portátil JBL PartyBox Encore Essential 2, Bluetooth | Som AI Sound Boost, Show de Luzes",
+    "description": "🎁 Caixa de Som Portátil JBL PartyBox Encore Essential 2, Bluetooth | Som AI Sound Boost, Show de Luzes Dinâmico, Até 15 Horas de Reprodução, Entradas para Microfone e Instrumentos...",
+    "originalPrice": null,
+    "currentPrice": 1009.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK100OFF",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0H1282J24?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e8b3307a.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-26T03:21:25.081512+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8b603d37",
     "title": "Controle Sem Fio Sony DualSense, PlayStation 5, Bluetooth, Branco 3005767",
     "description": "➡️ Controle Sem Fio Sony DualSense, PlayStation 5, Bluetooth, Branco 3005767  ✅ R$ 313 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/1930141978/58271725695?__mobile...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-25T23:45:30.573612+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6446e48f",
-    "title": "o Boticario Creme Perfumado Desodorante Nativa Spa Orquidea",
-    "description": "ESSE CREME É SURREAL DE CHEIROSO  Creme Nativa Spa Orquídea Lumière 400ml   De R$ 89 por R$ 45 no Pix  Loja Oficial O Boticário no ML  🛒 Compre com desconto aqui: https://www.merca...",
-    "originalPrice": 89.0,
-    "currentPrice": 45.0,
-    "discountPercentage": 49,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/o-boticario-creme-perfumado-desodorante-nativa-spa-orquidea/p/MLB60956057?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6446e48f.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-25T23:41:12.066257+00:00",
     "likesCount": 1
   }
 ]
