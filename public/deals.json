@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f0545f32",
+    "title": "Geladeira Samsung Duplex RT42 Inox Bivolt 415L",
+    "description": "🔥 **Geladeira Samsung Duplex RT42 Inox Bivolt 415L**  Procurando por design minimalista, alta tecnologia e espaço de sobra para a sua cozinha? Essa é a oportunidade perfeita para g...",
+    "originalPrice": 3400.0,
+    "currentPrice": 2877.0,
+    "discountPercentage": 15,
+    "couponCode": "VIPTECH",
+    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-samsung-duplex-rt42-inox-bivolt-415l/p/MLB80099248?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f0545f32.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-26T10:11:47.441339+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-27d4478e",
     "title": "Smartphone Motorola Moto G77 5G 256GB 8GB + 16GB RAM Boost Dual Sim Marrom",
     "description": "🔥 **Smartphone Motorola Moto G77 5G 256GB 8GB + 16GB RAM Boost Dual Sim Marrom**  Procurando um upgrade de respeito para o seu dia a dia? O Motorola Moto G77 5G chegou com tudo! Co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T03:08:46.524983+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-4a59f09a",
-    "title": "Monitor Dell 27\", Full Hd (1920 x 1080), 240 Hz, Ips, Se2726hg | 1000:1 de contraste, Tempo de Respo",
-    "description": "🎁 Monitor Dell 27\", Full Hd (1920 x 1080), 240 Hz, Ips, Se2726hg | 1000:1 de contraste, Tempo de Resposta de 0,5 ms, Brilho de 300 nits, 2 HDMI, 1 DisplayPort, VESA 100 x 100, 99%...",
-    "originalPrice": 1249.0,
-    "currentPrice": 824.0,
-    "discountPercentage": 34,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GGRHTZQ5?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4a59f09a.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T03:08:44.777994+00:00",
     "likesCount": 1
   }
 ]
