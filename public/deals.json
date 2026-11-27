@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6a80b0f8",
+    "title": "Máscara Capilar Wella Invigo Nutri-Enrich 500ml",
+    "description": "🔥 **Máscara Capilar Wella Invigo Nutri-Enrich 500ml**  Sabe aquele tratamento de salão que recupera o cabelo de verdade? A queridinha **Wella Invigo Nutri-Enrich** em versão profis...",
+    "originalPrice": 249.0,
+    "currentPrice": 129.0,
+    "discountPercentage": 48,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/mascara-invigo-nutri-enrich-500ml-wella-pro-nutricao-e-hidratacao/p/MLB19605864?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6a80b0f8.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T10:48:27.608838+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ee299eb1",
     "title": "Calça Legging Fitness Zero Transparência Cintura Alta Koenig",
     "description": "🔥 **Calça Legging Fitness Zero Transparência Cintura Alta Koenig**  Meninas, achado imperdível para renovar os looks de treino com conforto e segurança! Essa legging tem modelagem...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:47:29.896531+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d48021bd",
-    "title": "Kit Champu Condicionador e Mascara Nutri Enrich Invigo Wella",
-    "description": "➡️ Kit Champú Condicionador E Máscara Nutri Enrich Invigo Wella  ✅ R$ 284 😱😱 🏷 Cupom: CORREBLACK  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/kit-champu-condicionad...",
-    "originalPrice": null,
-    "currentPrice": 284.0,
-    "discountPercentage": null,
-    "couponCode": "CORREBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-champu-condicionador-e-mascara-nutri-enrich-invigo-wella/p/MLB34006890?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d48021bd.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:46:28.646227+00:00",
     "likesCount": 1
   }
 ]
