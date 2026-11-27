@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1bc4dd73",
+    "title": "Smart TV 43\" Philco P43VIK Roku LED Full HD",
+    "description": "📺 **Smart TV 43\" Philco P43VIK Roku LED Full HD**  Quer dar um upgrade na sala com uma TV nova e cheia de recursos sem gastar uma fortuna? Encontramos o modelo perfeito para você m...",
+    "originalPrice": 1899.0,
+    "currentPrice": 1269.0,
+    "discountPercentage": 33,
+    "couponCode": "RENOVACASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-43-philco-p43vik-roku-led-dolby-audio-wi-fi-hdmi-hdr-full-hd-110220v/p/MLB63040715?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1bc4dd73.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:58:26.071917+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-eea433b3",
     "title": "Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth Bateria 36h IP68",
     "description": "🎵 **Caixa de Som LG Boombox Speaker XBOOM Blast 220W Bluetooth Bateria 36h IP68**  Procurando potência máxima e fidelidade sonora para qualquer ocasião? A **LG XBOOM Blast** entreg...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T10:48:10.111593+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a91045b6",
-    "title": "Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD Tela IPS Radeon 660M",
-    "description": "💻 **Notebook Lenovo IdeaPad Slim 3 AMD Ryzen 5 7535HS 8GB RAM 512GB SSD Tela IPS Radeon 660M**  Potência e velocidade impressionantes para o seu trabalho, estudos e entretenimento!...",
-    "originalPrice": null,
-    "currentPrice": 2807.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://shopee.com.br/opaanlp/1930141978/58220337424?__mobile__=1&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAx2-VeBKKG8M5vuZR9Dx1YvyHjcCi_St1901-7GgllVDGPbjuT8dCwfiGQyuBD6Q-Tvbwdpw9Q5sl19GyY59UDGYnZqSYq30626QjqtAYlP7Pz-T9aj7ZZvS20NpWL4TXsbq_cXPAIXPO9DNETn1zL_moav47qAhIAlnRhf0j6PvUpQi2eKkf-b_8I54UQFwCDeMxKpWA&mmp_pid=an_18386310690&uls_trackid=577qih6r00br&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a91045b6.jpg",
-    "store": "shopee",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T10:46:56.397305+00:00",
     "likesCount": 1
   }
 ]
