@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-caf4961e",
+    "title": "Power Bank Geonav 20.000mAh Carregador Portátil PB20K20W1PBK Preto",
+    "description": "🔋 **Power Bank Geonav 20.000mAh Carregador Portátil PB20K20W1PBK Preto**  Nunca mais fique sem bateria no meio do dia! Com alta capacidade de 20.000mAh, este carregador portátil da...",
+    "originalPrice": null,
+    "currentPrice": 139.9,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F6B7569S?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-caf4961e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:21:34.249499+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3e75b2f0",
     "title": "Lava Louças Brastemp 8 Serviços Preta 127V (BLF08AE)",
     "description": "🔥 **Lava Louças Brastemp 8 Serviços Preta 127V (BLF08AE)**  Chegou a hora de aposentar a pia cheia de louça! O modelo que faltava na sua cozinha está com um super desconto por temp...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T04:01:07.562885+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c2e257bd",
-    "title": "Whey Protein Gourmet Growth Supplements Banana Toffee 800g",
-    "description": "O WHEY DO RICO É DIFERENTE  Whey Protein Gourmet Growth Supplements Banana Toffee 800g  De R$ 229 por R$ 96  Cupom: CORREBLACK 🎟️  🛒 Compre com desconto aqui: https://www.mercadoli...",
-    "originalPrice": 229.0,
-    "currentPrice": 96.0,
-    "discountPercentage": 58,
-    "couponCode": "CORREBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/whey-protein-gourmet-growth-supplements-banana-toffee-800g/p/MLB68094752?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c2e257bd.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:57:31.526954+00:00",
     "likesCount": 1
   }
 ]
