@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e9f73a62",
+    "title": "iPhone 16e 128 GB Preto",
+    "description": "📱 **iPhone 16e 128 GB Preto**  Procurando o smartphone perfeito com aquele super desconto? O novo iPhone 16e na cor preto está com um preço impressionante e você não pode ficar de...",
+    "originalPrice": null,
+    "currentPrice": 2856.0,
+    "discountPercentage": null,
+    "couponCode": "7CJMELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/iphone-16e-128-gb-preto/p/MLB46215784?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e9f73a62.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:06:08.348296+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3db2ecf7",
     "title": "Smart TV Samsung 43\" LS43F6000FGXZD Full HD LED Bivolt",
     "description": "🔥 **Smart TV Samsung 43\" LS43F6000FGXZD Full HD LED Bivolt**  Procurando uma TV nova para a sua sala ou quarto com qualidade de imagem impecável? Essa é a oportunidade perfeita par...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:49:25.898739+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-183ba12f",
-    "title": "Palanca de Cambio Logitech G29g920 G923 941 000119",
-    "description": "🔥 Câmbio Logitech G Driving Force  🚨 R$ 229 🎟️ Cupom: 850NOPRECINHO  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/palanca-de-cambio-logitech-g29g920-g923-941-000119/...",
-    "originalPrice": null,
-    "currentPrice": 229.0,
-    "discountPercentage": null,
-    "couponCode": "850NOPRECINHO",
-    "affiliateUrl": "https://www.mercadolivre.com.br/palanca-de-cambio-logitech-g29g920-g923-941-000119/p/MLB81290656?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-183ba12f.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:48:47.766769+00:00",
     "likesCount": 1
   }
 ]
