@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-20fdea75",
+    "title": "Tênis Casual Kappa Zenit Masculino / Unissex",
+    "description": "🔥 **Tênis Casual Kappa Zenit Masculino / Unissex**  Procurando aquele tênis versátil, confortável e com estilo de sobra para o dia a dia? O modelo Zenit da Kappa é a escolha perfei...",
+    "originalPrice": 229.0,
+    "currentPrice": 67.0,
+    "discountPercentage": 71,
+    "couponCode": "AGORAMODA",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5408593708-tnis-casual-kappa-zenit-masculino-unissex-conforto-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-20fdea75.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:16:16.287875+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-cf0aeffd",
     "title": "Ar Condicionado Portatil Kabum Smart 700 12000 Btus Quente e Frio Controle Via App Alexagoogle Assis",
     "description": "❄️ **Ar Condicionado Portátil Kabum Smart 700 12000 BTUs Quente e Frio Controle via App Alexa/Google Assistente Branco**  O conforto ideal para qualquer estação do ano, agora com p...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:23:15.522084+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e69495e0",
-    "title": "Ar Condicionado Split LG Inverter Smart Ai 12000 Btus Frio Branco",
-    "description": "🔥 **Ar Condicionado Split LG Inverter Smart Ai 12000 Btus Frio Branco**  Prepare sua casa para qualquer estação com máxima economia e tecnologia de ponta! Esse modelo da LG conta c...",
-    "originalPrice": null,
-    "currentPrice": 1781.0,
-    "discountPercentage": null,
-    "couponCode": "CONECTAML",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-split-lg-inverter-smart-ai-12000-btus-frio-branco/p/MLB64486812?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e69495e0.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:23:13.934201+00:00",
     "likesCount": 1
   }
 ]
