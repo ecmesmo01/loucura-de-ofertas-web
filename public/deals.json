@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6f23e10d",
+    "title": "Barra de Proteina Bold Bombom Crocante 40g",
+    "description": "A MELHOR BARRINHA QUE EXISTE  Display com 12 Un Barras de Proteína Bold 40g Bombom Crocante  De R$ 129 por R$ 73  Loja Oficial Bold no ML  🛒 Compre com desconto aqui: https://www.m...",
+    "originalPrice": 129.0,
+    "currentPrice": 73.0,
+    "discountPercentage": 43,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/barra-de-proteina-bold-bombom-crocante-40g/p/MLB55847583?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6f23e10d.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T15:46:18.536908+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3b7642f7",
     "title": "JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos",
     "description": "🎁 JBL, Caixa de Som, PartyBox Stage 320, Bluetooth, Portátil, Show de Luzes, À Prova de Respingos - 240W RMS - Preta  🔥 POR: R$ 2.184,05 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T15:05:30.606031+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-23a280f1",
-    "title": "Notebook Lenovo IdeaPad Slim 3 RYZEN 7",
-    "description": "🔥 Notebook Lenovo IdeaPad Slim 3 RYZEN 7  - Ryzen 7 7735HS (8 núcleos e 16 threads) - Painel IPS - 8GB RAM (expansível) - 256GB SSD (Expansível) - PLACA DE VÍDEO Radeon™ 680M (inte...",
-    "originalPrice": null,
-    "currentPrice": 3238.0,
-    "discountPercentage": null,
-    "couponCode": "BLACK199",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0G22R3QLT?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-23a280f1.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T15:05:04.443801+00:00",
     "likesCount": 1
   }
 ]
