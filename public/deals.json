@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7a208a8f",
+    "title": "Tablet Samsung Galaxy TAB A11+, 128GB, 6GB RAM, WiFi",
+    "description": "🎁 Tablet Samsung Galaxy TAB A11+, 128GB, 6GB RAM, WiFi  🔥 Por R$ 1.209,00 💳 ou em 12x no cartão 🎟️ Cupom: BLACK120  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEIT...",
+    "originalPrice": null,
+    "currentPrice": 1209.0,
+    "discountPercentage": null,
+    "couponCode": "BLACK120",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G4SLJNFF?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7a208a8f.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T19:13:27.419784+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0918ba29",
     "title": "Headset Gamer com Microfone Havit H2002d, 53mm, Conector 3,5mm | Compatível com Xbox One e PS4",
     "description": "🎁 Headset Gamer com Microfone Havit H2002d, 53mm, Conector 3,5mm | Compatível com Xbox One e PS4  🔥 Por: R$ 119,99 💳 ou em 3x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoqu...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T18:23:25.879349+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-768026f8",
-    "title": "Chinelo Havaianas Brasil Bandeira Bandeirinha Original Cores",
-    "description": "HAVAIANAS COM BANDEIRINHA  Havaianas Bandeirinha Brasil (4 cores)  De R$ 64 por R$ 37 no Pix  Vendido por Loja Oficial no ML  🛒 Compre com desconto aqui: https://produto.mercadoliv...",
-    "originalPrice": 64.0,
-    "currentPrice": 37.0,
-    "discountPercentage": 42,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5300504104-chinelo-havaianas-brasil-bandeira-bandeirinha-original-cores-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-768026f8.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T18:23:24.305666+00:00",
     "likesCount": 1
   }
 ]
