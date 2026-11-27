@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7c9269c9",
+    "title": "Smart TV 65\" 4K UHD Philips 65PUG7231/78 Google TV Dolby",
+    "description": "📺 **Smart TV 65\" 4K UHD Philips 65PUG7231/78 Google TV Dolby**  Quer transformar sua sala em um verdadeiro cinema? Essa é a oportunidade perfeita para garantir uma tela gigante de...",
+    "originalPrice": null,
+    "currentPrice": 2554.0,
+    "discountPercentage": null,
+    "couponCode": "CONECTAML",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-65-4k-uhd-philips-65pug723178-google-tv-dolby/p/MLB2112103819?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7c9269c9.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:15:24.962726+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7289991d",
     "title": "Cerveja Premium 5L Barril Heineken",
     "description": "🍺 **Cerveja Premium 5L Barril Heineken**  Para garantir o chopp gelado perfeito direto na sua casa com aquele preço que vale a pena aproveitar! 🍻  💰 Por apenas: R$ 70,00 🏷️ Use o c...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:13:10.837656+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-773ca7f3",
-    "title": "ASUS TUF Gaming F16",
-    "description": "🔥 **Notebook ASUS TUF Gaming F16 Intel Core 5 210H, 8GB RAM, 512GB SSD, RTX 4050 140W, Tela 16\" 144Hz, Linux**  Procurando uma máquina poderosa para rodar seus jogos favoritos e so...",
-    "originalPrice": null,
-    "currentPrice": 5003.0,
-    "discountPercentage": null,
-    "couponCode": "TECH500",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0F6GGBRYR?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-773ca7f3.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:10:42.719013+00:00",
     "likesCount": 1
   }
 ]
