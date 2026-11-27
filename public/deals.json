@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-bb95e212",
+    "title": "Tênis Kappa Park 2.0 Original Unissex",
+    "description": "🔥 **Tênis Kappa Park 2.0 Original Unissex**  Procurando um tênis versátil, confortável e com preço de ocasião? O modelo Park 2.0 da Kappa é perfeito para caminhadas, academia e o d...",
+    "originalPrice": 169.0,
+    "currentPrice": 58.0,
+    "discountPercentage": 66,
+    "couponCode": "AGORAMODA",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4049279695-tnis-kappa-park-20-original-unissex-caminhada-academia-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-bb95e212.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:18:45.206209+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b08be0c7",
     "title": "Kit 3 Pares Meia Lupo Academia Dry Anti-Bolha Corrida",
     "description": "🔥 **Kit 3 Pares Meia Lupo Academia Dry Anti-Bolha Corrida**  Eleve o nível dos seus treinos com o máximo de conforto e tecnologia! O kit essencial para atletas e praticantes de ati...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:26:15.439940+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-824d1abe",
-    "title": "Lavadora Midea Wave Agitator 13kg Cor Branco",
-    "description": "🔥 **Lavadora Midea Wave Agitator 13kg Cor Branco**  Procurando a lavadora perfeita para facilitar o seu dia a dia na lavanderia? Esse modelo da Midea entrega alta capacidade de 13k...",
-    "originalPrice": null,
-    "currentPrice": 1249.0,
-    "discountPercentage": null,
-    "couponCode": "RENOVACASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lavadora-midea-wave-agitator-13kg-cor-branco/p/MLB46230872?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-824d1abe.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:25:13.693598+00:00",
     "likesCount": 1
   }
 ]
