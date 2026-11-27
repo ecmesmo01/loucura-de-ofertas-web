@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3ab99766",
+    "title": "Smirnoff Ice Tropical 275ml",
+    "description": "🚨 80% OFF SMIRNORFF  🏷 Cupom: 80OFFSMFJKLM  ➡️ Não há mais unidades desse produto no seu carrinho. ✅ De R$ 8 por R$ 1,14 😱😱  ➡️ Não há mais unidades desse produto no seu carrinho....",
+    "originalPrice": 8.0,
+    "currentPrice": 1.14,
+    "discountPercentage": 86,
+    "couponCode": "80OFFSMFJKLM",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smirnoff-ice-tropical-275ml/p/MLB61988695?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3ab99766.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T20:57:18.544242+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-0f85c004",
     "title": "Kit 6 Cuecas Boxer Lupo Sem Costura Box Microfibra Original",
     "description": "CORREEE, BAIXOU A GOAT DAS CUECAS  Kit com 6 Cuecas Lupo Boxer sem Costura  De R$ 259 por R$ 82 no Pix Use o Cupom: MODARELAMPAGO 🎟️ + Selecione Pix  Vendido por Loja Oficial no ML...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T19:37:34.652862+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-34f2c6be",
-    "title": "Controle Sem Fio Dualsense Chroma Pearl Ps5 Sony",
-    "description": "🔥 Controle Sony Dualsense Ps5, Sem Fio, Chroma Pearl  🚨 R$ 334 🎟️ Cupom: WEUYRUE  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/controle-sem-fio-dualsense-chroma-pear...",
-    "originalPrice": null,
-    "currentPrice": 334.0,
-    "discountPercentage": null,
-    "couponCode": "WEUYRUE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/controle-sem-fio-dualsense-chroma-pearl-ps5-sony/p/MLB41542255?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-34f2c6be.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T19:35:22.620807+00:00",
     "likesCount": 1
   }
 ]
