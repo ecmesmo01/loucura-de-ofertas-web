@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8de49c54",
+    "title": "Apple AirPods 5 ​​​​​​​",
+    "description": "🎁 Apple AirPods 5 ​​​​​​​  💸 De: R$ 1.499,00 🔥 POR: R$ 995,00 🎟️ Cupom: 15IMPERDIVEL ✅ Exclusivo Prime  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto...",
+    "originalPrice": 1499.0,
+    "currentPrice": 995.0,
+    "discountPercentage": 34,
+    "couponCode": "15IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HJB9STFM?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8de49c54.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T01:15:45.029555+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a6a38f70",
     "title": "Serra Marmore 110mm 1300w com 2 Discos 4100nh3zx2 Makita Profissional",
     "description": "CORREEEEEE, MENOR PREÇO JÁ VISTO   Serra Mármore 110mm 1300W Com 2 Discos 4100NH3ZX2 Makita 220V  De R$ 409 por R$ 163 no Pix Use o Cupom: L40CTTM249BF 🎟️ + Selecione Pix  Vendido...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T23:41:06.942550+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f21bc58b",
-    "title": "Fonte Gigabyte P650g Pg5 650w 80 Plus Gold Pfc Ativo Preto",
-    "description": "➡️ Fonte Gigabyte P650g Pg5, 650W, 80 Plus Gold, Pfc Ativo, Preto 28200-P65g5-1Cbrr  ✅ R$ 219 😱😱 🏷 Cupom: SOHOJE  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/fonte-...",
-    "originalPrice": null,
-    "currentPrice": 219.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/fonte-gigabyte-p650g-pg5-650w-80-plus-gold-pfc-ativo-preto/p/MLB64253730?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f21bc58b.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T23:40:18.021093+00:00",
     "likesCount": 1
   }
 ]
