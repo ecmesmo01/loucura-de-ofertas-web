@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-caf0fad2",
+    "title": "Cadeira Escritorio Ajustavel Apoio Braco Tecido Respiravel Preto",
+    "description": "PERFEITA PRO SEU HOME OFFICE  Cadeira de Escritório Ergonômica Ravena Apoio Lombar e Nuca  De R$ 409 por R$ 132 no Pix  Loja Oficial WebShop no ML  🛒 Compre com desconto aqui: http...",
+    "originalPrice": 409.0,
+    "currentPrice": 132.0,
+    "discountPercentage": 68,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/cadeira-escritorio-ajustavel-apoio-braco-tecido-respiravel-preto/p/MLB63335697?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-caf0fad2.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T23:10:46.279002+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-bae7c43c",
     "title": "1Kg Creatina Suplemento Monohidratada em Pó 100% Pura Importada Soldiers Nutrition",
     "description": "➡️ 1Kg Creatina Suplemento Monohidratada em Pó 100% Pura Importada Soldiers Nutrition  ✅ R$ 45 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/347988064/9212570285?__...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T21:14:44.706318+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b54c582b",
-    "title": "Amazon Echo Dot (Geração mais recente), Smart speaker compacto com som espetacular e casa inteligent",
-    "description": "🎁 Amazon Echo Dot (Geração mais recente), Smart speaker compacto com som espetacular e casa inteligente, o Melhor Echo Dot, Ideal para quartos, home office, Desenvolvido para Alexa...",
-    "originalPrice": null,
-    "currentPrice": 655.2,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GMKBR3QH?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b54c582b.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T21:14:42.474282+00:00",
     "likesCount": 1
   }
 ]
