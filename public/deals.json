@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5037601a",
+    "title": "Placa de Vídeo ASRock RX 7600 Challenger Pro OC 8GB GDDR6 90-GA62ZZ",
+    "description": "🎁 Placa de Vídeo ASRock RX 7600 Challenger Pro OC 8GB GDDR6 90-GA62ZZ-00UANF | Placa de vídeo com 8GB GDDR6, FSR e Ray Tracing para jogos e aplicações gráficas em computadores desk...",
+    "originalPrice": null,
+    "currentPrice": 2041.99,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0G6FCDZMK?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5037601a.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T19:38:35.133022+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-2eb4e7aa",
     "title": "Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 127V",
     "description": "🎁 Electrolux Geladeira Electrolux Frost Free 320L Duplex Branca (TF38) 127V  🔥 Por: R$ 2.099,00 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROV...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T18:44:34.061204+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-03992e35",
-    "title": "Gabinete Gamer Kalkan Midgard Preto Micro Atx Rgb",
-    "description": "➡️ Gabinete Gamer Obsid Frame Preto Vidro Mid Tower  ✅ R$ 268 😱😱 🏷 Cupom: BLACKMELI  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/gabinete-gamer-kalkan-midgard-preto...",
-    "originalPrice": null,
-    "currentPrice": 268.0,
-    "discountPercentage": null,
-    "couponCode": "BLACKMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/gabinete-gamer-kalkan-midgard-preto-micro-atx-rgb/p/MLB58033522?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-03992e35.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T18:44:32.548260+00:00",
     "likesCount": 1
   }
 ]
