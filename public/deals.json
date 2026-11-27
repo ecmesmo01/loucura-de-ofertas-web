@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-eac03313",
+    "title": "Smart TV Hisense 50\" Hi-QLED 4K 50QD6SF",
+    "description": "🔥 **Smart TV Hisense 50\" Hi-QLED 4K 50QD6SF**  Quer dar um upgrade na sua sala com imagens impressionantes em 4K e tecnologia QLED? Essa é a sua chance de garantir uma tela gigante...",
+    "originalPrice": 2089.0,
+    "currentPrice": 1663.0,
+    "discountPercentage": 20,
+    "couponCode": "RENOVASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-hisense-4k-50-polegadas-50qd6sf-hi-qled/p/MLB2122463891?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-eac03313.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:43:31.211004+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-78ae20f1",
     "title": "Relógio Tommy Hilfiger Toc Masculino Em Couro Preto 1791819",
     "description": "🔥 **Relógio Tommy Hilfiger Toc Masculino Em Couro Preto 1791819**  Elegância e sofisticação no menor preço que já postamos por aqui! Perfeito para completar o visual com muito esti...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T10:01:08.082292+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a4e038d9",
-    "title": "Perfume 212 Vip Black 200 ml Carolina Herrera EDP Masculino",
-    "description": "🔥 **Perfume 212 Vip Black 200 ml Carolina Herrera EDP Masculino**  O clássico moderno e sofisticado da Carolina Herrera com um super desconto que acabou de rolar! Ideal para quem q...",
-    "originalPrice": 1049.0,
-    "currentPrice": 643.0,
-    "discountPercentage": 39,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-212-vip-black-200-ml-carolina-herrera-edp-masculino/p/MLB35413857?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a4e038d9.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-27T10:00:07.434329+00:00",
     "likesCount": 1
   }
 ]
