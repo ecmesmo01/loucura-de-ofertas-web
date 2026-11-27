@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f93e9ad3",
+    "title": "Smartphone Motorola Moto G67 5G",
+    "description": "🎁 Smartphone Motorola Moto G67 5G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Claro  🔥 POR: R$ 866 no Pix 🎟...",
+    "originalPrice": null,
+    "currentPrice": 866.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GLQPPTLR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f93e9ad3.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T18:24:55.949227+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-e1299ce0",
     "title": "Sofa Retratil Reclinavel Aconchego 230m Boucle Cinza",
     "description": "CORRE SOFAZÃO NOVO NO PREÇÃO  Sofá Retrátil Reclinável Aconchego 2,30m Bouclê Cinza Liso  De R$ 3.002 por R$ 1.269 no Pix Aplique o Cupom de 5% OFF do Anúncio + Use o Cupom: CUPONO...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T17:10:29.846177+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-592fbc89",
-    "title": "Geladeira Electrolux Frost Free 431l Bivolt Inox Es40s",
-    "description": "➡️ Geladeira Electrolux Frost Free 431l Bivolt Inox (es40s)  ✅ R$ 4.043 😱😱 🏷 Cupom: SUPEROFF ou TECHONOMELI  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/geladeira-e...",
-    "originalPrice": null,
-    "currentPrice": 4043.0,
-    "discountPercentage": null,
-    "couponCode": "SUPEROFF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-electrolux-frost-free-431l-bivolt-inox-es40s/p/MLB66364006?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-592fbc89.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T17:08:46.339847+00:00",
     "likesCount": 1
   }
 ]
