@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9a7f4797",
+    "title": "Notebook IdeaPad Slim 3i",
+    "description": "🔥 Notebook IdeaPad Slim 3i  - PAINEL IPS - i5-13420H (8 núcleos e 12 threads) - 8GB RAM DDR5 (EXPANSÍVEL) - 256GB SSD (EXPANSÍVEL) - LINUX  💵 R$ 2897 REAIS  🎟️ Cupom: 25IMPERDIVEL...",
+    "originalPrice": null,
+    "currentPrice": 2897.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GL39RFGC?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9a7f4797.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T22:52:43.300239+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8fd59696",
     "title": "Smart Tv 50\" Philco Qled Uhd Roku P50cra",
     "description": "➡️ Smart Tv 50\" Philco Qled Uhd Roku P50cra  ✅ R$ 1.398 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/811034337/58207219245?__mobile__=1&credential_token=3fbCuxANXU...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T21:09:42.509175+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-65958b04",
-    "title": "Pedigree Biscrok Petisco para Cachorro Adulto Multi Sabor 1kg",
-    "description": "CORREEEEEEEEE, TÁ DADO ESSE PETISCO  Petisco Pedigree Biscrok para Cães Adultos 1Kg  De R$ 38 por R$ 9 no Pix  Loja Oficial Pedigree no ML  🛒 Compre com desconto aqui: https://www....",
-    "originalPrice": 38.0,
-    "currentPrice": 9.0,
-    "discountPercentage": 76,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/pedigree-biscrok-petisco-para-cachorro-adulto-multi-sabor-1kg/p/MLB16197133?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-65958b04.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T21:09:41.182092+00:00",
     "likesCount": 1
   }
 ]
