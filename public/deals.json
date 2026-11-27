@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-09bcce68",
+    "title": "Smart TV 50\" Samsung Mini LED 4K M75H",
+    "description": "🔥 **Smart TV 50\" Samsung Mini LED 4K M75H**  Procurando a imagem perfeita para sua sala? A tecnologia Mini LED chegou para entregar cores vibrantes, contraste absurdo e um preto mu...",
+    "originalPrice": 3627.0,
+    "currentPrice": 2189.0,
+    "discountPercentage": 40,
+    "couponCode": "RENOVACASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/samsung-smart-tv-50-mini-led-4k-m75h-262027/p/MLB75994421?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-09bcce68.jpg",
+    "store": "mercadolivre",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:02:08.447720+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7dcb8af6",
     "title": "Micro-ondas Electrolux Efficient 20L Branco Função Descongelar e Receitas Pré-Programadas (ME20B)",
     "description": "🔥 **Micro-ondas Electrolux Efficient 20L Branco Função Descongelar e Receitas Pré-Programadas (ME20B)**  Procurando praticidade de verdade para a sua cozinha? Esse modelo da Electr...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:01:15.139811+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-6d6b252e",
-    "title": "Óculos de Sol Hexagonal Premium UV400 Flexível",
-    "description": "🕶️ **Óculos de Sol Hexagonal Premium UV400 Flexível**  O acessório perfeito para elevar o seu estilo com muito conforto e proteção! Modelo flexível de alta qualidade da Loja Oficia...",
-    "originalPrice": 139.0,
-    "currentPrice": 71.0,
-    "discountPercentage": 49,
-    "couponCode": "FORTUNABLACKNOV",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3456878485-oculos-de-sol-preto-qualidade-original-cacife-brand-uv400-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6d6b252e.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:01:01.317118+00:00",
     "likesCount": 1
   }
 ]
