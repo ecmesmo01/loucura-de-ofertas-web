@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-196b0919",
+    "title": "Vodka Smirnoff 175l",
+    "description": "80% OFF SMIRNORFF  ➡️ Vodka Smirnoff 1,75L  ✅ De R$ 63,90 por R$ 8 😱😱 🏷 Cupom: 80OFFSMFJKLM  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/vodka-smirnoff-175l/p/MLB18...",
+    "originalPrice": 63.9,
+    "currentPrice": 8.0,
+    "discountPercentage": 87,
+    "couponCode": "80OFFSMFJKLM",
+    "affiliateUrl": "https://www.mercadolivre.com.br/vodka-smirnoff-175l/p/MLB18308305?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-196b0919.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T20:56:40.184232+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-492a3c42",
     "title": "Vodka Smirnoff 998ml",
     "description": "80% OFF SMIRNORFF  ➡️ Vodka Smirnoff 998ml  ✅ De R$ 41,90 por R$ 5,60 😱😱 🏷 Cupom: 80OFFSMFJKLM  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/vodka-smirnoff-998ml/p/M...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T19:33:36.402290+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-575c656c",
-    "title": "Placa de Video Pcyes Rtx 3060 Ti 8gb Gddr6 Pvr30608tgr6df3",
-    "description": "➡️ Placa de Vídeo Pcyes RTX 3060 Ti 8GB GDDR6 PVR30608TGR6DF3  ✅ R$ 2.253 😱😱 🏷 Cupom: MEUDESCONTOBLACK  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/placa-de-video-p...",
-    "originalPrice": null,
-    "currentPrice": 2253.0,
-    "discountPercentage": null,
-    "couponCode": "MEUDESCONTOBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/placa-de-video-pcyes-rtx-3060-ti-8gb-gddr6-pvr30608tgr6df3/p/MLB80066214?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-575c656c.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T19:32:36.609300+00:00",
     "likesCount": 1
   }
 ]
