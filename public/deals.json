@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-5326d55d",
+    "title": "Apple iPhone 17e de 512GB — Rosa-pálido",
+    "description": "🎁 Apple iPhone 17e de 512GB — Rosa-pálido  🔥 POR: R$ 4.634,77 no PIX 🎟️ Cupom: 25IMPERDIVEL  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🚀 A BLACK FRIDAY CHEGOU!  🛒 Compr...",
+    "originalPrice": null,
+    "currentPrice": 4634.77,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GTS9RWW3?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5326d55d.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T04:18:14.363546+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8c72f569",
     "title": "Caixa de Som Boombox Philco Extreme Bluetooth V54 300w Pbx01",
     "description": "Caixa de Som Boombox Philco Extreme 300W Bluetooth -  R$733 no PIX #anúncio  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/caixa-de-som-boombox-philco-extreme-bluetoo...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:34:36.245292+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-c5926a99",
-    "title": "Ar Condicionado Split Lg Inverter Smart Ai 12000 Btus Frio Branco",
-    "description": "TÁ VALENDO DEMAIS, corre que tá esgotando o cupom  Ar Condicionado Split HW LG AI Smart Inverter Voice 12000 BTUs Frio 220V  De R$ 2.799 por R$ 1.748 no Pix Use o Cupom: GANHEBLACK...",
-    "originalPrice": 2799.0,
-    "currentPrice": 1748.0,
-    "discountPercentage": 38,
-    "couponCode": "GANHEBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/ar-condicionado-split-lg-inverter-smart-ai-12000-btus-frio-branco/p/MLB64486812?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-c5926a99.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:34:34.765853+00:00",
     "likesCount": 1
   }
 ]
