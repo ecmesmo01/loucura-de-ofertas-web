@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-86ac4090",
+    "title": "Notebook GAMER Acer Nitro V16 RTX 5060",
+    "description": "🔥 Notebook GAMER Acer Nitro V16 RTX 5060  - Core 5 210H - PAINEL IPS - RTX 5060 8GB (75w) - 8GB RAM (EXPANSÍVEL) - 512gb ssd (EXPANSÍVEL) - LINUX  💵 R$ 5999 REAIS (NO PIX)  🔗 LINK:...",
+    "originalPrice": null,
+    "currentPrice": 5999.0,
+    "discountPercentage": null,
+    "couponCode": "ESTOQUE",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HP47RFN5?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-86ac4090.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T18:58:27.879919+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-840525e0",
     "title": "Tnis Fila Speed Lite Masculino Academia Corrida Confortavel",
     "description": "FILA FOCADO Loja Oficial CenterSport no ML  Tênis Fila Focus Bege  De R$ 369 por R$ 165  Cupom: BLACKMELI 🎟️  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-62...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T17:49:03.513767+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-059f6a79",
-    "title": "Fritadeira Sem Óleo Arno Air Fryer Mega AFM7, 7,5L, Tecnologia Extra Crocância, Super Silenciosa, Pr",
-    "description": "🎁 Fritadeira Sem Óleo Arno Air Fryer Mega AFM7, 7,5L, Tecnologia Extra Crocância, Super Silenciosa, Preta, 1700W, 110V  🔥 POR: R$ 359,00 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço...",
-    "originalPrice": null,
-    "currentPrice": 359.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0DTBTBCK2?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-059f6a79.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T17:48:30.716519+00:00",
     "likesCount": 1
   }
 ]
