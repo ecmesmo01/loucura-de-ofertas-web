@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-45864f94",
+    "title": "Bundle Nintendo Switch 2 + EA Sports FC 27",
+    "description": "🎁 Bundle Nintendo Switch 2 + EA Sports FC 27  🔥 Por R$ 3.519,00 🎟️ Resgate o cupom abaixo do preço  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!...",
+    "originalPrice": null,
+    "currentPrice": 3519.0,
+    "discountPercentage": null,
+    "couponCode": "ESTOQUE",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HKYBZRN1?tag=loucuradeo0dc-20",
+    "imageUrl": "https://images.unsplash.com/photo-1600080972464-8e5f35f63d08?w=600&auto=format&fit=crop&q=80",
+    "store": "amazon",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T21:53:39.976219+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8f1d19e8",
     "title": "Smartphone Motorola Signature 5G 512GB 12GB RAM + 12GB RAM Boost, 3 cameras 50MP Sony Lytia e Zoom 1",
     "description": "🎁 Smartphone Motorola Signature 5G 512GB 12GB RAM + 12GB RAM Boost, 3 cameras 50MP Sony Lytia e Zoom 100x, Tela 1.5K extreme Amoled 165hz - Preto  🔥 POR: R$ 3.131,00 à vista  🛒 Com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T20:37:38.514228+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2c107a12",
-    "title": "Geonav Carregador Universal Ultra Rápido, Power Delivery 25W, 1 Porta USB-C, CH25PDWT, Branco",
-    "description": "🎁 Geonav Carregador Universal Ultra Rápido, Power Delivery 25W, 1 Porta USB-C, CH25PDWT, Branco  🔥 POR: R$ 41,26 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 AP...",
-    "originalPrice": null,
-    "currentPrice": 41.26,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B09R8ZY2JN?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2c107a12.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T20:37:36.846382+00:00",
     "likesCount": 1
   }
 ]
