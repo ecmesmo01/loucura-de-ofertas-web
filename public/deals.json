@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-226eefc2",
+    "title": "Tênis Nike Court Vision Low Next Nature Masculino",
+    "description": "🔥 **Tênis Nike Court Vision Low Next Nature Masculino**  Estilo clássico das quadras com a sustentabilidade e o conforto que você já conhece. Garanta já o seu direto da loja oficia...",
+    "originalPrice": 599.99,
+    "currentPrice": 249.99,
+    "discountPercentage": 58,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2608162557-tnis-nike-court-vision-low-next-nature-masculino-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-226eefc2.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-27T10:22:10.547605+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a94bc78b",
     "title": "Placa de Vídeo Asus RTX 5060 Ti Dual O8G GeForce 8GB GDDR7",
     "description": "🔥 **Placa de Vídeo Asus RTX 5060 Ti Dual O8G GeForce 8GB GDDR7**  Quer levar o seu setup para o próximo nível? A nova RTX 5060 Ti com memória GDDR7 chegou entregando desempenho abs...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:44:35.951922+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8f25c3ca",
-    "title": "Smartphone Motorola Moto G67 5G",
-    "description": "🎁 Smartphone Motorola Moto G67 5G - 128GB 4GB RAM + 8GB RAM Boost camera 50MP Sony Lytia 600, tela 1.5K extreme Amoled 120hz, ultrarresistente - Verde Claro  🔥 POR: R$ 866 no Pix 🎟...",
-    "originalPrice": null,
-    "currentPrice": 866.0,
-    "discountPercentage": null,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0GLQPPTLR?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8f25c3ca.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:44:32.995136+00:00",
     "likesCount": 1
   }
 ]
