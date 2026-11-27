@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-8e5980b4",
+    "title": "Tenis Jada Feminino Puma",
+    "description": "‼️CUPOM MELI‼️  Use o cupom *MODARELAMPAGO* para ganhar 15% de desconto em produtos selecionados. Compra mínima de 69 reais e limite de desconto de 50 reais.  Tênis Puma feminino (...",
+    "originalPrice": 184.0,
+    "currentPrice": 166.0,
+    "discountPercentage": 10,
+    "couponCode": "MELI",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-jada-feminino-puma/p/MLB62402242?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T21:57:40.479346+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c456a211",
     "title": "Camiseta Basica Masculina Algodo Lisa Malha Peruana Premium",
     "description": "33 CONTO NA MALHA PERUANA  Camiseta Malha Peruana Premium  De R$ 69 por R$ 33 no Pix  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-4020676149-camiseta-basica...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T20:39:44.463405+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-350ffabc",
-    "title": "Notebook ASUS TUF Gaming F16 RTX 3050 (VERSÃO COM 16GB RAM)",
-    "description": "🔥 Notebook ASUS TUF Gaming F16 RTX 3050 (VERSÃO COM 16GB RAM)  - Intel® Core™ 5 210H - PAINEL IPS- 16 POL - 144HZ - RTX 3050 6gb (65W) - 16GB RAM DDR5 (EXPANSÍVEL) - 512GB SSD (EXP...",
-    "originalPrice": null,
-    "currentPrice": 4527.0,
-    "discountPercentage": null,
-    "couponCode": "ESTOQUE",
-    "affiliateUrl": "https://shopee.com.br/opaanlp/1644527155/58273440861?__mobile__=1&credential_token=3fbCuxANXURcJ5pak9vWjWXdbVwdMspaDSoyyvEq6zTBV&d_id=0716b&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzo2gTGgEduQ2eDo-MpU9BM3xVfkW-KVQCA-mDeCnHmTagzkH63JNYhdNb45HCQ0QCzLhUEsvJwms3T5YU75rmRWIWZhdoh-gmRhOeDFCAaHgcIglba1U0tLkx5zmc_Ou3JfoYdUJecV2ZgHGGYd37gKXQ_nZQNYkkr7aoFv6xEbeQ6Rjupxi-OgTeav8XYO_1n3toAcw&mmp_pid=an_18386310690&uls_trackid=577tv6s500bs&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-350ffabc.jpg",
-    "store": "shopee",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T20:39:38.806877+00:00",
     "likesCount": 1
   }
 ]
