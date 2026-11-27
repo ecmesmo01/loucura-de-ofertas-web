@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-aeb1c676",
+    "title": "Echo Dot Smart Speaker com Alexa, Som Vibrante e Potente, Wi-Fi e Bluetooth – Cor Azul",
+    "description": "🔥 **Echo Dot Smart Speaker com Alexa, Som Vibrante e Potente, Wi-Fi e Bluetooth – Cor Azul**  Leve mais praticidade e entretenimento para a sua casa com a assistente de voz mais qu...",
+    "originalPrice": null,
+    "currentPrice": 289.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09B8QFYZ2?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-aeb1c676.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-27T11:25:07.243869+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-3dd261b2",
     "title": "Bomba Eletrica Portatil Digital para Encher Pneu de Carro Moto Bicicleta Inflador Automotivo Cor Pre",
     "description": "🔥 **Bomba Elétrica Portátil Digital para Encher Pneu de Carro, Moto e Bicicleta - Inflador Automotivo Cor Preto**  Caiu muito o preço! Chega de perrengue na estrada ou na rua. Essa...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T04:02:43.407229+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-2fe407fc",
-    "title": "Tnis Nike Court Vision Low Next Nature Masculino",
-    "description": "CASUAL DA NIKE PERFEITO PRA TUDO Loja Oficial Nike no ML  Tênis Nike Court Vision Low Next (38 a 43)  De R$ 599 por R$ 249 no Pix  🛒 Compre com desconto aqui: https://produto.merca...",
-    "originalPrice": 599.0,
-    "currentPrice": 249.0,
-    "discountPercentage": 58,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2608162557-tnis-nike-court-vision-low-next-nature-masculino-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2fe407fc.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T04:02:07.176672+00:00",
     "likesCount": 1
   }
 ]
