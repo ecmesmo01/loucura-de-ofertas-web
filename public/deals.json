@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a01e01de",
+    "title": "Maquina de Lavar Consul 16kg Titanium com Modo Eco Cwn16a9",
+    "description": "16KG CONSUL NO PRECINHO  Máquina de Lavar 16kg com Modo Eco Consul 110v (CWN16A9)  De R$ 2.104 por R$ 1.703 no Pix Use o Cupom: MODOCASA ou VIPTECH ou PROMOAGORA 🎟️  Loja Oficial M...",
+    "originalPrice": 2104.0,
+    "currentPrice": 1703.0,
+    "discountPercentage": 19,
+    "couponCode": "MODOCASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-16kg-titanium-com-modo-eco-cwn16a9/p/MLB67820977?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a01e01de.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T00:23:06.036060+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-32d57e88",
     "title": "Kit 4 Pneus 175/70R13 Goodyear Kelly Edge Touring 2 82T Aro 13",
     "description": "Kit 4 Pneus 175/70R13 Goodyear Kelly Edge Touring 2 82T Aro 13 -  R$863 #anúncio  -Resgate e use o cupom de R$100 OFF 👉  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/9...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T23:13:02.303501+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-8c42136d",
-    "title": "Perfume Arabe Thahaani 100ml",
-    "description": "CORRE, ÁRABE NO MENOR VALOR  Perfume Árabe Al Wataniah Thahaani EDP 100ml   De R$ 198 por R$ 106 Aplique o Cupom de R$ 30 OFF no Anúncio 🎟️ (logo abaixo do preço)  Vendido por Loja...",
-    "originalPrice": 198.0,
-    "currentPrice": 106.0,
-    "discountPercentage": 46,
-    "couponCode": "VENDIDO",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-arabe-thahaani-100ml/p/MLB74481609?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-8c42136d.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T23:12:52.602818+00:00",
     "likesCount": 1
   }
 ]
