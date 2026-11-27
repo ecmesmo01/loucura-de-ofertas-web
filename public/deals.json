@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-949fc52f",
+    "title": "Máquina de Lavar Consul 9Kg Branca com Dosagem Certa",
+    "description": "🔥 **Máquina de Lavar Consul 9Kg Branca com Dosagem Certa**  Praticidade e economia na medida certa para a sua lavanderia! Garanta roupas limpas com muito mais cuidado e eficiência,...",
+    "originalPrice": 1799.0,
+    "currentPrice": 1139.0,
+    "discountPercentage": 37,
+    "couponCode": "RENOVACASA",
+    "affiliateUrl": "https://www.mercadolivre.com.br/maquina-de-lavar-consul-9kg-branca-com-dosagem-c-branco/p/MLB77715277?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-949fc52f.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:58:45.465708+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-13ff255e",
     "title": "Monitor Gamer TCL 25\" QD Mini LED Full HD G64 300Hz 1ms",
     "description": "🔥 **Monitor Gamer TCL 25\" QD Mini LED Full HD G64 300Hz 1ms**  Procurando a performance definitiva para suas partidas? Esse monitor entrega taxa de atualização absurda de 300Hz, te...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:00:12.409974+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-d665a128",
-    "title": "Fone Basike Open Ear",
-    "description": "🎧 **Fone De Ouvido Basike Sem Fio Bluetooth Com Gancho Gamer Esportivo Baixa Latência 100h, Design Aberto**  Procurando o fone perfeito para treinar, jogar ou curtir suas músicas c...",
-    "originalPrice": null,
-    "currentPrice": 79.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/basike-fone-de-ouvido-sem-fio-bluetooth-com-gancho-gamer-esportivo-baixa-latencia-100h-design-aberto/p/MLB67646413?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-d665a128.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:59:15.372627+00:00",
     "likesCount": 1
   }
 ]
