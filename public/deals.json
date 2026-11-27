@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3ae10947",
+    "title": "Whey Protein Concentrado Soldiers Nutrition 1kg - Sabor Chocolate",
+    "description": "💪 **Whey Protein Concentrado Soldiers Nutrition 1kg - Sabor Chocolate**  Garanta sua dose diária de proteína com um preço imbatível para acelerar seus resultados nos treinos! Quali...",
+    "originalPrice": 179.0,
+    "currentPrice": 113.0,
+    "discountPercentage": 37,
+    "couponCode": "HORABLACK",
+    "affiliateUrl": "https://www.mercadolivre.com.br/proteina-soldiers-nutrition-suplementacao-whey-protein-em-po-sabor-chocolate-x-1kg/p/MLB18953097?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3ae10947.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T14:07:17.056697+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5107d0bf",
     "title": "Kit com 2 Creatina Monohidratada 600g Soldiers Nutrition 100% Pura",
     "description": "💪 **Kit com 2 Creatina Monohidratada 600g Soldiers Nutrition 100% Pura**  Seu estoque de treino está garantido com o melhor custo-benefício! Aproveite a oportunidade de garantir cr...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T12:50:15.938992+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b1c01026",
-    "title": "Perfume Jean Paul Gaultier Ultra Male Eau de Toilette Intense 125 ml Masculino",
-    "description": "🔥 **Perfume Jean Paul Gaultier Ultra Male Eau de Toilette Intense 125 ml Masculino**  Um dos amadeirados orientais mais desejados e marcantes da perfumeria mundial está com um desc...",
-    "originalPrice": 789.0,
-    "currentPrice": 429.0,
-    "discountPercentage": 46,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-jean-paul-gaultier-ultra-male-eau-de-toilette-intense-125-ml-masculino/p/MLB6155979?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b1c01026.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:49:15.146700+00:00",
     "likesCount": 1
   }
 ]
