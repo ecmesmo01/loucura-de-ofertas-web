@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a43f4e65",
+    "title": "Use o cupom *LIVELOBF10PB* para ganhar R$10 de desconto em compras acima de R$40 em qualquer loja",
+    "description": "‼️CUPOM SHOPEE‼️  Use o cupom *LIVELOBF10PB* para ganhar R$10 de desconto em compras acima de R$40 em qualquer loja  Kit 2 protetores solar facial Principia de ~R$60~ por *R$50* co...",
+    "originalPrice": 60.0,
+    "currentPrice": 50.0,
+    "discountPercentage": 17,
+    "couponCode": "SHOPEE",
+    "affiliateUrl": "https://shopee.com.br/opaanlp/373261329/22898980977?__mobile__=1&credential_token=3fbCuxANX4j1iQyAbmnGGiMbHHvq7WzcEgr28vssf9CCP&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTElwAAAAweImTysRBJga9gn7G7zv0GMd2MVrHsNxOQixcJ1Toq5X9A4W4cffivKqI2ejjHyfrzUIK_w1yRTUXWuXy2HbR-jG1YWxn-yQPYcp49vtuXAay1tcNqp4l51ZLiZbJMwEwNkAwNBFdyPnOYT2pBDFeYubHTSd0Y7b072rhIpqVQ-ugch1PSJx8lxEXDnBP8ItHwgfc&mmp_pid=an_18386310690&uls_trackid=577o24od00jl&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a43f4e65.jpg",
+    "store": "shopee",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T03:27:12.083503+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-8ca4cae5",
     "title": "Ar Condicionado Elgin 9000 Btus Inverter So Frio Classificacao a Idbr 70 Split High Wall Eco Inverte",
     "description": "VOU DORMIR NO GELADINHO  Ar Condicionado Split Midea Inverter Ai Airvolution 9000 Btu  De R$ 1.858 por R$ 1.480 no Pix  Cupom: LAOMCPAOD 🎟️  🛒 Compre com desconto aqui: https://www...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T02:45:47.335858+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-295040fc",
-    "title": "Kit Nuti Enrich Duo 2 L",
-    "description": "Kit Nuti-Enrich Duo Wella - 2 L - R$196,00 #anúncio Cupom: AMOPADTYQID  Loja oficial Wella  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/kit-nuti-enrich-duo-2-l/p/ML...",
-    "originalPrice": null,
-    "currentPrice": 196.0,
-    "discountPercentage": null,
-    "couponCode": "AMOPADTYQID",
-    "affiliateUrl": "https://www.mercadolivre.com.br/kit-nuti-enrich-duo-2-l/p/MLB73536601?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-295040fc.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T02:45:45.987940+00:00",
     "likesCount": 1
   }
 ]
