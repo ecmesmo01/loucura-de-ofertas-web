@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-1884fa95",
+    "title": "Placa Mãe ASRock B450M-HDV R4.0 AMD AM4 mATX DDR4 Preto",
+    "description": "🔥 **Placa Mãe ASRock B450M-HDV R4.0 AMD AM4 mATX DDR4 Preto**  Procurando o melhor custo-benefício para montar ou dar um *upgrade* no seu PC gamer? Essa é a oportunidade perfeita p...",
+    "originalPrice": null,
+    "currentPrice": 256.0,
+    "discountPercentage": null,
+    "couponCode": "HORABLACK",
+    "affiliateUrl": "https://www.mercadolivre.com.br/placa-mae-asrock-b450m-hdv-r40-b450-amd-am4-matx-ddr4-preto/p/MLB22661333?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-1884fa95.jpg",
+    "store": "mercadolivre",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:23:24.767853+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-18eda8b4",
     "title": "Caixa com 12 Barras de Proteína Protein Crisp Bar Sabor Ovomaltine Integralmédica",
     "description": "🔥 **Caixa com 12 Barras de Proteína Protein Crisp Bar Sabor Ovomaltine Integralmédica**  Se você busca um snack proteico delicioso e crocante para o dia a dia, essa é simplesmente...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:28:19.508850+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-568f9718",
-    "title": "Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L",
-    "description": "🔥 **Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L**  Transforme sua rotina de cuidados capilares com o tratamento de salão que seus cabelos merecem! O **...",
-    "originalPrice": null,
-    "currentPrice": 206.1,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0HNMFS6J9?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-568f9718.jpg",
-    "store": "amazon",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:26:55.975727+00:00",
     "likesCount": 1
   }
 ]
