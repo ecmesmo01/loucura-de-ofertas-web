@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-773ca7f3",
+    "title": "ASUS TUF Gaming F16",
+    "description": "🔥 **Notebook ASUS TUF Gaming F16 Intel Core 5 210H, 8GB RAM, 512GB SSD, RTX 4050 140W, Tela 16\" 144Hz, Linux**  Procurando uma máquina poderosa para rodar seus jogos favoritos e so...",
+    "originalPrice": null,
+    "currentPrice": 5003.0,
+    "discountPercentage": null,
+    "couponCode": "TECH500",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F6GGBRYR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-773ca7f3.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:10:42.719013+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5d960d07",
     "title": "Smart TV 4K 65\" LG Nano UHD AI Nu850 2026 Processador 7 Ger9",
     "description": "🔥 **Smart TV 4K 65\" LG Nano UHD AI Nu850 2026 Processador 7 Ger9**  Procurando uma experiência de cinema em casa com tecnologia de ponta? A nova gigante da LG de 65 polegadas está...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:51:51.061992+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-92b96a15",
-    "title": "Tenis Flyer Runner Mesh Feminino Puma",
-    "description": "‼️CUPOM MELI‼️  Use o cupom *CORREBLACK* para ganhar 25% de desconto em produtos selecionados. Compra mínima de 79 reais e limite de desconto de 100 reais.  Tênis Puma Runner Flyer...",
-    "originalPrice": 180.0,
-    "currentPrice": 135.0,
-    "discountPercentage": 25,
-    "couponCode": "MELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-feminino-puma/p/MLB65639488?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&auto=format&fit=crop&q=80",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-27T03:51:34.029714+00:00",
     "likesCount": 1
   }
 ]
