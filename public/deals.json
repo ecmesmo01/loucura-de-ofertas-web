@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-2aadb38e",
+    "title": "Lavadora de Alta Pressão Bosch GHP 200",
+    "description": "🔥 **Lavadora de Alta Pressão Bosch GHP 200**  Limpeza pesada sem esforço! Garanta a sua lavadora profissional com um super desconto por tempo limitado. Potência e eficiência que vo...",
+    "originalPrice": null,
+    "currentPrice": 598.0,
+    "discountPercentage": null,
+    "couponCode": "SOHOJEBF",
+    "affiliateUrl": "https://www.mercadolivre.com.br/lavadora-de-alta-pressao-bosch-ghp-200/p/MLB40826496?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-2aadb38e.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:09:13.179462+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b8c97e48",
     "title": "Relógio Tommy Hilfiger David Masculino",
     "description": "🔥 **Relógio Tommy Hilfiger David Masculino**  Um relógio marcante, sofisticado e com aquele toque de estilo que faz toda a diferença no visual. Perfeito para acompanhar você em qua...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:08:13.432184+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-28a15c32",
-    "title": "ASUS VivoBook Go 15",
-    "description": "🔥 **Notebook ASUS VivoBook Go 15 AMD Ryzen 5 7520U 8GB RAM 512GB SSD KeepOS/Linux Tela 15.6\" FHD Mixed Black E1504FA-NJ732**  Procurando um notebook moderno, rápido e com ótimo esp...",
-    "originalPrice": null,
-    "currentPrice": 2519.0,
-    "discountPercentage": null,
-    "couponCode": "7CJMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-asus-vivobook-go-15-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-keeposlinux-tela-156-fhd-mixed-black-e1504fa-nj732/p/MLB35715045?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-28a15c32.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:08:11.622147+00:00",
     "likesCount": 1
   }
 ]
