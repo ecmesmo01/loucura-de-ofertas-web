@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-30934dd9",
+    "title": "Kit Cetaphil Hidratante (2 Unidades)",
+    "description": "🎁 Kit Cetaphil Hidratante (2 Unidades)  🔥 POR: R$ 119,75 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B0F...",
+    "originalPrice": null,
+    "currentPrice": 119.75,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FHBNQQFV?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-30934dd9.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T00:52:22.115111+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-c14f9909",
     "title": "Fone de Ouvido Qcy T27 Arcbuds Lite In Ear Sem Fio Bluetooth 53 Bateria de 32h Ipx5 Cor Preto",
     "description": "NGM É OBRIGADO OUVIR A PLAYLIST DA ACADEMIA   Fone de ouvido Bluetooth QCY T27 - loja oficial QCY no ML - use o cupom GARANTAJAHJ  de 185 por 92,01 à vista  🛒 Compre com desconto a...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T23:26:05.847590+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-91345fb5",
-    "title": "Fone de ouvido sem fio TWS Philips TAT1209BK/00 na cor preto, com bluetooth, microfone, tecnologia I",
-    "description": "🎁 Fone de ouvido sem fio TWS Philips TAT1209BK/00 na cor preto, com bluetooth, microfone, tecnologia IPX4 e 18 horas de reprodução.  🔥 POR: R$ 102,00 🎟️ Cupom: CUPOMAMAZON  🛒 Compr...",
-    "originalPrice": null,
-    "currentPrice": 102.0,
-    "discountPercentage": null,
-    "couponCode": "CUPOMAMAZON",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CS3RHBZQ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-91345fb5.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T23:26:03.903290+00:00",
     "likesCount": 1
   }
 ]
