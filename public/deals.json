@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-32bab3e0",
+    "title": "Kit Principia para Rotina de Skincare Pele Sensivel com Protetor Solar Fps 60",
+    "description": "PRECINHO HONESTO NA PRINCIPIA Loja Oficial Principia no ML  Kit Principia para Rotina de Skincare Pele Sensível com Protetor Solar FPS 60  De R$ 137 por R$ 67 no Pix  🛒 Compre com...",
+    "originalPrice": 137.0,
+    "currentPrice": 67.0,
+    "discountPercentage": 51,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/kit-principia-para-rotina-de-skincare-pele-sensivel-com-protetor-solar-fps-60/p/MLB53618239?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-32bab3e0.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T17:57:27.386727+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a96e24e3",
     "title": "NOTEBOOK Lenovo IdeaPad Slim 3i (VERSÃO COM TELA TOUCH + W11)",
     "description": "🔥 NOTEBOOK Lenovo IdeaPad Slim 3i (VERSÃO COM TELA TOUCH + W11)  - PAINEL IPS - i5-13420H (8 núcleos e 12 threads) - 8GB RAM DDR5 (EXPANSÍVEL) - 512GB SSD (EXPANSÍVEL)  💵 R$ 3299 R...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T16:37:22.890087+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ef3de8cb",
-    "title": "Placa de Vídeo Gigabyte RX 9050 GAMING OC 8GB AMD Radeon, 8GB GDDR6, 128bit GV",
-    "description": "➡️ Placa de Vídeo Gigabyte RX 9050 GAMING OC 8GB AMD Radeon, 8GB GDDR6, 128bit GV-R9050GAMING OC-8GD  ✅ R$ 1.721 😱😱  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/19301...",
-    "originalPrice": null,
-    "currentPrice": 1721.0,
-    "discountPercentage": null,
-    "couponCode": "DE-DESCONTO",
-    "affiliateUrl": "https://shopee.com.br/opaanlp/1930141978/58220526038?__mobile__=1&credential_token=3fbCuxANXURcHdKccQrozu7LHf3BRpaaAr94fcRvQXQgo&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAyOAWfhwWnkn52eQLnT5TsYeeQFALM2Y7yNOCU5f7sSlnt5sBmK5hEtcZF6IIAK2FPgBtbRU_eBxexBJkb1sqy8hSVeyZd0rExJo1xCpGeBih-DAjbXLwpagpzrbENjtFs0VU0wXUrBv1bLYFeJLkCexf_sKPqASzUaaIMpllZlZFQIF9-OqKQjBTG2XXEJfRAX5QT2ag&mmp_pid=an_18386310690&uls_trackid=577sik9g01l1&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ef3de8cb.jpg",
-    "store": "shopee",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T16:36:13.039549+00:00",
     "likesCount": 1
   }
 ]
