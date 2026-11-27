@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-c7839beb",
+    "title": "Tenis Olympikus Voa 3",
+    "description": "🚨 NOVO CUPOM MERCADO LIVRE 🚨  🎟️ TECHONOMELI 18% OFF acima de R$599, máx R$250  Ative aqui e utilize no produto desejado:  🛒 Compre com desconto aqui: https://www.mercadolivre.com....",
+    "originalPrice": 599.0,
+    "currentPrice": 250.0,
+    "discountPercentage": 58,
+    "couponCode": "MERCADO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-olympikus-voa-3/p/MLB62990474?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=600&auto=format&fit=crop&q=80",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T16:02:22.340617+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f663b164",
     "title": "Suporte Articulado Mesa Monitor 17 a 35 Polegadas 9kg Elg Pistao Giro 360 Altura 14 a 42cm Avanco 54",
     "description": "➡️ Suporte Articulado ELG Monitor 17 a 35 Pistão a Gás F80N  ✅ R$ 85 😱😱 🏷 Cupom: BLACKVIPMELI  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/suporte-articulado-mesa-m...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T15:17:40.858159+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-f71365d3",
-    "title": "Suporte Articulado para Monitor 13 a 32 Pistao a Gas Ajustavel Zinnia Nimbo 110 Preto",
-    "description": "➡️ Suporte Articulado Para Monitor 13 a 32 Pistão a Gás Ajustável Zinnia Nimbo 110 Preto  ✅ R$ 67 😱😱 🏷 Cupom: BLACKVIPMELI  🛒 Compre com desconto aqui: https://www.mercadolivre.com...",
-    "originalPrice": null,
-    "currentPrice": 67.0,
-    "discountPercentage": null,
-    "couponCode": "BLACKVIPMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/suporte-articulado-para-monitor-13-a-32-pistao-a-gas-ajustavel-zinnia-nimbo-110-preto/p/MLB50722875?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f71365d3.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T15:17:14.381834+00:00",
     "likesCount": 1
   }
 ]
