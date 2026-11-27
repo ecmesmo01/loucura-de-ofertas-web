@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7f5e5cbb",
+    "title": "Micro-ondas Electrolux Prata 23L Efficient ME23S 127V",
+    "description": "🔥 **Micro-ondas Electrolux Prata 23L Efficient ME23S 127V**  Quer dar aquele upgrade na sua cozinha com muito estilo e sofisticação? Esse modelo com acabamento impecável entrega tu...",
+    "originalPrice": 699.0,
+    "currentPrice": 435.0,
+    "discountPercentage": 38,
+    "couponCode": "SOHOJEBF",
+    "affiliateUrl": "https://www.mercadolivre.com.br/micro-ondas-electrolux-prata-23l-efficient-me23s-127v/p/MLB19617680?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7f5e5cbb.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:28:19.508850+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-568f9718",
     "title": "Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L",
     "description": "🔥 **Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L**  Transforme sua rotina de cuidados capilares com o tratamento de salão que seus cabelos merecem! O **...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:32:11.828301+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-85cc0c2e",
-    "title": "Gloss Labial Fran by Franciny Ehlke Liphoney",
-    "description": "✨ **Gloss Labial Fran by Franciny Ehlke Liphoney**  O queridinho do momento com um super desconto que você estava esperando! Garanta lábios hidratados, com aquele efeito glossy imp...",
-    "originalPrice": null,
-    "currentPrice": 69.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/gloss-lip-bunny-triple-fran-by-franciny/p/MLB76415362?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-85cc0c2e.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:32:10.467387+00:00",
     "likesCount": 1
   }
 ]
