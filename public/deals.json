@@ -1,24 +1,5 @@
 [
   {
-    "id": "deal-e48582f9",
-    "title": "Controle Sem Fio Sony DualSense Rhythm Blue - PS5",
-    "description": "🎮 **Controle Sem Fio Sony DualSense Rhythm Blue - PS5**  Procurando a melhor experiência de jogo para o seu PlayStation 5? Chegou a hora de garantir seu DualSense com um super desc...",
-    "originalPrice": null,
-    "currentPrice": 330.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/controle-sem-fio-dualsense-rhythm-blue/p/MLB67562690?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e48582f9.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:57:18.572969+00:00",
-    "likesCount": 1
-  },
-  {
     "id": "deal-b3747267",
     "title": "Lavadora Brastemp Smart Top Load 14kg Compacta Branca BWF14ABANA",
     "description": "🔥 **Lavadora Brastemp Smart Top Load 14kg Compacta Branca BWF14ABANA**  Procurando a lavadora ideal para facilitar o seu dia a dia com muita tecnologia e espaço de sobra? A solução...",
@@ -1897,6 +1878,25 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T11:57:16.382067+00:00",
+    "likesCount": 1
+  },
+  {
+    "id": "deal-0418d759",
+    "title": "Tênis Adidas Run 72 (Numeração 34 ao 37)",
+    "description": "🔥 **Tênis Adidas Run 72 (Numeração 34 ao 37)**  Estilo clássico retrô com um super desconto direto na Loja Oficial do Mercado Livre! Perfeito para garantir o visual no dia a dia co...",
+    "originalPrice": 449.0,
+    "currentPrice": 194.0,
+    "discountPercentage": 57,
+    "couponCode": "SOHOJEBF",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3723995745-tnis-run-72-adidas-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0418d759.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:57:14.696795+00:00",
     "likesCount": 1
   }
 ]
