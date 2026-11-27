@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-de2129ed",
+    "title": "I2GO, Carregador Portátil (Power Bank) Ultra Rápido 20000mAh, Power Delivery 20W, 2 Saídas USB + 1 S",
+    "description": "🎁 I2GO, Carregador Portátil (Power Bank) Ultra Rápido 20000mAh, Power Delivery 20W, 2 Saídas USB + 1 Saída/Entrada USB-C, Preto, i2GO PRO  🔥 Por: R$ 149,00 💳 ou em 4x no cartão  🛒...",
+    "originalPrice": null,
+    "currentPrice": 149.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-de2129ed.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T18:49:31.527034+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f4480464",
     "title": "Cozinha Modulada Compacta Suspensa 220cm Milano Multimoveis Mp2411",
     "description": "VÃO PENSAR QUE FOI PLANEJADO  Cozinha Modulada Compacta Suspensa 220cm Milano Multimóveis  De R$ 1.535 por R$ 757 em 10x Use o Cupom: CUPONOMOVEIS 🎟️ + Selecione Pix  Vendido por L...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T17:35:32.306984+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-64f11878",
-    "title": "Urbano Natura Masculino 100ml",
-    "description": "➡️ URBANO NATURA Masculino 100ml  ✅ R$ 69 😱😱 (Meli+)  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/urbano-natura-masculino-100ml/p/MLB50403340?matt_word=vpn1234&matt...",
-    "originalPrice": null,
-    "currentPrice": 69.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/urbano-natura-masculino-100ml/p/MLB50403340?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-64f11878.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T17:35:30.751246+00:00",
     "likesCount": 1
   }
 ]
