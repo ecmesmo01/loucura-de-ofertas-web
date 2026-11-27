@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ab782a99",
+    "title": "Perfume Feminino La Vie Est Belle Lancôme 100ml",
+    "description": "✨ **Perfume Feminino La Vie Est Belle Lancôme 100ml**  O queridinho da perfumaria internacional com um desconto simplesmente inacreditável! Fragrância floral gourmand inebriante co...",
+    "originalPrice": 1129.0,
+    "currentPrice": 522.0,
+    "discountPercentage": 54,
+    "couponCode": "BLACKDELUXO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/perfume-feminino-l-eau-de-parfum-fragrancia-floral-gourmand-inebriante-com-notas-de-iris-nobre-baunilha-e-praline-la-vie-est-belle-lancome-frasco-com-100ml/p/MLB6140723?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ab782a99.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-27T11:46:13.766449+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-15866820",
     "title": "Kit 10 Potes de Vidro Marmita Hermético 640ml Freezer Fitness Vitrex",
     "description": "🔥 **Kit 10 Potes de Vidro Marmita Hermético 640ml Freezer Fitness Vitrex**  Organize suas refeições com muito mais praticidade e saúde! Esses potes de vidro com fechamento hermétic...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T10:07:56.741511+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-dc5d51fe",
-    "title": "Notebook Gamer ASUS TUF Gaming A16 16GB RAM 512GB SSD Tela 16\" IPS 144Hz",
-    "description": "🔥 **Notebook Gamer ASUS TUF Gaming A16 16GB RAM 512GB SSD Tela 16\" IPS 144Hz**  Se você procura desempenho bruto para jogar com alta fluidez e trabalhar com tarefas pesadas, essa é...",
-    "originalPrice": null,
-    "currentPrice": 4349.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/notebook-gamer-asus-tuf-gaming-a16-amd-ryzen-7-rtx-4050-16gb-ram-512gb-ssd-linux-keepos-tela-16-ips-144hz-mecha-gray-fa607nuq-rl167/p/MLB73480206?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-dc5d51fe.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-27T10:07:30.898738+00:00",
     "likesCount": 1
   }
 ]
