@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-eaeb00ca",
+    "title": "Vitamina B12 Metilcobalamina Fórmula com Máxima Pureza e Concentração 30 Doses Essencial Labs",
+    "description": "💊 **Vitamina B12 Metilcobalamina Fórmula com Máxima Pureza e Concentração 30 Doses Essencial Labs**  A energia e disposição que faltavam no seu dia a dia com um super desconto por...",
+    "originalPrice": 85.0,
+    "currentPrice": 26.0,
+    "discountPercentage": 69,
+    "couponCode": "GARANTIR",
+    "affiliateUrl": "https://www.mercadolivre.com.br/vitamina-b12-metilcobalamina-formula-com-maxima-pureza-e-concentracao-30-doses/p/MLB53926315?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-eaeb00ca.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:53:17.741186+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b8b24792",
     "title": "Kit 2 Intercomunicadores para Capacete V6 Plus Bluetooth 5.2",
     "description": "🔥 **Kit 2 Intercomunicadores para Capacete V6 Plus Bluetooth 5.2**  Perfeito para quem pilota em dupla e não quer perder o papo na estrada! Garanta comunicação clara, segura e sem...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:44:43.442392+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-32c2637d",
-    "title": "Headset Gamer Havit H2002CU USB P2 Drivers 53mm Preto e Roxo",
-    "description": "🎧 **Headset Gamer Havit H2002CU USB P2 Drivers 53mm Preto e Roxo**  Procurando mais imersão e conforto para as suas partidas? O queridinho dos gamers está com um super preço para g...",
-    "originalPrice": null,
-    "currentPrice": 199.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/headset-gamer-havit-h2002cu-usb-p2-drivers-53mm-cor-preto-e-cor-preto-e-roxo/p/MLB47198016?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-32c2637d.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:44:20.254696+00:00",
     "likesCount": 1
   }
 ]
