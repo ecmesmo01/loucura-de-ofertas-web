@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ae814b28",
+    "title": "Apple iPhone 15 (128GB) — Preto",
+    "description": "🎁 Apple iPhone 15 (128GB) — Preto  🔥 POR: R$ 3.419,10 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!  🛒 Compre com desconto aqui: https://w...",
+    "originalPrice": null,
+    "currentPrice": 3419.1,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0CP6CVJSG?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ae814b28.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T20:00:50.691566+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-627418b4",
     "title": "Sofa Retratil Reclinavel Zurique 270m Suede Velut Marrom Molas no Assento King House",
     "description": "➡️ Sofá Retrátil Reclinável Zurique 2,70m Suede Velut Marrom Molas no Assento - King House  ✅ De R$ 3.123,89 por R$ 1.442 😱😱 🏷 Cupom: ative no anuncio  🛒 Compre com desconto aqui:...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T19:04:21.744235+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-81949af5",
-    "title": "Teclado Gamer Magnetico 8000hz Rapid Trigger 001mm Hot Swap Switch Ice Blade Cool68 Led Rgb Dareu Ic",
-    "description": "➡️ Teclado Gamer Magnético Dareu Cool68 8000Hz Rapid Trigger Hot Swap RGB Ice Black  ✅ R$ 231 😱😱 🏷 Cupom: BLACKMELI  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/tec...",
-    "originalPrice": null,
-    "currentPrice": 231.0,
-    "discountPercentage": null,
-    "couponCode": "BLACKMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/teclado-gamer-magnetico-8000hz-rapid-trigger-001mm-hot-swap-switch-ice-blade-cool68-led-rgb-dareu-ice-black/p/MLB68412096?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-81949af5.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T19:04:18.873971+00:00",
     "likesCount": 1
   }
 ]
