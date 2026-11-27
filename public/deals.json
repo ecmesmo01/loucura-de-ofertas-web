@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-18eda8b4",
+    "title": "Caixa com 12 Barras de Proteína Protein Crisp Bar Sabor Ovomaltine Integralmédica",
+    "description": "🔥 **Caixa com 12 Barras de Proteína Protein Crisp Bar Sabor Ovomaltine Integralmédica**  Se você busca um snack proteico delicioso e crocante para o dia a dia, essa é simplesmente...",
+    "originalPrice": 137.0,
+    "currentPrice": 69.0,
+    "discountPercentage": 50,
+    "couponCode": "CUIDADOML",
+    "affiliateUrl": "https://www.mercadolivre.com.br/protein-crisp-bar-ovomaltine-12-und-integralmedica/p/MLB48937886?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-18eda8b4.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:22:18.226776+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f2b43164",
     "title": "Tênis Kappa Run 200 - Original (Disponível em 4 cores)",
     "description": "👟 **Tênis Kappa Run 200 - Original (Disponível em 4 cores)**  Procurando o calçado ideal para suas caminhadas e treinos na academia sem gastar muito? O **Tênis Kappa Run 200** entr...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:26:55.975727+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-893eef87",
-    "title": "Lava Louças 8 Serviços Preta Touch Plus Midea Preto 110V",
-    "description": "🔥 **Lava Louças 8 Serviços Preta Touch Plus Midea Preto 110V**  Chega de perder tempo na pia! Deixe a tecnologia trabalhar por você e transforme a rotina da sua cozinha com muito m...",
-    "originalPrice": null,
-    "currentPrice": 1449.0,
-    "discountPercentage": null,
-    "couponCode": "RENOVACASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/lava-loucas-8-servicos-preta-touch-plus-midea-preto/p/MLB63476642?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-893eef87.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-27T12:26:44.357494+00:00",
     "likesCount": 1
   }
 ]
