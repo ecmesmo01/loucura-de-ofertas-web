@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f770ea27",
+    "title": "Perfume Idôle Lancôme Eau de Parfum Feminino 100ml",
+    "description": "✨ **Perfume Idôle Lancôme Eau de Parfum Feminino 100ml**  Procurando aquela fragrância sofisticada, marcante e inesquecível? O queridinho da Lancôme está com um desconto espetacula...",
+    "originalPrice": 959.0,
+    "currentPrice": 530.0,
+    "discountPercentage": 45,
+    "couponCode": "BLACKDELUXO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/idole-lancome-perfume-feminino-eau-de-parfum-chipre-floral-com-rosas-centifolia-damascena-e-jasmim-100ml/p/MLB16202531?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f770ea27.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-27T11:50:55.587872+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-e2981c70",
     "title": "Kit 3 Bermuda Sarja Colorida Premium Masculino Diversas Cores",
     "description": "🔥 **Kit 3 Bermuda Sarja Colorida Premium Masculino Diversas Cores**  Quer renovar o visual com estilo e conforto para qualquer ocasião? Esse kit com três bermudas em sarja premium...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T10:16:08.092491+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-cfca7b39",
-    "title": "Apple iPhone 15 (128 GB) - Preto",
-    "description": "📱 **Apple iPhone 15 (128 GB) - Preto**  Uma oportunidade absurda para você garantir o seu iPhone 15 com um desconto impressionante! Menor preço histórico para fechar o dia com chav...",
-    "originalPrice": null,
-    "currentPrice": 2499.0,
-    "discountPercentage": null,
-    "couponCode": "MADRUXPTMANA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/apple-iphone-15-128-gb-preto/p/MLB27172677?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-cfca7b39.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T10:13:11.850783+00:00",
     "likesCount": 1
   }
 ]
