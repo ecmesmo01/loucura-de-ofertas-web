@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f4758aa3",
+    "title": "Tenis Masculino Caven 20 Puma Liso 40",
+    "description": "PUMA PARA TODOS OS DIAS  Tênis Caven 2.0 Puma  De R$ 449 por R$ 170  Cupom: RELAMPAGO 🎟️  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/tenis-masculino-caven-20-puma-...",
+    "originalPrice": 449.0,
+    "currentPrice": 170.0,
+    "discountPercentage": 62,
+    "couponCode": "RELAMPAGO",
+    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-masculino-caven-20-puma-liso-40/p/MLB27908674?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f4758aa3.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T14:42:52.495187+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-de41fcd3",
     "title": "TP-Link Tapo C246D Câmera de Segurança Wi-Fi com Lente Dupla 2K 3MP, Interna e Externa, Pan/Tilt 360",
     "description": "🎁 TP-Link Tapo C246D Câmera de Segurança Wi-Fi com Lente Dupla 2K 3MP, Interna e Externa, Pan/Tilt 360°, Visão Noturna Colorida, Detecção por IA e Rastreamento, IP65 e MicroSD de a...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T13:21:21.513628+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-43b579fd",
-    "title": "Smartphone Samsung Galaxy A57 5G 128GB Cinza + Smartwatch Galaxy Watch8 BT 44mm Grafite",
-    "description": "💥 **Smartphone Samsung Galaxy A57 5G 128GB Cinza + Smartwatch Galaxy Watch8 BT 44mm Grafite**  Garanta esse combo tecnológico incrível com um SUPER desconto de Black Friday! Leve o...",
-    "originalPrice": null,
-    "currentPrice": 2122.0,
-    "discountPercentage": null,
-    "couponCode": "PRECINHOBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/galaxy-a57-5g-128gb-cinza-galaxy-watch8-bt-44mm-grafite/p/MLB80317627?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-43b579fd.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T13:19:47.278293+00:00",
     "likesCount": 1
   }
 ]
