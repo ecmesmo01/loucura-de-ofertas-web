@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ec85c7b4",
+    "title": "1 Million Masculino Eau de Parfum 200ml",
+    "description": "🎁 1 Million Masculino Eau de Parfum 200ml  🔥 POR: R$ 553,21  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B0856WKT...",
+    "originalPrice": null,
+    "currentPrice": 553.21,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0856WKT97?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ec85c7b4.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T01:21:07.569630+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ea0fc192",
     "title": "Ypê Amaciante Tradicional Ultra Aconchego 5L (Embalagem pode variar)",
     "description": "Ypê Amaciante Tradicional Ultra Aconchego 5L (Embalagem pode variar)  🔥 Por: R$ 13,49  🛒 Link:  🛒 Compre com desconto aqui: https://www.amazon.com.br/dp/B07HZL4D72?tag=loucuradeo0d...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T23:46:04.225601+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-94692dc4",
-    "title": "Monitor Portatil de 156 Full Hd Ips com Usb C e Mini Hdmi",
-    "description": "🎁 Monitor Gamer Portátil 15.6 1080p Fhd Ips Com Hdmi Usb Preto 127/220v  🔥 POR: R$ 286,00 no Pix 🎟️ Cupom: SOHOJE  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre co...",
-    "originalPrice": null,
-    "currentPrice": 286.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/monitor-portatil-de-156-full-hd-ips-com-usb-c-e-mini-hdmi/p/MLB80066974?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-94692dc4.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T23:45:01.634641+00:00",
     "likesCount": 1
   }
 ]
