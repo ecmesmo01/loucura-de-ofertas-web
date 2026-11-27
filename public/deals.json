@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a9f20cb8",
+    "title": "Samsung Galaxy Book4 Intel® Core™ i5",
+    "description": "🎁 Samsung Galaxy Book4 Intel® Core™ i5-1335U, Windows 11 Home, 8GB, 512GB SSD, Iris Xe, 15.6'' Full HD LED, 1.55kg*.  🔥 Por R$ 3.159,90 💳 ou em 10x no cartão 🎟️ Cupom: TECH300  🛒 C...",
+    "originalPrice": null,
+    "currentPrice": 3159.9,
+    "discountPercentage": null,
+    "couponCode": "TECH300",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0D4NRBBMR?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a9f20cb8.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T00:18:55.411403+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-f9879674",
     "title": "Monitor Gamer Dell 27 Full HD (1920 x 1080), 144 Hz, 1 ms, 300 nits, SE2726H",
     "description": "🎁 Monitor Gamer Dell 27 Full HD (1920 x 1080), 144 Hz, 1 ms, 300 nits, SE2726H  🔥 POR: R$ 873,27 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🛒 Compre com descont...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-26T23:11:53.392594+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b091c52b",
-    "title": "Tenis Flyer Runner Mesh Bdp Puma",
-    "description": "Barato demais  ➡️ Tênis Flyer Runner Mesh Bdp Puma  ✅ De R$ 199 por R$ 102,59 😱😱 🏷 Cupom: NDCNHS78  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/tenis-flyer-runner-m...",
-    "originalPrice": 199.0,
-    "currentPrice": 102.59,
-    "discountPercentage": 48,
-    "couponCode": "NDCNHS78",
-    "affiliateUrl": "https://www.mercadolivre.com.br/tenis-flyer-runner-mesh-bdp-puma/p/MLB65719614?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b091c52b.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-26T23:11:51.701527+00:00",
     "likesCount": 1
   }
 ]
