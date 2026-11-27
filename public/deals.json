@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0bf105e3",
+    "title": "Oculos de Sol Quadrado Leaf Unissex",
+    "description": "ÓCULOS POR 37 CONTO, só na black friday esse preço  Óculos de Sol Escuro Masculino Unissex UV400  De R$ 114 por R$ 37 no Pix Use o Cupom: PRECINHO ou BOAESCOLHAMELI ou DESCONTONAHO...",
+    "originalPrice": 114.0,
+    "currentPrice": 37.0,
+    "discountPercentage": 68,
+    "couponCode": "PRECINHO",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3902045542-oculos-de-sol-quadrado-leaf-unissex-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0bf105e3.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T19:45:37.139769+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b8c93e87",
     "title": "Perfume Lattafa Fakhar Platin Eau de Parfum Unissex 100ml",
     "description": "CORREEE DESPENCOU DEMAIS  Perfume Lattafa Fakhar Platin EDP 100ml  De R$ 299 por R$ 113  Aplique o Cupom de R$ 35 OFF 🎟️  🛒 Compre com desconto aqui: https://www.mercadolivre.com.b...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T18:50:34.471959+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-de2129ed",
-    "title": "I2GO, Carregador Portátil (Power Bank) Ultra Rápido 20000mAh, Power Delivery 20W, 2 Saídas USB + 1 S",
-    "description": "🎁 I2GO, Carregador Portátil (Power Bank) Ultra Rápido 20000mAh, Power Delivery 20W, 2 Saídas USB + 1 Saída/Entrada USB-C, Preto, i2GO PRO  🔥 Por: R$ 149,00 💳 ou em 4x no cartão  🛒...",
-    "originalPrice": null,
-    "currentPrice": 149.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B094YR4SLJ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-de2129ed.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T18:49:31.527034+00:00",
     "likesCount": 1
   }
 ]
