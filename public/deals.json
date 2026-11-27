@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-62a87601",
+    "title": "Smartphone Samsung Galaxy A37 5G 128GB 6GB RAM Câmera 50MP Verde",
+    "description": "🔥 **Smartphone Samsung Galaxy A37 5G 128GB 6GB RAM Câmera 50MP Verde**  Atualize seu smartphone com um modelo completo, moderno e pronto para a tecnologia 5G! Garanta o seu com exc...",
+    "originalPrice": null,
+    "currentPrice": 1203.49,
+    "discountPercentage": null,
+    "couponCode": "15IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0GVT85MNH?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-62a87601.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:51:07.713328+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-71b2a39c",
     "title": "Relógio Masculino Orient Prateado Quartzo MBSS1402-P1SX",
     "description": "🔥 **Relógio Masculino Orient Prateado Quartzo MBSS1402-P1SX**  Um clássico robusto e sofisticado para quem tem bom gosto e valoriza durabilidade. Com fundo preto marcante e resistê...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T12:42:17.104411+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a7a8dcec",
-    "title": "Máquina de Lavar Midea 16Kg Ma512w160a/Wk04 Wave Agitator Função Turbo Branca 110v",
-    "description": "🔥 **Máquina de Lavar Midea 16Kg Ma512w160a/Wk04 Wave Agitator Função Turbo Branca 110v**  Procurando mais praticidade na hora de cuidar das roupas da família? Essa super máquina de...",
-    "originalPrice": null,
-    "currentPrice": 1319.0,
-    "discountPercentage": null,
-    "couponCode": "PROMOHOJEPRACASA",
-    "affiliateUrl": "https://www.mercadolivre.com.br/maquina-de-lavar-midea-16kg-ma512w160awk04-wave-agitator-funcao-turbo-branca/p/MLB75622878?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a7a8dcec.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:40:42.760332+00:00",
     "likesCount": 1
   }
 ]
