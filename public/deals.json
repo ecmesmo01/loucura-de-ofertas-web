@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-91ab219f",
+    "title": "Samsung Smart TV 32\" HD H5000F 2025",
+    "description": "🎁 Samsung Smart TV 32\" HD H5000F 2025  💸 De: R$ 1.499,00 🔥 POR: R$ 839,00 no PIX  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!  🛒 Compre com desco...",
+    "originalPrice": 1499.0,
+    "currentPrice": 839.0,
+    "discountPercentage": 44,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0F38JYBZB?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-91ab219f.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T16:01:21.677410+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a36ce2c9",
     "title": "Câmera de Segurança Interna Wi-FI FULL HD IMX C - Intelbras",
     "description": "🎁 Câmera de Segurança Interna Wi-FI FULL HD IMX C - Intelbras  🔥 Por: R$ 129,90 💳 ou em 6x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T15:17:05.389581+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-65b9b429",
-    "title": "Jogo de Panelas Tramontina Allegra em Aço Inox com Fundo Triplo 5 Peças",
-    "description": "🎁 Jogo de Panelas Tramontina Allegra em Aço Inox com Fundo Triplo 5 Peças  🔥 Por: R$ 375,24 💳 ou em 7x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA...",
-    "originalPrice": null,
-    "currentPrice": 375.24,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B09TCD67Q3?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-65b9b429.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T15:16:14.662197+00:00",
     "likesCount": 1
   }
 ]
