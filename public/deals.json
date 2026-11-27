@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-585f86e2",
+    "title": "Barra Whey Grego 40g Display com 12 Unidades Mousse de Maracujá Nutrata",
+    "description": "😋 **Barra Whey Grego 40g Display com 12 Unidades Mousse de Maracujá Nutrata**  Para dar aquela força na sua dieta sem abrir mão do sabor! O lanche proteico e cremoso que você ama c...",
+    "originalPrice": 95.0,
+    "currentPrice": 54.0,
+    "discountPercentage": 43,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/barra-whey-grego-40g-display-com-12-unidades-mousse-de-maracuja-nutrata/p/MLB18723723?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-585f86e2.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T11:03:11.492565+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-b985275b",
     "title": "Esmerilhadeira Angular Corte e Desbaste 115mm 850W Makita",
     "description": "🔥 **Esmerilhadeira Angular Corte e Desbaste 115mm 850W Makita**  Procurando potência e precisão para os seus trabalhos? Chegou a oportunidade perfeita para garantir sua ferramenta...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:48:37.347751+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-df06f882",
-    "title": "WAP Robô Aspirador Robot W90 3 em 1, 250ml, Bivolt, Sistema Antiqueda",
-    "description": "🎁 WAP Robô Aspirador Robot W90 3 em 1, 250ml, Bivolt, Sistema Antiqueda  🔥 Por: R$ 299,90 💳 ou em 6x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🚀 A BLACK FRID...",
-    "originalPrice": null,
-    "currentPrice": 299.9,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0B9PSBNYL?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-df06f882.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:48:26.392142+00:00",
     "likesCount": 1
   }
 ]
