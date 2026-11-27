@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-568f9718",
+    "title": "Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L",
+    "description": "🔥 **Wella Professionals Invigo Nutri-Enrich Kit - Shampoo + Condicionador 1L**  Transforme sua rotina de cuidados capilares com o tratamento de salão que seus cabelos merecem! O **...",
+    "originalPrice": null,
+    "currentPrice": 206.1,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0HNMFS6J9?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-568f9718.jpg",
+    "store": "amazon",
+    "category": "moda",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:26:55.975727+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-893eef87",
     "title": "Lava Louças 8 Serviços Preta Touch Plus Midea Preto 110V",
     "description": "🔥 **Lava Louças 8 Serviços Preta Touch Plus Midea Preto 110V**  Chega de perder tempo na pia! Deixe a tecnologia trabalhar por você e transforme a rotina da sua cozinha com muito m...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:32:10.467387+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5e73e6bc",
-    "title": "Fone de Ouvido Samsung Galaxy Buds3 FE com Galaxy AI - Cinza",
-    "description": "🎧 **Fone de Ouvido Samsung Galaxy Buds3 FE com Galaxy AI - Cinza**  Aproveite essa super oportunidade para garantir um som de alta qualidade, equipado com inteligência artificial p...",
-    "originalPrice": null,
-    "currentPrice": 559.55,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0FS82QQN2?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5e73e6bc.jpg",
-    "store": "amazon",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:30:43.277050+00:00",
     "likesCount": 1
   }
 ]
