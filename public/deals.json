@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a96e24e3",
+    "title": "NOTEBOOK Lenovo IdeaPad Slim 3i (VERSÃO COM TELA TOUCH + W11)",
+    "description": "🔥 NOTEBOOK Lenovo IdeaPad Slim 3i (VERSÃO COM TELA TOUCH + W11)  - PAINEL IPS - i5-13420H (8 núcleos e 12 threads) - 8GB RAM DDR5 (EXPANSÍVEL) - 512GB SSD (EXPANSÍVEL)  💵 R$ 3299 R...",
+    "originalPrice": null,
+    "currentPrice": 3299.0,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0FCW79ZM3?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a96e24e3.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": true,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-27T17:56:26.300009+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-083d7340",
     "title": "Sofa Retratil Reclinavel Verona 180m Preto Molas no Assento King House",
     "description": "PREÇO ABSRUDO NO SOFÁ DE 2 METROS  Sofá Retrátil 2,10m Molas E Espuma D33 Thunder  De R$ 2.199 por R$ 893 no Pix  Cupom: CUPONOMOVEIS + Aplique o cupom de R$60 OFF 🎟️  🛒 Compre com...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T16:36:13.039549+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-4fb17992",
-    "title": "Mouse Logitech Lift For Business",
-    "description": "➡️ Mouse Ergonômico Vertical Logitech Lift Sem Fio, Óptico, Design para Redução de Tensão Muscular, Silencioso, Bluetooth/Usb Logi Bolt Wireless, Windows/macOS/iPadOS, Grafite 9100...",
-    "originalPrice": null,
-    "currentPrice": 167.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/mouse-logitech-lift-for-business/p/MLB77290516?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-4fb17992.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T16:36:10.295755+00:00",
     "likesCount": 1
   }
 ]
