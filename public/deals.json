@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f2b43164",
+    "title": "Tênis Kappa Run 200 - Original (Disponível em 4 cores)",
+    "description": "👟 **Tênis Kappa Run 200 - Original (Disponível em 4 cores)**  Procurando o calçado ideal para suas caminhadas e treinos na academia sem gastar muito? O **Tênis Kappa Run 200** entr...",
+    "originalPrice": 169.0,
+    "currentPrice": 62.0,
+    "discountPercentage": 63,
+    "couponCode": "AGORAMODA",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4028845341-tnis-kappa-run-200-original-caminhada-academia-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f2b43164.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T13:21:21.513628+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-43b579fd",
     "title": "Smartphone Samsung Galaxy A57 5G 128GB Cinza + Smartwatch Galaxy Watch8 BT 44mm Grafite",
     "description": "💥 **Smartphone Samsung Galaxy A57 5G 128GB Cinza + Smartwatch Galaxy Watch8 BT 44mm Grafite**  Garanta esse combo tecnológico incrível com um SUPER desconto de Black Friday! Leve o...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T12:26:44.357494+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-b9918aad",
-    "title": "Water Cooler Corsair Nautilus 360 mm RS ARGB Black",
-    "description": "🔥 **Water Cooler Corsair Nautilus 360 mm RS ARGB Black**  Mantenha o seu processador na temperatura ideal com máximo desempenho e um visual incrível! O Nautilus 360 mm da Corsair e...",
-    "originalPrice": null,
-    "currentPrice": 449.0,
-    "discountPercentage": null,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://www.mercadolivre.com.br/water-cooler-corsair-nautilus-360-mm-rs-argb-black/p/MLB46512239?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-b9918aad.jpg",
-    "store": "mercadolivre",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T12:26:42.786983+00:00",
     "likesCount": 1
   }
 ]
