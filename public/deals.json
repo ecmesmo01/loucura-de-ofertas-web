@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-9a45cded",
+    "title": "Camisa Social Masculina Manga Longa",
+    "description": "PREÇÃO NA SOCIAL DA HERING  Camiseta Manga Longa Slim Hering (4 cores)  De R$ 199 por R$ 71 em 3x Use o Cupom: RELAMPAGO 🎟️    Loja Oficial Hering no ML  🛒 Compre com desconto aqui...",
+    "originalPrice": 199.0,
+    "currentPrice": 71.0,
+    "discountPercentage": 64,
+    "couponCode": "RELAMPAGO",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3995094437-camisa-social-masculina-manga-longa-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-9a45cded.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T14:22:56.118460+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-04d2e1d8",
     "title": "Kit 2 Camisetas Suspiro Bordado Reserva",
     "description": "44 CONTO CADA RESERVA BORDADA 😱  Kit com 2 Camisetas Suspiro Bordado Reserva  De R$ 238 por R$ 89 no Pix Use o Cupom: RELAMPAGO 🎟️ + Selecione Pix  Loja Oficial Reserva no ML  🛒 Co...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T13:00:58.494838+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-649be601",
-    "title": "Boné Puma Ess No.1 BB Masculino Ajustável 100% Algodão",
-    "description": "🧢 **Boné Puma Ess No.1 BB Masculino Ajustável 100% Algodão**  Estilo e proteção para o dia a dia com aquele preço que vale muito a pena! Garanta o seu na Loja Oficial da Puma com s...",
-    "originalPrice": 99.0,
-    "currentPrice": 56.0,
-    "discountPercentage": 43,
-    "couponCode": "SOHOJEBF",
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-3311977499-bone-puma-ess-no1-bb-masculino-ajustavel-100-algodo-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-649be601.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T13:00:11.840294+00:00",
     "likesCount": 1
   }
 ]
