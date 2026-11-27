@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-7289991d",
+    "title": "Cerveja Premium 5L Barril Heineken",
+    "description": "🍺 **Cerveja Premium 5L Barril Heineken**  Para garantir o chopp gelado perfeito direto na sua casa com aquele preço que vale a pena aproveitar! 🍻  💰 Por apenas: R$ 70,00 🏷️ Use o c...",
+    "originalPrice": null,
+    "currentPrice": 70.0,
+    "discountPercentage": null,
+    "couponCode": "C3RV3J410OFF",
+    "affiliateUrl": "https://shopee.com.br/opaanlp/1248266601/58250692708?__mobile__=1&credential_token=3fbCuxANXURcHuBeTxkQ7eM3vngteqHr8DPAifmtSnCJb&exp_group=rollout&gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEmQAAAAzY6UyohDHDyW_jfHWVgb7r0B83IUQ33ZLO6wHdwrD3HN_3jG9sIGiq4YyYBiBu0ZiLjqcmKFhnLwc6fvi-7jQj9IVOOH9V5WooYsMNLugerbN_rgwYgkaOpaYzPGXwiEo3nvvkKQ7n9uAY97uSTLdIkkvS8dxFnYhmY0tR6BiLFAOVlkHxcjkG60vem4VzD2PQ_BVXEw&mmp_pid=an_18386310690&uls_trackid=577r2o56002i&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-7289991d.jpg",
+    "store": "shopee",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T12:14:43.381067+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ea352473",
     "title": "Water Cooler Gigabyte Eagle 360 ARGB 360MM Preto",
     "description": "🔥 **Water Cooler Gigabyte Eagle 360 ARGB 360MM Preto**  Procurando máxima eficiência e estilo para o seu setup? Esse water cooler de 360mm entrega resfriamento de ponta com ilumina...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T11:10:42.719013+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-5d960d07",
-    "title": "Smart TV 4K 65\" LG Nano UHD AI Nu850 2026 Processador 7 Ger9",
-    "description": "🔥 **Smart TV 4K 65\" LG Nano UHD AI Nu850 2026 Processador 7 Ger9**  Procurando uma experiência de cinema em casa com tecnologia de ponta? A nova gigante da LG de 65 polegadas está...",
-    "originalPrice": 4999.0,
-    "currentPrice": 3067.0,
-    "discountPercentage": 39,
-    "couponCode": "7CJMELI",
-    "affiliateUrl": "https://www.mercadolivre.com.br/smart-tv-4k-65-lg-nano-uhd-ai-nu850-2026-processador-7-ger9-hdr10-xbox-bluetooth-wi-fi-ai-search-google-gemini-webos-26-65nu850bpsa/p/MLB82600518?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-5d960d07.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T11:10:36.364808+00:00",
     "likesCount": 1
   }
 ]
