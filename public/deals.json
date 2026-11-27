@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-f5002222",
+    "title": "Colchão Queen Emma Basics 17 cm",
+    "description": "🎁 Colchão Queen Emma Basics 17 cm - 158x198 cm Espuma D28 17cm com Tecnologia Alemã, Firmeza Ideal, Suporte Confortável, 100 Noites de Teste e 5 Anos de Garantia  🔥 POR: R$ 879,20...",
+    "originalPrice": null,
+    "currentPrice": 879.2,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0BTDW64QM?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-f5002222.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T20:32:25.521851+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-6dc11ec0",
     "title": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 110V",
     "description": "🎁 Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 110V  🔥 Por: R$ 377,20 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T19:14:40.985150+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-75109c8b",
-    "title": "Colchao King Emma Duo Comfort 193x203cm Dupla Face Vacuo Suporte Ideal para o Corpo Alta Durabilidad",
-    "description": "➡️ Colchão King Emma Duo Comfort 193x203cm, Dupla Face, à vácuo, Suporte Ideal para o Corpo, Alta Durabilidade, Capa Lavável  ✅ R$ 1.706 😱😱 💳10x sem juros 🏷 Cupom: MEUDESCONTOBLACK...",
-    "originalPrice": null,
-    "currentPrice": 1706.0,
-    "discountPercentage": null,
-    "couponCode": "MEUDESCONTOBLACK",
-    "affiliateUrl": "https://www.mercadolivre.com.br/colchao-king-emma-duo-comfort-193x203cm-dupla-face-vacuo-suporte-ideal-para-o-corpo-alta-durabilidade-capa-lavavel/p/MLB18088318?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-75109c8b.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": "em até 10x sem juros",
-    "createdAt": "2026-11-27T19:14:39.574848+00:00",
     "likesCount": 1
   }
 ]
