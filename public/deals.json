@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a37f00b7",
+    "title": "Produto",
+    "description": "🎁 Console Nintendo Switch 2 Novo, Nacional com NF  🔥 POR R$ 3.265,00 🎟 Cupom: 3D14D3BL4CK  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🚀 A BLACK FRIDAY CHEGOU!  🛒 Compre...",
+    "originalPrice": null,
+    "currentPrice": 3265.0,
+    "discountPercentage": null,
+    "couponCode": "3D14D3BL4CK",
+    "affiliateUrl": "https://shopee.com.br/produto-i.498370128.58257691316?gads_t_sig=gqRjZGVrxHCFomtpsTE0MjUxOnRzc19zZGtfa2V5omt20QACpGFsZ2_SAAAAZKNkZWvAomN0xEAAAAAMc1TPTF0zl9lUk9doKYfbtNkYCBZaTm6dQ6q3WJIrnGYlyLtpSCE1-D6jy2YmlKEe_b7zxJZfI6lpwZ6fqmNpcGhlcnRleHTEkAAAAAy7_E8pxGgHYk9c7E5pNrf9yyZ74Xt1irPV6C94fT1tPet25a1x1b8MqG2nuIwGSO9ohKDhPRNlX4FS0XAeS5N9gDHWk0U2VgwWijsSY1IfgishGLcGjYDIkXzh0moaltQcbFWcPaakT8o7Zn0ecckwudXfZYr03RpIQG_t3taHrtQpuOTuOPfugzm75g&mmp_pid=an_18386310690&uls_trackid=577o176000c2&utm_source=an_18386310690&utm_medium=affiliates&utm_campaign=id_1I6ZbEiqygj",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a37f00b7.jpg",
+    "store": "shopee",
+    "category": "games",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T03:22:03.235757+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-fe9a254a",
     "title": "Ar-Condicionado Prime Air Split Inverter 9000BTUs Frio 9FC",
     "description": "➡️ Ar-Condicionado Prime Air Split Inverter 9000BTUs Frio 9FC  ✅ R$ 1.251,11 😱😱 🏷 Cupom: 3D14D3BL4CK  🛒 Compre com desconto aqui: https://shopee.com.br/opaanlp/811034337/2209466623...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T02:37:14.058101+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-08f6fbb7",
-    "title": "Controle Sem Fio Cfi Zct1w Playstation 5 Gray Camufado",
-    "description": "➡️ Controle Sem Fio Cfi-Zct1w Playstation 5 Gray Camufado  ✅ R$ 303 😱😱 🏷 Cupom: BAIXOU  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/controle-sem-fio-cfi-zct1w-plays...",
-    "originalPrice": null,
-    "currentPrice": 303.0,
-    "discountPercentage": null,
-    "couponCode": "BAIXOU",
-    "affiliateUrl": "https://www.mercadolivre.com.br/controle-sem-fio-cfi-zct1w-playstation-5-gray-camufado/p/MLB66055779?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-08f6fbb7.jpg",
-    "store": "mercadolivre",
-    "category": "games",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T02:35:08.727765+00:00",
     "likesCount": 1
   }
 ]
