@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-6dc11ec0",
+    "title": "Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 110V",
+    "description": "🎁 Philips Walita Fritadeira Airfryer Série 2000 6,2L, Painel Touch, 110V  🔥 Por: R$ 377,20 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA...",
+    "originalPrice": null,
+    "currentPrice": 377.2,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B0D98VWP2V?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-6dc11ec0.jpg",
+    "store": "amazon",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T20:31:17.577442+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-24c8c484",
     "title": "Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Branca (TF70) 127V",
     "description": "🎁 Geladeira Electrolux Frost Free 431L Efficient AutoSense Duplex Branca (TF70) 127V  🔥 Por: R$ 2.549,00 💳 ou em 12x no cartão  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam....",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": "em até 10x sem juros",
     "createdAt": "2026-11-27T19:14:39.574848+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-a5cd228a",
-    "title": "Placa Mãe MSI A520M-A PRO (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)",
-    "description": "🎁 Placa Mãe MSI A520M-A PRO (AM4/2xDDR4/HDMI/DVI-D/M.2/USB 3.2)  🔥 POR: R$ 338,18 à vista  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!  🛒 Compre...",
-    "originalPrice": null,
-    "currentPrice": 338.18,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B08HHMCCXV?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a5cd228a.jpg",
-    "store": "amazon",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T19:14:38.210960+00:00",
     "likesCount": 1
   }
 ]
