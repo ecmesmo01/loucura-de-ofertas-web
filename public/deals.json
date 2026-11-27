@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-a0cb4bd4",
+    "title": "Creatina Monohidratada 100% Pura 1kg Dark Lab",
+    "description": "🔥 **Creatina Monohidratada 100% Pura 1kg Dark Lab**  Estoque garantido para turbinar seus treinos com o melhor custo-benefício do mercado! Creatina 100% pura, direto da Loja Oficia...",
+    "originalPrice": 169.0,
+    "currentPrice": 55.0,
+    "discountPercentage": 67,
+    "couponCode": "MELISUPERCLUB",
+    "affiliateUrl": "https://www.mercadolivre.com.br/creatina-monohidratada-1kg-100-pura-dark-lab/p/MLB25929487?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-a0cb4bd4.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-27T10:41:24.294983+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-ab1ec871",
     "title": "Kit 3 Unidades Colgate Creme Dental Sensitive Pró-Alívio 90g",
     "description": "🦷 **Kit 3 Unidades Colgate Creme Dental Sensitive Pró-Alívio 90g**  Para você que sofre com dentes sensíveis e quer alívio imediato e duradouro! A fórmula clinicamente comprovada b...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T03:45:27.495644+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-ce26eddd",
-    "title": "Mochila Dell EcoLoop 14",
-    "description": "🎁 Mochila Dell EcoLoop 14-16 CP3724 para Notebook, 16″, 18L, Preto | Tecido Reciclado EcoLoop, Amortecimento de Espuma 360°, Alça de Ombro Ajustável, Bolso Frontal com Zíper, Detal...",
-    "originalPrice": null,
-    "currentPrice": 149.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0CS6WZJHJ?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ce26eddd.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T03:45:26.012294+00:00",
     "likesCount": 1
   }
 ]
