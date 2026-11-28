@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-ef7f537e",
+    "title": "Transforme suas refeições com elegância e sofisticação!",
+    "description": "✨ **Transforme suas refeições com elegância e sofisticação!**  🍽️ **Aparelho de Jantar Sforte 30 Peças com Pratos e Taças de Vidro e Talheres em Inox**  Um conjunto completo para d...",
+    "originalPrice": 99.9,
+    "currentPrice": 75.04,
+    "discountPercentage": 25,
+    "couponCode": null,
+    "affiliateUrl": "https://www.mercadolivre.com.br/aparelho-de-jantar-sforte-30-pecas-com-pratos-e-tacas-de-vidro-e-talheres-em-inox/p/MLB79751962?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-ef7f537e.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": "em até 10x sem juros",
+    "createdAt": "2026-11-28T11:03:49.928539+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-7c100e44",
     "title": "Blender Power Inox Oster Com 2 Jarras To Go Cor Prateado",
     "description": "🔥 **Blender Power Inox Oster Com 2 Jarras To Go Cor Prateado**  Prepare smoothies, shakes e vitaminas fresquinhos direto na jarra e leve para onde você for! Praticidade máxima para...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-28T01:48:45.232384+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-20bf1ecd",
-    "title": "Geladeira Samsung Duplex Rt42 Inox Bivolt 415l",
-    "description": "CORRE MUITO, MENOR PREÇO EM 27X, oferta exclusiva pagando com cartão mercado pago  Geladeira Samsung Duplex RT42 415L Bivolt  De R$ 3.799 por R$ 2.677 em 27x Use os Cupons: MAISBLA...",
-    "originalPrice": 3799.0,
-    "currentPrice": 2677.0,
-    "discountPercentage": 30,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/geladeira-samsung-duplex-rt42-inox-bivolt-415l/p/MLB80099248?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-20bf1ecd.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-28T01:46:20.297804+00:00",
     "likesCount": 1
   }
 ]
