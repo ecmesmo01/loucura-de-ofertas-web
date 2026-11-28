@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-e823dca3",
+    "title": "Lite Flow U Adidas",
+    "description": "PRA QUEM TEM PÉ TAM. 40  Tênis Adidas Response Runner 2   De R$ 499 por R$ 187 em 6x  Loja Oficial Adidas no ML  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB...",
+    "originalPrice": 499.0,
+    "currentPrice": 187.0,
+    "discountPercentage": 63,
+    "couponCode": null,
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-4835268506-lite-flow-u-adidas-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e823dca3.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-28T00:02:46.796876+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-d9a48a8c",
     "title": "Notebook Positivo Vision N15m Intel N100 8gb Ram 128gb Ssd Windows 11 Home Tela 156 Full Hd Ips Anti",
     "description": "🔥 Notebook Positivo Vision N15M (versão com Windows 11)  - PAINEL IPS - Intel N100 (4 núcleos e 4 threads) - 8GB RAM (expansível) - 128gb ssd (expansível até 4TB) - Windows 11 Home...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T22:27:19.698851+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-e4362334",
-    "title": "Tnis Nike Court Vision Low Next Nature Masculino",
-    "description": "Tênis Nike Court Vision Low Next Nature - R$249 No PIX! #anúncio  - Loja Oficial Nike  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-2608162557-tnis-nike-cour...",
-    "originalPrice": null,
-    "currentPrice": 249.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-2608162557-tnis-nike-court-vision-low-next-nature-masculino-_JM?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-e4362334.jpg",
-    "store": "mercadolivre",
-    "category": "moda",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T22:27:18.250011+00:00",
     "likesCount": 1
   }
 ]
