@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-32bac79e",
+    "title": "Echo Dot (5ª Geração): Smart Speaker com Alexa e Som Vibrante - Cor Preta",
+    "description": "🔊 **Echo Dot (5ª Geração): Smart Speaker com Alexa e Som Vibrante - Cor Preta**  Leve mais praticidade para o seu dia a dia com a assistente de voz mais completa do mercado! Desfru...",
+    "originalPrice": null,
+    "currentPrice": 289.0,
+    "discountPercentage": null,
+    "couponCode": null,
+    "affiliateUrl": "https://www.amazon.com.br/dp/B09B8VGCR8?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-32bac79e.jpg",
+    "store": "amazon",
+    "category": "eletronicos",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-28T11:08:47.447148+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-bb4ba5ea",
     "title": "Monitor Gamer Curvo UltraWide 34\" 165Hz 1ms WQHD Curvatura R1500",
     "description": "🔥 **Monitor Gamer Curvo UltraWide 34\" 165Hz 1ms WQHD Curvatura R1500**  Procurando a imersão definitiva para o seu setup? Esse monitor traz resolução WQHD (3440x1440), painel VA de...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-28T01:54:46.061713+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-39c3360b",
-    "title": "Iphone Air 1tb Azul Ceu Somente Esim Distribuidor Autorizado",
-    "description": "🎁 iPhone Air 1 TB - Azul-céu - somente eSIM - Distribuidor Autorizado  🔥 POR: R$ 5.489,00 no Pix  🛒 Compre aqui:  ⚠️ Anúncio | Preço e estoque variam.  🤩 APROVEITA QUE É BLACK!  🛒...",
-    "originalPrice": null,
-    "currentPrice": 5489.0,
-    "discountPercentage": null,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/iphone-air-1tb-azul-ceu-somente-esim-distribuidor-autorizado/p/MLB1054107089?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-39c3360b.jpg",
-    "store": "mercadolivre",
-    "category": "eletronicos",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-28T01:50:45.899184+00:00",
     "likesCount": 1
   }
 ]
