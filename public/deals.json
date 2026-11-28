@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-0dc9e82a",
+    "title": "Aferidor para Medir Pressão Braço e Arterial Digital TC",
+    "description": "🩺 **Aferidor para Medir Pressão Braço e Arterial Digital TC-99**  Cuide da saúde e do bem-estar da sua família com praticidade e precisão sem sair de casa! Tenha o controle da sua...",
+    "originalPrice": 139.9,
+    "currentPrice": 97.39,
+    "discountPercentage": 30,
+    "couponCode": "MERCADOLIVRE",
+    "affiliateUrl": "https://www.mercadolivre.com.br/aferidor-para-medir-pressao-braco-e-arterial-digital-tc-99/p/MLB54060804?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-0dc9e82a.jpg",
+    "store": "mercadolivre",
+    "category": "casa",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-28T11:43:47.642435+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-5ee15e46",
     "title": "Smart TV H5000F HD 32 Polegadas 2025 Preto Samsung Bivolt",
     "description": "📺 **Smart TV H5000F HD 32 Polegadas 2025 Preto Samsung Bivolt**  Transforme sua sala e curta seus filmes, séries e jogos favoritos com imagens nítidas e som de alta qualidade! Um m...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-28T02:05:45.534058+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-73790079",
-    "title": "Placa Grafica Gigabyte Radeon Rx 9050 Gaming Oc 8gb Gddr6",
-    "description": "🔥 Placa gráfica Gigabyte Radeon Rx 9050 Gaming Oc 8GB Gddr6  🚨 R$ 1.500 🎟️ Cupom: BLACKHOJE  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/placa-grafica-gigabyte-rade...",
-    "originalPrice": null,
-    "currentPrice": 1500.0,
-    "discountPercentage": null,
-    "couponCode": "BLACKHOJE",
-    "affiliateUrl": "https://www.mercadolivre.com.br/placa-grafica-gigabyte-radeon-rx-9050-gaming-oc-8gb-gddr6/p/MLB77247350?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-73790079.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-28T02:04:49.764091+00:00",
     "likesCount": 1
   }
 ]
