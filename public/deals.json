@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-305f9802",
+    "title": "Computador Acer All In One C24",
+    "description": "🎁 Computador Acer All In One C24-2YE13U5UNL-BR11 Intel Core i5-1334U de 13ª geração,16GB RAM 512GB SSD, 23,8”, Full HD 120HZ, Webcam, Windows 11 Sem Teclado e Mouse  🔥 Por R$ 4.698...",
+    "originalPrice": null,
+    "currentPrice": 4698.99,
+    "discountPercentage": null,
+    "couponCode": "25IMPERDIVEL",
+    "affiliateUrl": "https://www.amazon.com.br/dp/B082WGSGLL?tag=loucuradeo0dc-20",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-305f9802.jpg",
+    "store": "amazon",
+    "category": "informatica",
+    "isHot": false,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-28T03:01:43.214843+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-a025cc8c",
     "title": "Ssd 1tb Western Digital Green Sn350 Nvme Gen3 M2 2280 Azul",
     "description": "🔥 Ssd 1tb Western Digital Green Sn350 Nvme, Gen3, M.2 2280 Azul  🚨 R$ 599 🎟️ Cupom: ULTIMACHANCE + BFMP200  🛒 Compre com desconto aqui: https://www.mercadolivre.com.br/ssd-1tb-west...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-28T01:39:46.120674+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-81e18ef5",
-    "title": "Notebook ASUS Vivobook 15 AMD Ryzen 7, 8GB, 512GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - M1502",
-    "description": "🎁 Notebook ASUS Vivobook 15 AMD Ryzen 7, 8GB, 512GB SSD, KeepOS/Linux, 15.6'' FHD, Cool Silver - M1502YA-NJ611  🔥 POR: R$ 2.714,15 🎟️ Cupom: 25IMPERDIVEL  🛒 Compre aqui:  ⚠️ Anúnci...",
-    "originalPrice": null,
-    "currentPrice": 2714.15,
-    "discountPercentage": null,
-    "couponCode": "25IMPERDIVEL",
-    "affiliateUrl": "https://www.amazon.com.br/dp/B0F84PXR9V?tag=loucuradeo0dc-20",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-81e18ef5.jpg",
-    "store": "amazon",
-    "category": "informatica",
-    "isHot": false,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-28T01:38:43.960856+00:00",
     "likesCount": 1
   }
 ]
