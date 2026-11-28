@@ -1,5 +1,24 @@
 [
   {
+    "id": "deal-3ca1371f",
+    "title": "Camiseta Algodo Gota Pica Pau Bordado Reserva",
+    "description": "BORDADA DA RESERVA NO PRECIN  Camiseta Reserva Bordado Gota Pica Pau    De R$ 129 por R$ 67 no Pix Use o Cupom: PROMOFASHION 🎟️ + Selecione Pix  Loja Oficial Reserva no ML  🛒 Compr...",
+    "originalPrice": 129.0,
+    "currentPrice": 67.0,
+    "discountPercentage": 48,
+    "couponCode": "PROMOFASHION",
+    "affiliateUrl": "https://produto.mercadolivre.com.br/MLB-5629133336-camiseta-algodo-gota-pica-pau-bordado-reserva-_JM?matt_word=vpn1234&matt_tool=12053995",
+    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-3ca1371f.jpg",
+    "store": "mercadolivre",
+    "category": "moda",
+    "isHot": true,
+    "isVerified": true,
+    "freeShipping": false,
+    "installment": null,
+    "createdAt": "2026-11-28T00:34:45.952130+00:00",
+    "likesCount": 1
+  },
+  {
     "id": "deal-650a96b9",
     "title": "Kit 3 Oversized Masculina Stretwear Basica Lisa Premium",
     "description": "15 CONTO CADA OVERSIZED  Kit com 3 Camiseta Oversized Algodão  De R$ 159 por R$ 47 no Pix  🛒 Compre com desconto aqui: https://produto.mercadolivre.com.br/MLB-4027416937-kit-3-over...",
@@ -1878,25 +1897,6 @@
     "freeShipping": false,
     "installment": null,
     "createdAt": "2026-11-27T23:10:48.865288+00:00",
-    "likesCount": 1
-  },
-  {
-    "id": "deal-caf0fad2",
-    "title": "Cadeira Escritorio Ajustavel Apoio Braco Tecido Respiravel Preto",
-    "description": "PERFEITA PRO SEU HOME OFFICE  Cadeira de Escritório Ergonômica Ravena Apoio Lombar e Nuca  De R$ 409 por R$ 132 no Pix  Loja Oficial WebShop no ML  🛒 Compre com desconto aqui: http...",
-    "originalPrice": 409.0,
-    "currentPrice": 132.0,
-    "discountPercentage": 68,
-    "couponCode": null,
-    "affiliateUrl": "https://www.mercadolivre.com.br/cadeira-escritorio-ajustavel-apoio-braco-tecido-respiravel-preto/p/MLB63335697?matt_word=vpn1234&matt_tool=12053995",
-    "imageUrl": "https://raw.githubusercontent.com/ecmesmo01/loucura-de-ofertas-web/main/public/images/deals/deal-caf0fad2.jpg",
-    "store": "mercadolivre",
-    "category": "casa",
-    "isHot": true,
-    "isVerified": true,
-    "freeShipping": false,
-    "installment": null,
-    "createdAt": "2026-11-27T23:10:46.279002+00:00",
     "likesCount": 1
   }
 ]
